@@ -1,0 +1,7 @@
+plan_id,payer_type,pbm,glucoren_tier,glucoren_prior_auth,glucoren_copay_after_deductible
+PL-COM-01,Commercial,PBM-A (CVS Caremark-like),Tier 2,No,45.0
+PL-COM-02,Commercial,PBM-B (Express Scripts-like),Tier 3,Yes,90.0
+PL-COM-03,Commercial HDHP,PBM-A (CVS Caremark-like),Tier 2,No,45.0
+PL-MED-01,Medicare Part D,PBM-C (Optum-like),Tier 3,Yes,47.0
+PL-MCD-01,Medicaid,State FFS,Preferred,No,3.0
+PL-CASH,Cash / uninsured,None,n/a,n/a,

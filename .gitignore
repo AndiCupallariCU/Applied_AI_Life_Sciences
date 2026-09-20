@@ -1,0 +1,15 @@
+# --- never publish instructor-only material (answer keys, truth files, build scripts)
+**/instructor material/
+**/_INSTRUCTOR_*
+
+# --- superseded drafts and working files
+**/_superseded April draft/
+pmsa_relevant.md
+_archive/
+
+# --- OS / editor / Office noise
+.DS_Store
+~$*
+**/.ipynb_checkpoints/
+__pycache__/
+*.pyc

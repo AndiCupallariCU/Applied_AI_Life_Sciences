@@ -1,0 +1,9 @@
+prescriber_npi,specialty,npi_type,city,state,hco_id,hco_name
+1234567893,Endocrinology,Type 1,NEW YORK,NY,HCO-001,Columbia Endocrine Associates
+1932145067,Endocrinology,Type 1,NEWARK,NJ,HCO-002,Garden State Diabetes Center
+1720394856,Internal Medicine,Type 1,BROOKLYN,NY,HCO-003,Kings County Primary Care
+1568923410,Family Medicine,Type 1,STAMFORD,CT,HCO-004,Coastal Family Health
+1487265930,Internal Medicine,Type 1,YONKERS,NY,HCO-005,Hudson Valley IDN — Yonkers Clinic
+1659873021,Nurse Practitioner,Type 1,JERSEY CITY,NJ,HCO-002,Garden State Diabetes Center
+1801234569,Cardiology,Type 1,NEW YORK,NY,HCO-006,Manhattan Heart Group
+1345678902,Family Medicine,Type 1,WHITE PLAINS,NY,HCO-005,Hudson Valley IDN — White Plains
