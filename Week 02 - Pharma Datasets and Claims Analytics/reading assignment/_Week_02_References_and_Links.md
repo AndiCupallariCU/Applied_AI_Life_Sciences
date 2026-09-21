@@ -6,14 +6,17 @@
 - `Week_02_Reading_Pack.docx` (this folder) — curated excerpts from the IQVIA white papers below, with reflection questions.
 - `Week_02_Claims_Data_Field_Guide.docx` (week folder) — reference; skim and keep.
 
-## IQVIA white papers quoted in the reading pack (PDFs in this folder)
-- *AI Alone Will Not Modernize the Life Sciences Enterprise* (Silvis, 2026) — `iqvia-info-solutions-leveraging-technology-article-2026.pdf`
-- *AI in Life Sciences Commercialization* (2025 survey) — `ai-in-life-sciences-commercialization-white-paper.pdf`
-- *Bridging the Evidence Gap: External Comparator Studies from Design to Reimbursement* (2025) — `bridging-the-evidence-gap-external-comparator-studies-from-design-to-reimbursement.pdf`
-- *The Evolving Role of Real-World Evidence in Oncology HTA Decision-Making* (2025) — `iqvia-the-evolving-role-of-real-world-evidence-in-oncology-hta-decision-making.pdf`
-- *The Path to CAR T-Cell Therapy: Barriers and Opportunities* (2025) — `iqvia-the-path-to-car-tcell-therapy-white-paper-2025.pdf`
-- *Self-Driving CAR for Hematologic Malignancies* (2025) — `self-driving-car-for-hematologic-malignancies.pdf`
-- *Trustworthy AI/ML for Patient Analytics and Research* (2025) — `trustworthy-aiml-for-patient-analytics-and-research---final.pdf`
+## Core white papers for this week (PDFs in this folder)
+Read in this order; together they cover the three learning objectives.
+- *Trustworthy AI/ML for Patient Analytics and Research* (IQVIA, 2025) — de-identification, tokenization, linkage and re-identification risk — `trustworthy-aiml-for-patient-analytics-and-research---final.pdf`
+- *Bridging the Evidence Gap: External Comparator Studies from Design to Reimbursement* (IQVIA, 2025) — "fit-for-purpose" data and the data continuum (claims vs. registries vs. EHR vs. chart review) — `bridging-the-evidence-gap-external-comparator-studies-from-design-to-reimbursement.pdf`
+- *The Path to CAR T-Cell Therapy: Barriers and Opportunities* (IQVIA, 2025) — the DLBCL referral funnel behind tonight's cohort case; claims used as the sampling frame — `iqvia-the-path-to-car-tcell-therapy-white-paper-2025.pdf`
+- *AI Alone Will Not Modernize the Life Sciences Enterprise* (IQVIA, Silvis 2026; 4 pages) — data quality as a front-line commercial risk — `iqvia-info-solutions-leveraging-technology-article-2026.pdf`
+
+Also quoted briefly in the reading pack, available in the course-wide `White papers` folder (optional): *AI in Life Sciences Commercialization* (2025 survey — the data-sufficiency statistics), *The Evolving Role of Real-World Evidence in Oncology HTA Decision-Making* (missing-data and NICE principles), *Self-Driving CAR for Hematologic Malignancies* (DLBCL epidemiology).
+
+## Companion reference
+- `Pharma_Commercial_Datasets_Multisource_Synthesis.docx` (this folder) — companion to `Pharma_Commercial_Datasets_Reference.docx` in the week folder; background on where each dataset category comes from.
 
 ## PMSA items (optional; member login may be required)
 - Webinar — *Improving Completeness and Accuracy of Real World Data*: https://www.pmsa.org/webinars/webinar-archive/item/improving-completeness-and-accuracy-of-real-world-data
