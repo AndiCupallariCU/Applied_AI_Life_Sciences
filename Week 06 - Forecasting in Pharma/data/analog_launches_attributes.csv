@@ -1,0 +1,9 @@
+analog,drug_class,line,route_and_setting,order_in_class,efficacy_delta_orr_pts,competitors_at_launch,launch_year
+CAR-T A,CAR-T,3L+,"IV, inpatient (cell therapy)",1,25,0,2018
+CAR-T B,CAR-T,2L,"IV, inpatient (cell therapy)",1,20,0,2022
+ADC combo,ADC + chemo-immuno,2L+,"IV, outpatient",1,15,1,2019
+mAb + IMiD combo,naked mAb + oral,2L+ (transplant-ineligible),IV + oral,1,10,2,2020
+Oral XPO1 inhibitor,oral small molecule,3L+,oral,1,4,3,2020
+Bispecific A (first in class),CD20×CD3 bispecific,3L+,"SC, outpatient step-up",1,22,2,2023
+"Bispecific B (second, +4 months)",CD20×CD3 bispecific,3L+,"IV, outpatient; fixed duration",2,20,3,2023
+ADC in 1L combo,ADC + chemo-immuno,1L,"IV, outpatient",1,6,0,2023

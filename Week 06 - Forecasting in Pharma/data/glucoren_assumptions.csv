@@ -1,0 +1,6 @@
+parameter,low,base,high,rationale
+glucoren_share_within_class,0.055,0.063,0.07,2025 observed from TRx ÷ class
+share_trend_per_year_pre_LOE,-0.004,-0.002,0.0,competitor entry Mar 2024
+loe_month,2027-07,2027-07,2028-01,compound patent; a Paragraph IV settlement could delay
+loe_erosion_12m,0.9,0.85,0.7,multi-source small molecule
+fills_per_treated_patient_year,8.2,8.8,9.4,persistence × 30-day and 90-day fills

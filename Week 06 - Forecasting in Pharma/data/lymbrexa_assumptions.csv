@@ -1,0 +1,28 @@
+id,category,assumption,unit,low,base,high,source_type,source,rationale
+E0,Epidemiology,"Incident DLBCL cases, 2016–2030",cases / yr,×0.95,dlbcl_epi_inputs.csv,×1.05,Data (synthetic),dlbcl_epi_inputs.csv (sum of age bands); Teras et al. 2016 for the age pattern,Stylized US incidence; rises ~2%/yr as the population ages
+E1,Epidemiology,Incident-case growth after 2030,% / yr,0.015,0.023,0.03,Data (synthetic),2026–2030 growth in dlbcl_epi_inputs.csv,Continue the aging trend
+E2,Epidemiology,Diagnosed and presenting,% of cases,0.95,0.97,0.98,Data (synthetic),"dlbcl_treatment_funnel.csv, age-weighted",Nearly all DLBCL is diagnosed — an aggressive lymphoma presents
+T1,Treatment,Treated in 1L,% of diagnosed,0.82,0.86,0.89,Data (synthetic),"dlbcl_treatment_funnel.csv, age-weighted",Lower in the 80+ band; checked against observed 1L starts (within 2%)
+T2,Treatment,"Progress to 2L (lifetime), one year later",% of 1L,0.26,0.31,0.36,Data + literature,"Week 2 cohort, Kaplan–Meier 36% at 36 mo; Sehn & Salles 2021 (>60% cured with R-CHOP)","KM on a treated claims cohort, trimmed for frail patients not re-treated"
+T3,Treatment,"Progress to 3L (lifetime), one year later",% of 2L,0.43,0.5,0.57,Data + judgment,"Week 2 cohort, Kaplan–Meier 61% at 24 mo",Cohort is younger than the market; adjusted down
+T4,Treatment,Later-lines multiplier (3L+ starts per 3L patient),×,1.14,1.24,1.34,Data (synthetic),dlbcl_treatment_funnel.csv,Some 3L patients start a 4L and 5L
+T5,Treatment,Lag between lines,years,1,1,1,Simplification,"Week 2 cohort: median 14 mo (1L→2L), 9 mo (2L→3L)",Rounded to one year; acceptable at annual grain
+B1,Brand,3L+ launch year,year,2027,2027,2027,Regulatory plan,PDUFA January 2027 (fictional),A 3-month delay would cost ~6% of 2027 revenue; not modeled
+B2,Brand,2L label — first full year,year,2030,2029,2028,Regulatory plan,Phase 3 readout; sBLA mid-2028 (fictional),Base models 2L from Jan 2029; high case brings it to 2028
+B3,Brand,Peak share of 3L+ starts,% of starts,0.1,0.15,0.2,Literature + analog,"Kalyanaram, Robinson & Urban 1995: share ≈ pioneer ÷ √order → 0.26 × 0.58",Third entrant in class; pioneer analog peaked at 0.26
+B4,Brand,Peak share of 2L starts,% of starts,0.06,0.1,0.14,Judgment,"2L crowded: CAR-T, ADC combination, chemo-immunotherapy",Lower than 3L+ because the 2L market has more options
+U1,Brand,Uptake: year 1 (% of peak share),% of peak,0.15,0.3,0.37,Analog,analog_launches_monthly.csv: outpatient analogs 0.24–0.37; CAR-T 0.08–0.12,Low = cell-therapy-like start; high = first bispecific
+U2,Brand,Uptake: year 2,% of peak,0.6,0.9,0.95,Analog,same: outpatient 0.89–0.99; CAR-T 0.49–0.63,
+U3,Brand,Uptake: year 3,% of peak,0.95,1.0,1.0,Analog,same: all analogs 0.90–1.06,
+U4,Brand,Uptake: year 4 onward,% of peak,1.0,1.0,1.0,Analog,same,Peak by year 3–4
+C1,Access,Coverage in launch year,% of starts reachable,0.55,0.7,0.85,Data + judgment,dlbcl_prescriber_3Lplus_starts.csv: top 10% of prescribers write 53% of starts,Formulary at the ~40 largest centers in year 1
+C2,Access,Coverage from year 2,% of starts reachable,0.9,0.95,0.97,Judgment,Long tail of community prescribers,
+D1,Persistence,Average months on therapy,months,5.0,6.0,7.5,Label + data,"8-cycle fixed course (label, fictional); persistence KM: analogs 5.9–9.4 mo; Cramer et al. 2008 definitions",Cap of 8 months minus early discontinuation
+D2,Persistence,Compliance (doses received),% of planned,0.92,0.95,0.97,Judgment,Dose delays and holds,
+P1,Price,List price (WAC) per 28-day month,$,18500,18500,18500,Pricing plan,Fictional,Held flat (no price increases modeled)
+P2,Price,Gross-to-net (share of WAC kept),%,0.72,0.76,0.8,Judgment,"Rebates, 340B, Medicare",
+L1,LOE,Loss-of-exclusivity year,year,2038,2039,2040,Patent calendar,Fictional; see IQVIA ADC paper for how exclusivity dates are read,
+L2,LOE,Share retained in the LOE year,% of pre-LOE,0.65,0.75,0.85,Judgment,Mid-year entry,
+L3,LOE,Share retained after the LOE year,% of pre-LOE,0.25,0.4,0.55,Literature + judgment,Grabowski et al. 2021: small-molecule brands keep ~23% of units at 1 yr; biologics erode slower,Biosimilar erosion assumed slower than generic
+F1,Budget,Launch-year phasing of starts,profile,,linear ramp (month m ∝ m),,Simplification,,Starts grow through the launch year
+F2,Budget,Phasing after the launch year,profile,,flat (1/12 per month),,Simplification,,No seasonality in oncology starts

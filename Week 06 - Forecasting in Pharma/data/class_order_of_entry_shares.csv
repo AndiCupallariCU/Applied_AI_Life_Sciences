@@ -1,0 +1,37 @@
+drug_class,entry_order,months_after_first,steady_state_share
+"Class A (biologic, immunology)",1,0,0.256
+"Class A (biologic, immunology)",2,38,0.198
+"Class A (biologic, immunology)",3,37,0.163
+"Class A (biologic, immunology)",4,11,0.139
+"Class A (biologic, immunology)",5,33,0.131
+"Class A (biologic, immunology)",6,32,0.114
+"Class B (oral, cardio-metabolic)",1,0,0.285
+"Class B (oral, cardio-metabolic)",2,12,0.237
+"Class B (oral, cardio-metabolic)",3,24,0.177
+"Class B (oral, cardio-metabolic)",4,20,0.159
+"Class B (oral, cardio-metabolic)",5,29,0.143
+"Class C (oral oncology, kinase)",1,0,0.377
+"Class C (oral oncology, kinase)",2,34,0.258
+"Class C (oral oncology, kinase)",3,31,0.203
+"Class C (oral oncology, kinase)",4,7,0.162
+"Class D (ADC, oncology)",1,0,0.472
+"Class D (ADC, oncology)",2,10,0.298
+"Class D (ADC, oncology)",3,19,0.23
+"Class E (injectable, metabolic)",1,0,0.343
+"Class E (injectable, metabolic)",2,38,0.244
+"Class E (injectable, metabolic)",3,10,0.223
+"Class E (injectable, metabolic)",4,16,0.191
+"Class F (bispecific, heme)",1,0,0.434
+"Class F (bispecific, heme)",2,22,0.317
+"Class F (bispecific, heme)",3,23,0.249
+Class G (antiviral),1,0,0.368
+Class G (antiviral),2,26,0.209
+Class G (antiviral),3,11,0.166
+Class G (antiviral),4,36,0.137
+Class G (antiviral),5,22,0.121
+"Class H (CNS, oral)",1,0,0.283
+"Class H (CNS, oral)",2,25,0.193
+"Class H (CNS, oral)",3,19,0.155
+"Class H (CNS, oral)",4,20,0.142
+"Class H (CNS, oral)",5,25,0.122
+"Class H (CNS, oral)",6,16,0.106

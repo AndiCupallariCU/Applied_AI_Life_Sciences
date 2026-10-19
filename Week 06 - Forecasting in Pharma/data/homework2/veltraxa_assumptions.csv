@@ -1,0 +1,6 @@
+id,category,assumption,unit,low,base,high,source_type,source,rationale
+B1,Brand,Launch year (2L+ relapsed/refractory MCL),year,2027,2027,2027,Regulatory plan,PDUFA July 2027 (fictional),Launch mid-year: year-1 uptake should reflect ~6 months on market
+D2,Persistence,Compliance (doses taken),% of planned,0.85,0.9,0.94,Judgment,Oral therapy adherence,
+P1,Price,List price (WAC) per 28-day month,$,16800,16800,16800,Pricing plan,Fictional,Held flat
+P2,Price,Gross-to-net (share of WAC kept),%,0.7,0.75,0.79,Judgment,Part D + commercial mix,
+L1,LOE,Loss-of-exclusivity year,year,2040,2041,2042,Patent calendar,Fictional,

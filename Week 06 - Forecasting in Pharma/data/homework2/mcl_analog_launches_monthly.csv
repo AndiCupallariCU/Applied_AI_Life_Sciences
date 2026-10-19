@@ -1,0 +1,217 @@
+analog,month_since_launch,share_of_line_starts,eligible_line_starts,new_patient_starts
+"BTKi A (first in class, 2L+ MCL)",1,0.0054,303,2
+"BTKi A (first in class, 2L+ MCL)",2,0.0036,294,1
+"BTKi A (first in class, 2L+ MCL)",3,0.0299,298,9
+"BTKi A (first in class, 2L+ MCL)",4,0.027,288,8
+"BTKi A (first in class, 2L+ MCL)",5,0.0479,286,14
+"BTKi A (first in class, 2L+ MCL)",6,0.0601,292,18
+"BTKi A (first in class, 2L+ MCL)",7,0.0703,305,21
+"BTKi A (first in class, 2L+ MCL)",8,0.0861,312,27
+"BTKi A (first in class, 2L+ MCL)",9,0.1092,297,32
+"BTKi A (first in class, 2L+ MCL)",10,0.1452,309,45
+"BTKi A (first in class, 2L+ MCL)",11,0.183,290,53
+"BTKi A (first in class, 2L+ MCL)",12,0.1977,331,65
+"BTKi A (first in class, 2L+ MCL)",13,0.2216,296,66
+"BTKi A (first in class, 2L+ MCL)",14,0.2525,314,79
+"BTKi A (first in class, 2L+ MCL)",15,0.2777,313,87
+"BTKi A (first in class, 2L+ MCL)",16,0.321,323,104
+"BTKi A (first in class, 2L+ MCL)",17,0.3448,304,105
+"BTKi A (first in class, 2L+ MCL)",18,0.334,332,111
+"BTKi A (first in class, 2L+ MCL)",19,0.3708,327,121
+"BTKi A (first in class, 2L+ MCL)",20,0.3958,307,121
+"BTKi A (first in class, 2L+ MCL)",21,0.3869,322,124
+"BTKi A (first in class, 2L+ MCL)",22,0.3812,326,124
+"BTKi A (first in class, 2L+ MCL)",23,0.4212,302,127
+"BTKi A (first in class, 2L+ MCL)",24,0.4323,317,137
+"BTKi A (first in class, 2L+ MCL)",25,0.4325,316,137
+"BTKi A (first in class, 2L+ MCL)",26,0.4182,316,132
+"BTKi A (first in class, 2L+ MCL)",27,0.4241,316,134
+"BTKi A (first in class, 2L+ MCL)",28,0.442,336,148
+"BTKi A (first in class, 2L+ MCL)",29,0.4587,333,153
+"BTKi A (first in class, 2L+ MCL)",30,0.4522,329,149
+"BTKi A (first in class, 2L+ MCL)",31,0.4191,328,138
+"BTKi A (first in class, 2L+ MCL)",32,0.4293,328,141
+"BTKi A (first in class, 2L+ MCL)",33,0.4726,334,158
+"BTKi A (first in class, 2L+ MCL)",34,0.4352,337,147
+"BTKi A (first in class, 2L+ MCL)",35,0.4485,316,142
+"BTKi A (first in class, 2L+ MCL)",36,0.4404,339,149
+"BTKi B (second, more selective)",1,0.0,334,0
+"BTKi B (second, more selective)",2,0.0017,321,1
+"BTKi B (second, more selective)",3,0.0147,323,5
+"BTKi B (second, more selective)",4,0.0309,338,10
+"BTKi B (second, more selective)",5,0.04,319,13
+"BTKi B (second, more selective)",6,0.0499,321,16
+"BTKi B (second, more selective)",7,0.0616,333,20
+"BTKi B (second, more selective)",8,0.0913,320,29
+"BTKi B (second, more selective)",9,0.1136,332,38
+"BTKi B (second, more selective)",10,0.1236,345,43
+"BTKi B (second, more selective)",11,0.1442,326,47
+"BTKi B (second, more selective)",12,0.1719,313,54
+"BTKi B (second, more selective)",13,0.2095,377,79
+"BTKi B (second, more selective)",14,0.2169,319,69
+"BTKi B (second, more selective)",15,0.2253,334,75
+"BTKi B (second, more selective)",16,0.261,326,85
+"BTKi B (second, more selective)",17,0.2715,329,89
+"BTKi B (second, more selective)",18,0.2596,333,86
+"BTKi B (second, more selective)",19,0.299,322,96
+"BTKi B (second, more selective)",20,0.2992,339,101
+"BTKi B (second, more selective)",21,0.2875,323,93
+"BTKi B (second, more selective)",22,0.3025,366,111
+"BTKi B (second, more selective)",23,0.2754,345,95
+"BTKi B (second, more selective)",24,0.3054,346,106
+"BTKi B (second, more selective)",25,0.2928,349,102
+"BTKi B (second, more selective)",26,0.2971,351,104
+"BTKi B (second, more selective)",27,0.2904,357,104
+"BTKi B (second, more selective)",28,0.3051,354,108
+"BTKi B (second, more selective)",29,0.2993,347,104
+"BTKi B (second, more selective)",30,0.3063,360,110
+"BTKi B (second, more selective)",31,0.2732,348,95
+"BTKi B (second, more selective)",32,0.3017,367,111
+"BTKi B (second, more selective)",33,0.3077,356,110
+"BTKi B (second, more selective)",34,0.2965,340,101
+"BTKi B (second, more selective)",35,0.3028,366,111
+"BTKi B (second, more selective)",36,0.292,354,103
+BTKi C (third),1,0.0,332,0
+BTKi C (third),2,0.002,355,1
+BTKi C (third),3,0.0128,334,4
+BTKi C (third),4,0.0,328,0
+BTKi C (third),5,0.0339,327,11
+BTKi C (third),6,0.0363,329,12
+BTKi C (third),7,0.0481,330,16
+BTKi C (third),8,0.0616,349,21
+BTKi C (third),9,0.0825,339,28
+BTKi C (third),10,0.1019,330,34
+BTKi C (third),11,0.1148,328,38
+BTKi C (third),12,0.1299,342,44
+BTKi C (third),13,0.1586,347,55
+BTKi C (third),14,0.1657,355,59
+BTKi C (third),15,0.174,347,60
+BTKi C (third),16,0.196,343,67
+BTKi C (third),17,0.1836,344,63
+BTKi C (third),18,0.1912,355,68
+BTKi C (third),19,0.2162,351,76
+BTKi C (third),20,0.2202,345,76
+BTKi C (third),21,0.2271,349,79
+BTKi C (third),22,0.2434,369,90
+BTKi C (third),23,0.2225,341,76
+BTKi C (third),24,0.2083,363,76
+BTKi C (third),25,0.2217,345,77
+BTKi C (third),26,0.2099,363,76
+BTKi C (third),27,0.2168,348,75
+BTKi C (third),28,0.2213,353,78
+BTKi C (third),29,0.2212,357,79
+BTKi C (third),30,0.2223,360,80
+BTKi C (third),31,0.22,337,74
+BTKi C (third),32,0.2065,350,72
+BTKi C (third),33,0.2256,379,85
+BTKi C (third),34,0.2247,353,79
+BTKi C (third),35,0.2393,365,87
+BTKi C (third),36,0.2096,374,78
+"CAR-T (MCL, 3L+)",1,0.0063,193,1
+"CAR-T (MCL, 3L+)",2,0.0061,202,1
+"CAR-T (MCL, 3L+)",3,0.0,192,0
+"CAR-T (MCL, 3L+)",4,0.0035,192,1
+"CAR-T (MCL, 3L+)",5,0.0127,184,2
+"CAR-T (MCL, 3L+)",6,0.0036,190,1
+"CAR-T (MCL, 3L+)",7,0.0072,188,1
+"CAR-T (MCL, 3L+)",8,0.0215,197,4
+"CAR-T (MCL, 3L+)",9,0.0215,194,4
+"CAR-T (MCL, 3L+)",10,0.0397,194,8
+"CAR-T (MCL, 3L+)",11,0.0246,200,5
+"CAR-T (MCL, 3L+)",12,0.0289,202,6
+"CAR-T (MCL, 3L+)",13,0.0428,193,8
+"CAR-T (MCL, 3L+)",14,0.0509,188,10
+"CAR-T (MCL, 3L+)",15,0.0616,193,12
+"CAR-T (MCL, 3L+)",16,0.0722,210,15
+"CAR-T (MCL, 3L+)",17,0.0864,193,17
+"CAR-T (MCL, 3L+)",18,0.0871,205,18
+"CAR-T (MCL, 3L+)",19,0.1014,210,21
+"CAR-T (MCL, 3L+)",20,0.1107,207,23
+"CAR-T (MCL, 3L+)",21,0.1064,213,23
+"CAR-T (MCL, 3L+)",22,0.1215,209,25
+"CAR-T (MCL, 3L+)",23,0.1417,196,28
+"CAR-T (MCL, 3L+)",24,0.1556,199,31
+"CAR-T (MCL, 3L+)",25,0.1428,210,30
+"CAR-T (MCL, 3L+)",26,0.1454,197,29
+"CAR-T (MCL, 3L+)",27,0.1552,205,32
+"CAR-T (MCL, 3L+)",28,0.1573,200,31
+"CAR-T (MCL, 3L+)",29,0.1575,199,31
+"CAR-T (MCL, 3L+)",30,0.1637,209,34
+"CAR-T (MCL, 3L+)",31,0.1829,209,38
+"CAR-T (MCL, 3L+)",32,0.169,205,35
+"CAR-T (MCL, 3L+)",33,0.1786,201,36
+"CAR-T (MCL, 3L+)",34,0.1805,204,37
+"CAR-T (MCL, 3L+)",35,0.1722,222,38
+"CAR-T (MCL, 3L+)",36,0.1828,215,39
+Non-covalent BTKi (post-BTKi),1,0.0064,189,1
+Non-covalent BTKi (post-BTKi),2,0.008,208,2
+Non-covalent BTKi (post-BTKi),3,0.0153,198,3
+Non-covalent BTKi (post-BTKi),4,0.0245,203,5
+Non-covalent BTKi (post-BTKi),5,0.0354,203,7
+Non-covalent BTKi (post-BTKi),6,0.0579,202,12
+Non-covalent BTKi (post-BTKi),7,0.0787,208,16
+Non-covalent BTKi (post-BTKi),8,0.1073,197,21
+Non-covalent BTKi (post-BTKi),9,0.1249,201,25
+Non-covalent BTKi (post-BTKi),10,0.1413,196,28
+Non-covalent BTKi (post-BTKi),11,0.1806,203,37
+Non-covalent BTKi (post-BTKi),12,0.1855,198,37
+Non-covalent BTKi (post-BTKi),13,0.2105,204,43
+Non-covalent BTKi (post-BTKi),14,0.2167,209,45
+Non-covalent BTKi (post-BTKi),15,0.244,217,53
+Non-covalent BTKi (post-BTKi),16,0.2631,203,53
+Non-covalent BTKi (post-BTKi),17,0.2576,213,55
+Non-covalent BTKi (post-BTKi),18,0.2442,209,51
+Non-covalent BTKi (post-BTKi),19,0.2348,214,50
+Non-covalent BTKi (post-BTKi),20,0.2783,215,60
+Non-covalent BTKi (post-BTKi),21,0.2853,202,58
+Non-covalent BTKi (post-BTKi),22,0.2674,217,58
+Non-covalent BTKi (post-BTKi),23,0.274,209,57
+Non-covalent BTKi (post-BTKi),24,0.277,209,58
+Non-covalent BTKi (post-BTKi),25,0.2695,217,58
+Non-covalent BTKi (post-BTKi),26,0.2925,220,64
+Non-covalent BTKi (post-BTKi),27,0.2798,216,60
+Non-covalent BTKi (post-BTKi),28,0.2786,212,59
+Non-covalent BTKi (post-BTKi),29,0.2889,235,68
+Non-covalent BTKi (post-BTKi),30,0.2935,224,66
+Non-covalent BTKi (post-BTKi),31,0.2614,217,57
+Non-covalent BTKi (post-BTKi),32,0.2744,218,60
+Non-covalent BTKi (post-BTKi),33,0.2752,221,61
+Non-covalent BTKi (post-BTKi),34,0.2995,217,65
+Non-covalent BTKi (post-BTKi),35,0.2917,227,66
+Non-covalent BTKi (post-BTKi),36,0.2967,224,66
+"Bispecific (3L+ MCL, off-label use)",1,0.0,195,0
+"Bispecific (3L+ MCL, off-label use)",2,0.0041,207,1
+"Bispecific (3L+ MCL, off-label use)",3,0.0149,197,3
+"Bispecific (3L+ MCL, off-label use)",4,0.0073,193,1
+"Bispecific (3L+ MCL, off-label use)",5,0.0135,203,3
+"Bispecific (3L+ MCL, off-label use)",6,0.0112,206,2
+"Bispecific (3L+ MCL, off-label use)",7,0.024,203,5
+"Bispecific (3L+ MCL, off-label use)",8,0.0237,201,5
+"Bispecific (3L+ MCL, off-label use)",9,0.0284,208,6
+"Bispecific (3L+ MCL, off-label use)",10,0.0484,202,10
+"Bispecific (3L+ MCL, off-label use)",11,0.0482,217,10
+"Bispecific (3L+ MCL, off-label use)",12,0.0657,210,14
+"Bispecific (3L+ MCL, off-label use)",13,0.0702,202,14
+"Bispecific (3L+ MCL, off-label use)",14,0.0595,207,12
+"Bispecific (3L+ MCL, off-label use)",15,0.0807,206,17
+"Bispecific (3L+ MCL, off-label use)",16,0.0784,222,17
+"Bispecific (3L+ MCL, off-label use)",17,0.0891,205,18
+"Bispecific (3L+ MCL, off-label use)",18,0.1032,200,21
+"Bispecific (3L+ MCL, off-label use)",19,0.0956,216,21
+"Bispecific (3L+ MCL, off-label use)",20,0.1198,205,25
+"Bispecific (3L+ MCL, off-label use)",21,0.0931,222,21
+"Bispecific (3L+ MCL, off-label use)",22,0.1131,216,24
+"Bispecific (3L+ MCL, off-label use)",23,0.1125,219,25
+"Bispecific (3L+ MCL, off-label use)",24,0.1224,216,26
+"Bispecific (3L+ MCL, off-label use)",25,0.1201,215,26
+"Bispecific (3L+ MCL, off-label use)",26,0.1196,222,27
+"Bispecific (3L+ MCL, off-label use)",27,0.1139,230,26
+"Bispecific (3L+ MCL, off-label use)",28,0.112,218,24
+"Bispecific (3L+ MCL, off-label use)",29,0.1212,220,27
+"Bispecific (3L+ MCL, off-label use)",30,0.1134,221,25
+"Bispecific (3L+ MCL, off-label use)",31,0.1247,215,27
+"Bispecific (3L+ MCL, off-label use)",32,0.1294,209,27
+"Bispecific (3L+ MCL, off-label use)",33,0.1207,219,26
+"Bispecific (3L+ MCL, off-label use)",34,0.1257,223,28
+"Bispecific (3L+ MCL, off-label use)",35,0.1064,206,22
+"Bispecific (3L+ MCL, off-label use)",36,0.1184,226,27

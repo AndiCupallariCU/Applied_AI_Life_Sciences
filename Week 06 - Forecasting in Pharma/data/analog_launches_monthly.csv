@@ -1,0 +1,289 @@
+analog,month_since_launch,share_of_line_starts,eligible_line_starts,new_patient_starts
+CAR-T A,1,0.0,528,0
+CAR-T A,2,0.0,497,0
+CAR-T A,3,0.0,519,0
+CAR-T A,4,0.0,537,0
+CAR-T A,5,0.0089,518,5
+CAR-T A,6,0.0158,554,9
+CAR-T A,7,0.0275,520,14
+CAR-T A,8,0.0181,536,10
+CAR-T A,9,0.0244,553,13
+CAR-T A,10,0.033,553,18
+CAR-T A,11,0.0329,534,18
+CAR-T A,12,0.0413,531,22
+CAR-T A,13,0.0535,541,29
+CAR-T A,14,0.0382,537,21
+CAR-T A,15,0.0584,555,32
+CAR-T A,16,0.0581,543,32
+CAR-T A,17,0.0911,590,54
+CAR-T A,18,0.0924,548,51
+CAR-T A,19,0.1021,562,57
+CAR-T A,20,0.112,586,66
+CAR-T A,21,0.1274,572,73
+CAR-T A,22,0.1409,568,80
+CAR-T A,23,0.1593,559,89
+CAR-T A,24,0.1595,539,86
+CAR-T A,25,0.1601,612,98
+CAR-T A,26,0.1645,584,96
+CAR-T A,27,0.1814,578,105
+CAR-T A,28,0.1901,588,112
+CAR-T A,29,0.1856,558,104
+CAR-T A,30,0.1827,568,104
+CAR-T A,31,0.1876,589,110
+CAR-T A,32,0.1976,606,120
+CAR-T A,33,0.2102,630,132
+CAR-T A,34,0.2138,595,127
+CAR-T A,35,0.1966,595,117
+CAR-T A,36,0.211,606,128
+CAR-T B,1,0.0,664,0
+CAR-T B,2,0.0092,634,6
+CAR-T B,3,0.005,613,3
+CAR-T B,4,0.0126,647,8
+CAR-T B,5,0.0134,623,8
+CAR-T B,6,0.025,643,16
+CAR-T B,7,0.0214,669,14
+CAR-T B,8,0.041,641,26
+CAR-T B,9,0.0339,655,22
+CAR-T B,10,0.0332,699,23
+CAR-T B,11,0.0385,684,26
+CAR-T B,12,0.0628,630,40
+CAR-T B,13,0.0852,700,60
+CAR-T B,14,0.0739,673,50
+CAR-T B,15,0.0945,664,63
+CAR-T B,16,0.0919,681,63
+CAR-T B,17,0.1068,673,72
+CAR-T B,18,0.1294,724,94
+CAR-T B,19,0.1406,679,95
+CAR-T B,20,0.1382,649,90
+CAR-T B,21,0.153,698,107
+CAR-T B,22,0.1739,669,116
+CAR-T B,23,0.173,667,115
+CAR-T B,24,0.1492,721,108
+CAR-T B,25,0.1794,709,127
+CAR-T B,26,0.1878,728,137
+CAR-T B,27,0.2137,709,152
+CAR-T B,28,0.1857,711,132
+CAR-T B,29,0.1829,717,131
+CAR-T B,30,0.2094,698,146
+CAR-T B,31,0.197,719,142
+CAR-T B,32,0.203,710,144
+CAR-T B,33,0.203,754,153
+CAR-T B,34,0.2015,719,145
+CAR-T B,35,0.2002,739,148
+CAR-T B,36,0.2022,763,154
+ADC combo,1,0.0069,1155,8
+ADC combo,2,0.0116,1196,14
+ADC combo,3,0.0042,1200,5
+ADC combo,4,0.0266,1153,31
+ADC combo,5,0.0292,1198,35
+ADC combo,6,0.0417,1173,49
+ADC combo,7,0.0593,1208,72
+ADC combo,8,0.0655,1136,74
+ADC combo,9,0.0698,1123,78
+ADC combo,10,0.0714,1207,86
+ADC combo,11,0.1164,1178,137
+ADC combo,12,0.1262,1263,159
+ADC combo,13,0.1278,1197,153
+ADC combo,14,0.1535,1217,187
+ADC combo,15,0.1535,1262,194
+ADC combo,16,0.1749,1214,212
+ADC combo,17,0.19,1225,233
+ADC combo,18,0.1983,1194,237
+ADC combo,19,0.2074,1201,249
+ADC combo,20,0.1872,1251,234
+ADC combo,21,0.1877,1256,236
+ADC combo,22,0.1925,1281,247
+ADC combo,23,0.2089,1259,263
+ADC combo,24,0.2024,1262,255
+ADC combo,25,0.1938,1213,235
+ADC combo,26,0.2064,1214,251
+ADC combo,27,0.2052,1256,258
+ADC combo,28,0.2106,1285,271
+ADC combo,29,0.2127,1228,261
+ADC combo,30,0.2197,1262,277
+ADC combo,31,0.1882,1311,247
+ADC combo,32,0.1938,1293,251
+ADC combo,33,0.1888,1293,244
+ADC combo,34,0.1853,1304,242
+ADC combo,35,0.177,1284,227
+ADC combo,36,0.1745,1275,222
+mAb + IMiD combo,1,0.0041,1154,5
+mAb + IMiD combo,2,0.0,1169,0
+mAb + IMiD combo,3,0.0,1177,0
+mAb + IMiD combo,4,0.008,1161,9
+mAb + IMiD combo,5,0.0068,1182,8
+mAb + IMiD combo,6,0.007,1192,8
+mAb + IMiD combo,7,0.0154,1207,19
+mAb + IMiD combo,8,0.0191,1170,22
+mAb + IMiD combo,9,0.0242,1238,30
+mAb + IMiD combo,10,0.0298,1135,34
+mAb + IMiD combo,11,0.0382,1209,46
+mAb + IMiD combo,12,0.0504,1275,64
+mAb + IMiD combo,13,0.0438,1252,55
+mAb + IMiD combo,14,0.0475,1196,57
+mAb + IMiD combo,15,0.0543,1197,65
+mAb + IMiD combo,16,0.0656,1252,82
+mAb + IMiD combo,17,0.0667,1236,83
+mAb + IMiD combo,18,0.0772,1272,98
+mAb + IMiD combo,19,0.0818,1185,97
+mAb + IMiD combo,20,0.0822,1219,100
+mAb + IMiD combo,21,0.0801,1193,96
+mAb + IMiD combo,22,0.0828,1260,104
+mAb + IMiD combo,23,0.1018,1209,123
+mAb + IMiD combo,24,0.0829,1295,107
+mAb + IMiD combo,25,0.0907,1301,118
+mAb + IMiD combo,26,0.0919,1293,119
+mAb + IMiD combo,27,0.0934,1285,120
+mAb + IMiD combo,28,0.088,1284,113
+mAb + IMiD combo,29,0.1094,1303,143
+mAb + IMiD combo,30,0.0987,1269,125
+mAb + IMiD combo,31,0.1099,1242,137
+mAb + IMiD combo,32,0.0928,1302,121
+mAb + IMiD combo,33,0.1144,1285,147
+mAb + IMiD combo,34,0.0913,1328,121
+mAb + IMiD combo,35,0.1006,1269,128
+mAb + IMiD combo,36,0.0869,1326,115
+Oral XPO1 inhibitor,1,0.0,512,0
+Oral XPO1 inhibitor,2,0.0058,549,3
+Oral XPO1 inhibitor,3,0.0,529,0
+Oral XPO1 inhibitor,4,0.0046,522,2
+Oral XPO1 inhibitor,5,0.0058,529,3
+Oral XPO1 inhibitor,6,0.0068,542,4
+Oral XPO1 inhibitor,7,0.0055,529,3
+Oral XPO1 inhibitor,8,0.0074,494,4
+Oral XPO1 inhibitor,9,0.01,547,5
+Oral XPO1 inhibitor,10,0.0077,526,4
+Oral XPO1 inhibitor,11,0.0172,532,9
+Oral XPO1 inhibitor,12,0.0089,517,5
+Oral XPO1 inhibitor,13,0.0036,561,2
+Oral XPO1 inhibitor,14,0.0168,572,10
+Oral XPO1 inhibitor,15,0.0177,535,9
+Oral XPO1 inhibitor,16,0.0215,544,12
+Oral XPO1 inhibitor,17,0.0207,555,12
+Oral XPO1 inhibitor,18,0.0122,551,7
+Oral XPO1 inhibitor,19,0.0176,536,9
+Oral XPO1 inhibitor,20,0.0168,562,9
+Oral XPO1 inhibitor,21,0.0274,570,16
+Oral XPO1 inhibitor,22,0.02,546,11
+Oral XPO1 inhibitor,23,0.0239,577,14
+Oral XPO1 inhibitor,24,0.0327,556,18
+Oral XPO1 inhibitor,25,0.0279,537,15
+Oral XPO1 inhibitor,26,0.0319,563,18
+Oral XPO1 inhibitor,27,0.0418,580,24
+Oral XPO1 inhibitor,28,0.0402,599,24
+Oral XPO1 inhibitor,29,0.0332,591,20
+Oral XPO1 inhibitor,30,0.0383,541,21
+Oral XPO1 inhibitor,31,0.0394,594,23
+Oral XPO1 inhibitor,32,0.0363,610,22
+Oral XPO1 inhibitor,33,0.0491,604,30
+Oral XPO1 inhibitor,34,0.062,585,36
+Oral XPO1 inhibitor,35,0.0397,604,24
+Oral XPO1 inhibitor,36,0.0411,607,25
+Bispecific A (first in class),1,0.0027,555,1
+Bispecific A (first in class),2,0.0167,538,9
+Bispecific A (first in class),3,0.0281,580,16
+Bispecific A (first in class),4,0.0429,579,25
+Bispecific A (first in class),5,0.0538,540,29
+Bispecific A (first in class),6,0.0738,588,43
+Bispecific A (first in class),7,0.0932,560,52
+Bispecific A (first in class),8,0.1177,542,64
+Bispecific A (first in class),9,0.152,590,90
+Bispecific A (first in class),10,0.1784,606,108
+Bispecific A (first in class),11,0.2034,602,122
+Bispecific A (first in class),12,0.2118,580,123
+Bispecific A (first in class),13,0.2184,594,130
+Bispecific A (first in class),14,0.227,590,134
+Bispecific A (first in class),15,0.2323,594,138
+Bispecific A (first in class),16,0.2622,612,161
+Bispecific A (first in class),17,0.2514,593,149
+Bispecific A (first in class),18,0.2474,598,148
+Bispecific A (first in class),19,0.2409,621,150
+Bispecific A (first in class),20,0.2541,592,150
+Bispecific A (first in class),21,0.2607,600,156
+Bispecific A (first in class),22,0.2634,609,160
+Bispecific A (first in class),23,0.2368,636,151
+Bispecific A (first in class),24,0.2865,605,173
+Bispecific A (first in class),25,0.2446,629,154
+Bispecific A (first in class),26,0.2732,604,165
+Bispecific A (first in class),27,0.2745,628,172
+Bispecific A (first in class),28,0.2814,632,178
+Bispecific A (first in class),29,0.2787,638,178
+Bispecific A (first in class),30,0.2638,613,162
+Bispecific A (first in class),31,0.2561,646,165
+Bispecific A (first in class),32,0.2619,642,168
+Bispecific A (first in class),33,0.2647,650,172
+Bispecific A (first in class),34,0.2578,646,167
+Bispecific A (first in class),35,0.2665,632,168
+Bispecific A (first in class),36,0.2642,668,177
+"Bispecific B (second, +4 months)",1,0.0007,559,0
+"Bispecific B (second, +4 months)",2,0.0084,590,5
+"Bispecific B (second, +4 months)",3,0.0067,577,4
+"Bispecific B (second, +4 months)",4,0.0039,574,2
+"Bispecific B (second, +4 months)",5,0.026,570,15
+"Bispecific B (second, +4 months)",6,0.0405,603,24
+"Bispecific B (second, +4 months)",7,0.039,549,21
+"Bispecific B (second, +4 months)",8,0.0544,624,34
+"Bispecific B (second, +4 months)",9,0.0812,558,45
+"Bispecific B (second, +4 months)",10,0.1067,579,62
+"Bispecific B (second, +4 months)",11,0.1021,600,61
+"Bispecific B (second, +4 months)",12,0.1351,593,80
+"Bispecific B (second, +4 months)",13,0.1233,609,75
+"Bispecific B (second, +4 months)",14,0.1445,616,89
+"Bispecific B (second, +4 months)",15,0.1375,587,81
+"Bispecific B (second, +4 months)",16,0.1419,627,89
+"Bispecific B (second, +4 months)",17,0.1537,585,90
+"Bispecific B (second, +4 months)",18,0.1557,578,90
+"Bispecific B (second, +4 months)",19,0.1541,596,92
+"Bispecific B (second, +4 months)",20,0.1618,581,94
+"Bispecific B (second, +4 months)",21,0.1614,611,99
+"Bispecific B (second, +4 months)",22,0.1479,647,96
+"Bispecific B (second, +4 months)",23,0.1695,604,102
+"Bispecific B (second, +4 months)",24,0.1698,606,103
+"Bispecific B (second, +4 months)",25,0.182,603,110
+"Bispecific B (second, +4 months)",26,0.1657,638,106
+"Bispecific B (second, +4 months)",27,0.1733,601,104
+"Bispecific B (second, +4 months)",28,0.1652,626,103
+"Bispecific B (second, +4 months)",29,0.1618,585,95
+"Bispecific B (second, +4 months)",30,0.1669,620,104
+"Bispecific B (second, +4 months)",31,0.1611,621,100
+"Bispecific B (second, +4 months)",32,0.1846,631,116
+"Bispecific B (second, +4 months)",33,0.162,594,96
+"Bispecific B (second, +4 months)",34,0.1761,630,111
+"Bispecific B (second, +4 months)",35,0.1692,650,110
+"Bispecific B (second, +4 months)",36,0.1751,623,109
+ADC in 1L combo,1,0.0029,1549,4
+ADC in 1L combo,2,0.0124,1463,18
+ADC in 1L combo,3,0.0286,1476,42
+ADC in 1L combo,4,0.0275,1482,41
+ADC in 1L combo,5,0.0258,1480,38
+ADC in 1L combo,6,0.0505,1618,82
+ADC in 1L combo,7,0.0601,1598,96
+ADC in 1L combo,8,0.0765,1532,117
+ADC in 1L combo,9,0.1152,1530,176
+ADC in 1L combo,10,0.1194,1640,196
+ADC in 1L combo,11,0.1517,1562,237
+ADC in 1L combo,12,0.1794,1633,293
+ADC in 1L combo,13,0.2194,1591,349
+ADC in 1L combo,14,0.2351,1661,390
+ADC in 1L combo,15,0.2205,1597,352
+ADC in 1L combo,16,0.2513,1608,404
+ADC in 1L combo,17,0.2587,1610,416
+ADC in 1L combo,18,0.2453,1573,386
+ADC in 1L combo,19,0.2787,1640,457
+ADC in 1L combo,20,0.2847,1635,465
+ADC in 1L combo,21,0.2898,1538,446
+ADC in 1L combo,22,0.2872,1606,461
+ADC in 1L combo,23,0.2904,1652,480
+ADC in 1L combo,24,0.2831,1653,468
+ADC in 1L combo,25,0.2711,1690,458
+ADC in 1L combo,26,0.3083,1640,506
+ADC in 1L combo,27,0.3199,1623,519
+ADC in 1L combo,28,0.287,1721,494
+ADC in 1L combo,29,0.2868,1606,461
+ADC in 1L combo,30,0.2981,1673,499
+ADC in 1L combo,31,0.2937,1665,489
+ADC in 1L combo,32,0.3062,1664,509
+ADC in 1L combo,33,0.282,1650,465
+ADC in 1L combo,34,0.3,1764,529
+ADC in 1L combo,35,0.2934,1615,474
+ADC in 1L combo,36,0.2911,1688,491

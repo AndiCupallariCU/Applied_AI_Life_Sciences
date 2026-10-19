@@ -1,0 +1,7 @@
+analog,drug_class,line,route_and_setting,order_in_class,launch_year
+"BTKi A (first in class, 2L+ MCL)",BTK inhibitor,2L+,oral,1,2013
+"BTKi B (second, more selective)",BTK inhibitor,2L+,oral,2,2017
+BTKi C (third),BTK inhibitor,2L+,oral,3,2019
+"CAR-T (MCL, 3L+)",CAR-T,3L+,"IV, inpatient (cell therapy)",1,2020
+Non-covalent BTKi (post-BTKi),BTK inhibitor,3L+,oral,4,2023
+"Bispecific (3L+ MCL, off-label use)",CD20×CD3 bispecific,3L+,SC,1,2024

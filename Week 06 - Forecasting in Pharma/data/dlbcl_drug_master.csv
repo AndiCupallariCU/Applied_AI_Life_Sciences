@@ -1,0 +1,24 @@
+drug_name,drug_class,route,code_type,code
+rituximab,anti-CD20 mAb,IV,HCPCS,J9312
+rituximab biosimilar,anti-CD20 mAb,IV,HCPCS,Q5119
+cyclophosphamide,alkylating agent,IV,HCPCS,J9070
+doxorubicin,anthracycline,IV,HCPCS,J9000
+vincristine,vinca alkaloid,IV,HCPCS,J9370
+prednisone,corticosteroid,PO,NDC,00054475625
+polatuzumab vedotin,ADC,IV,HCPCS,J9309
+ifosfamide,alkylating agent,IV,HCPCS,J9208
+carboplatin,platinum,IV,HCPCS,J9045
+etoposide,topo II inhibitor,IV,HCPCS,J9181
+dexamethasone,corticosteroid,IV,HCPCS,J1100
+cytarabine,antimetabolite,IV,HCPCS,J9100
+cisplatin,platinum,IV,HCPCS,J9060
+bendamustine,alkylating agent,IV,HCPCS,J9034
+tafasitamab,anti-CD19 mAb,IV,HCPCS,J9349
+lenalidomide,immunomodulator,PO,NDC,59572040000
+axicabtagene ciloleucel,CAR-T (anti-CD19),IV,HCPCS,Q2041
+lisocabtagene maraleucel,CAR-T (anti-CD19),IV,HCPCS,Q2055
+tisagenlecleucel,CAR-T (anti-CD19),IV,HCPCS,Q2042
+epcoritamab,bispecific (CD20xCD3),SC,HCPCS,J9347
+glofitamab,bispecific (CD20xCD3),IV,HCPCS,J9286
+loncastuximab tesirine,ADC (anti-CD19),IV,HCPCS,J9359
+selinexor,XPO1 inhibitor,PO,NDC,72237010111

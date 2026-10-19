@@ -1,0 +1,901 @@
+patient_id,regimen,start_month,months_on_therapy,censored,reason
+PR00000,Bispecific A (treat to progression),2025-11,8,1,still on therapy
+PR00001,Bispecific A (treat to progression),2025-02,1,0,progression / toxicity / other
+PR00002,Bispecific A (treat to progression),2024-10,6,0,progression / toxicity / other
+PR00003,Bispecific A (treat to progression),2024-01,10,0,progression / toxicity / other
+PR00004,Bispecific A (treat to progression),2024-04,6,0,progression / toxicity / other
+PR00005,Bispecific A (treat to progression),2025-04,10,0,progression / toxicity / other
+PR00006,Bispecific A (treat to progression),2024-02,14,0,progression / toxicity / other
+PR00007,Bispecific A (treat to progression),2025-04,15,1,still on therapy
+PR00008,Bispecific A (treat to progression),2025-03,11,0,progression / toxicity / other
+PR00009,Bispecific A (treat to progression),2024-04,2,0,progression / toxicity / other
+PR00010,Bispecific A (treat to progression),2026-03,4,1,still on therapy
+PR00011,Bispecific A (treat to progression),2025-10,9,1,still on therapy
+PR00012,Bispecific A (treat to progression),2026-04,3,1,still on therapy
+PR00013,Bispecific A (treat to progression),2025-02,1,0,progression / toxicity / other
+PR00014,Bispecific A (treat to progression),2025-03,15,0,progression / toxicity / other
+PR00015,Bispecific A (treat to progression),2024-09,4,0,progression / toxicity / other
+PR00016,Bispecific A (treat to progression),2025-12,7,1,still on therapy
+PR00017,Bispecific A (treat to progression),2025-12,2,0,progression / toxicity / other
+PR00018,Bispecific A (treat to progression),2024-12,15,0,progression / toxicity / other
+PR00019,Bispecific A (treat to progression),2025-09,1,0,progression / toxicity / other
+PR00020,Bispecific A (treat to progression),2024-01,16,0,progression / toxicity / other
+PR00021,Bispecific A (treat to progression),2024-10,6,0,progression / toxicity / other
+PR00022,Bispecific A (treat to progression),2025-08,11,1,still on therapy
+PR00023,Bispecific A (treat to progression),2024-04,3,0,progression / toxicity / other
+PR00024,Bispecific A (treat to progression),2024-05,26,1,still on therapy
+PR00025,Bispecific A (treat to progression),2025-07,9,0,progression / toxicity / other
+PR00026,Bispecific A (treat to progression),2025-12,7,1,still on therapy
+PR00027,Bispecific A (treat to progression),2026-03,4,0,progression / toxicity / other
+PR00028,Bispecific A (treat to progression),2024-08,7,0,progression / toxicity / other
+PR00029,Bispecific A (treat to progression),2026-02,5,1,still on therapy
+PR00030,Bispecific A (treat to progression),2025-12,7,0,progression / toxicity / other
+PR00031,Bispecific A (treat to progression),2024-11,1,0,progression / toxicity / other
+PR00032,Bispecific A (treat to progression),2025-01,4,0,progression / toxicity / other
+PR00033,Bispecific A (treat to progression),2024-10,21,0,progression / toxicity / other
+PR00034,Bispecific A (treat to progression),2026-03,4,1,still on therapy
+PR00035,Bispecific A (treat to progression),2024-02,18,0,progression / toxicity / other
+PR00036,Bispecific A (treat to progression),2025-08,11,1,still on therapy
+PR00037,Bispecific A (treat to progression),2026-05,2,1,still on therapy
+PR00038,Bispecific A (treat to progression),2024-11,2,0,progression / toxicity / other
+PR00039,Bispecific A (treat to progression),2026-04,3,1,still on therapy
+PR00040,Bispecific A (treat to progression),2025-01,1,0,progression / toxicity / other
+PR00041,Bispecific A (treat to progression),2026-04,3,1,still on therapy
+PR00042,Bispecific A (treat to progression),2025-01,2,0,progression / toxicity / other
+PR00043,Bispecific A (treat to progression),2024-06,1,0,progression / toxicity / other
+PR00044,Bispecific A (treat to progression),2024-04,11,0,progression / toxicity / other
+PR00045,Bispecific A (treat to progression),2025-06,13,1,still on therapy
+PR00046,Bispecific A (treat to progression),2025-01,5,0,progression / toxicity / other
+PR00047,Bispecific A (treat to progression),2025-03,14,0,progression / toxicity / other
+PR00048,Bispecific A (treat to progression),2025-01,10,0,progression / toxicity / other
+PR00049,Bispecific A (treat to progression),2024-02,3,0,progression / toxicity / other
+PR00050,Bispecific A (treat to progression),2025-08,11,1,still on therapy
+PR00051,Bispecific A (treat to progression),2024-04,5,0,progression / toxicity / other
+PR00052,Bispecific A (treat to progression),2025-12,1,0,progression / toxicity / other
+PR00053,Bispecific A (treat to progression),2024-11,2,0,progression / toxicity / other
+PR00054,Bispecific A (treat to progression),2024-02,8,0,progression / toxicity / other
+PR00055,Bispecific A (treat to progression),2024-09,22,1,still on therapy
+PR00056,Bispecific A (treat to progression),2026-05,2,1,still on therapy
+PR00057,Bispecific A (treat to progression),2025-07,2,0,progression / toxicity / other
+PR00058,Bispecific A (treat to progression),2024-04,7,0,progression / toxicity / other
+PR00059,Bispecific A (treat to progression),2024-11,3,0,progression / toxicity / other
+PR00060,Bispecific A (treat to progression),2024-10,3,0,progression / toxicity / other
+PR00061,Bispecific A (treat to progression),2024-06,25,1,still on therapy
+PR00062,Bispecific A (treat to progression),2026-01,6,1,still on therapy
+PR00063,Bispecific A (treat to progression),2024-12,19,1,still on therapy
+PR00064,Bispecific A (treat to progression),2025-03,1,0,progression / toxicity / other
+PR00065,Bispecific A (treat to progression),2024-02,27,0,progression / toxicity / other
+PR00066,Bispecific A (treat to progression),2025-08,11,1,still on therapy
+PR00067,Bispecific A (treat to progression),2024-05,12,0,progression / toxicity / other
+PR00068,Bispecific A (treat to progression),2026-05,2,1,still on therapy
+PR00069,Bispecific A (treat to progression),2025-01,4,0,progression / toxicity / other
+PR00070,Bispecific A (treat to progression),2024-12,5,0,progression / toxicity / other
+PR00071,Bispecific A (treat to progression),2026-03,4,1,still on therapy
+PR00072,Bispecific A (treat to progression),2025-11,2,0,progression / toxicity / other
+PR00073,Bispecific A (treat to progression),2024-11,11,0,progression / toxicity / other
+PR00074,Bispecific A (treat to progression),2024-02,1,0,progression / toxicity / other
+PR00075,Bispecific A (treat to progression),2025-06,1,0,progression / toxicity / other
+PR00076,Bispecific A (treat to progression),2024-02,15,0,progression / toxicity / other
+PR00077,Bispecific A (treat to progression),2026-04,3,1,still on therapy
+PR00078,Bispecific A (treat to progression),2024-08,3,0,progression / toxicity / other
+PR00079,Bispecific A (treat to progression),2026-02,5,1,still on therapy
+PR00080,Bispecific A (treat to progression),2025-10,9,1,still on therapy
+PR00081,Bispecific A (treat to progression),2025-08,7,0,progression / toxicity / other
+PR00082,Bispecific A (treat to progression),2026-01,2,0,progression / toxicity / other
+PR00083,Bispecific A (treat to progression),2025-03,5,0,progression / toxicity / other
+PR00084,Bispecific A (treat to progression),2025-04,7,0,progression / toxicity / other
+PR00085,Bispecific A (treat to progression),2024-09,22,1,still on therapy
+PR00086,Bispecific A (treat to progression),2024-05,5,0,progression / toxicity / other
+PR00087,Bispecific A (treat to progression),2024-07,6,0,progression / toxicity / other
+PR00088,Bispecific A (treat to progression),2024-11,20,1,still on therapy
+PR00089,Bispecific A (treat to progression),2024-02,4,0,progression / toxicity / other
+PR00090,Bispecific A (treat to progression),2025-10,9,1,still on therapy
+PR00091,Bispecific A (treat to progression),2024-07,14,0,progression / toxicity / other
+PR00092,Bispecific A (treat to progression),2024-07,6,0,progression / toxicity / other
+PR00093,Bispecific A (treat to progression),2024-12,2,0,progression / toxicity / other
+PR00094,Bispecific A (treat to progression),2025-01,2,0,progression / toxicity / other
+PR00095,Bispecific A (treat to progression),2024-07,1,0,progression / toxicity / other
+PR00096,Bispecific A (treat to progression),2026-03,4,1,still on therapy
+PR00097,Bispecific A (treat to progression),2024-09,1,0,progression / toxicity / other
+PR00098,Bispecific A (treat to progression),2024-02,8,0,progression / toxicity / other
+PR00099,Bispecific A (treat to progression),2024-10,21,1,still on therapy
+PR00100,Bispecific A (treat to progression),2024-01,9,0,progression / toxicity / other
+PR00101,Bispecific A (treat to progression),2024-11,1,0,progression / toxicity / other
+PR00102,Bispecific A (treat to progression),2025-03,5,0,progression / toxicity / other
+PR00103,Bispecific A (treat to progression),2024-04,27,1,still on therapy
+PR00104,Bispecific A (treat to progression),2024-05,19,0,progression / toxicity / other
+PR00105,Bispecific A (treat to progression),2026-02,2,0,progression / toxicity / other
+PR00106,Bispecific A (treat to progression),2025-10,9,1,still on therapy
+PR00107,Bispecific A (treat to progression),2024-07,9,0,progression / toxicity / other
+PR00108,Bispecific A (treat to progression),2025-05,14,1,still on therapy
+PR00109,Bispecific A (treat to progression),2024-12,11,0,progression / toxicity / other
+PR00110,Bispecific A (treat to progression),2025-06,13,1,still on therapy
+PR00111,Bispecific A (treat to progression),2024-01,13,0,progression / toxicity / other
+PR00112,Bispecific A (treat to progression),2025-07,11,0,progression / toxicity / other
+PR00113,Bispecific A (treat to progression),2024-03,19,0,progression / toxicity / other
+PR00114,Bispecific A (treat to progression),2026-05,2,1,still on therapy
+PR00115,Bispecific A (treat to progression),2024-06,19,0,progression / toxicity / other
+PR00116,Bispecific A (treat to progression),2026-04,3,1,still on therapy
+PR00117,Bispecific A (treat to progression),2026-01,6,1,still on therapy
+PR00118,Bispecific A (treat to progression),2025-12,1,0,progression / toxicity / other
+PR00119,Bispecific A (treat to progression),2025-07,1,0,progression / toxicity / other
+PR00120,Bispecific A (treat to progression),2026-02,2,0,progression / toxicity / other
+PR00121,Bispecific A (treat to progression),2025-07,5,0,progression / toxicity / other
+PR00122,Bispecific A (treat to progression),2025-07,5,0,progression / toxicity / other
+PR00123,Bispecific A (treat to progression),2026-02,5,1,still on therapy
+PR00124,Bispecific A (treat to progression),2025-09,2,0,progression / toxicity / other
+PR00125,Bispecific A (treat to progression),2026-03,4,1,still on therapy
+PR00126,Bispecific A (treat to progression),2025-09,10,0,progression / toxicity / other
+PR00127,Bispecific A (treat to progression),2024-03,1,0,progression / toxicity / other
+PR00128,Bispecific A (treat to progression),2026-03,4,1,still on therapy
+PR00129,Bispecific A (treat to progression),2026-06,1,1,still on therapy
+PR00130,Bispecific A (treat to progression),2025-08,11,1,still on therapy
+PR00131,Bispecific A (treat to progression),2024-08,2,0,progression / toxicity / other
+PR00132,Bispecific A (treat to progression),2024-06,3,0,progression / toxicity / other
+PR00133,Bispecific A (treat to progression),2024-02,18,0,progression / toxicity / other
+PR00134,Bispecific A (treat to progression),2024-10,17,0,progression / toxicity / other
+PR00135,Bispecific A (treat to progression),2025-01,3,0,progression / toxicity / other
+PR00136,Bispecific A (treat to progression),2024-06,2,0,progression / toxicity / other
+PR00137,Bispecific A (treat to progression),2025-12,4,0,progression / toxicity / other
+PR00138,Bispecific A (treat to progression),2024-06,6,0,progression / toxicity / other
+PR00139,Bispecific A (treat to progression),2026-02,1,0,progression / toxicity / other
+PR00140,Bispecific A (treat to progression),2025-08,11,1,still on therapy
+PR00141,Bispecific A (treat to progression),2025-01,13,0,progression / toxicity / other
+PR00142,Bispecific A (treat to progression),2026-03,4,1,still on therapy
+PR00143,Bispecific A (treat to progression),2024-02,1,0,progression / toxicity / other
+PR00144,Bispecific A (treat to progression),2024-01,1,0,progression / toxicity / other
+PR00145,Bispecific A (treat to progression),2026-02,1,0,progression / toxicity / other
+PR00146,Bispecific A (treat to progression),2025-10,9,1,still on therapy
+PR00147,Bispecific A (treat to progression),2024-04,12,0,progression / toxicity / other
+PR00148,Bispecific A (treat to progression),2026-03,4,1,still on therapy
+PR00149,Bispecific A (treat to progression),2025-08,11,1,still on therapy
+PR00150,Bispecific A (treat to progression),2024-04,21,0,progression / toxicity / other
+PR00151,Bispecific A (treat to progression),2025-03,6,0,progression / toxicity / other
+PR00152,Bispecific A (treat to progression),2024-01,14,0,progression / toxicity / other
+PR00153,Bispecific A (treat to progression),2024-01,2,0,progression / toxicity / other
+PR00154,Bispecific A (treat to progression),2025-02,2,0,progression / toxicity / other
+PR00155,Bispecific A (treat to progression),2024-10,2,0,progression / toxicity / other
+PR00156,Bispecific A (treat to progression),2026-01,6,1,still on therapy
+PR00157,Bispecific A (treat to progression),2025-05,4,0,progression / toxicity / other
+PR00158,Bispecific A (treat to progression),2024-06,1,0,progression / toxicity / other
+PR00159,Bispecific A (treat to progression),2024-01,18,0,progression / toxicity / other
+PR00160,Bispecific A (treat to progression),2025-05,12,0,progression / toxicity / other
+PR00161,Bispecific A (treat to progression),2025-02,9,0,progression / toxicity / other
+PR00162,Bispecific A (treat to progression),2025-03,2,0,progression / toxicity / other
+PR00163,Bispecific A (treat to progression),2025-11,8,1,still on therapy
+PR00164,Bispecific A (treat to progression),2025-08,6,0,progression / toxicity / other
+PR00165,Bispecific A (treat to progression),2024-09,13,0,progression / toxicity / other
+PR00166,Bispecific A (treat to progression),2024-07,24,1,still on therapy
+PR00167,Bispecific A (treat to progression),2026-02,5,1,still on therapy
+PR00168,Bispecific A (treat to progression),2024-02,19,0,progression / toxicity / other
+PR00169,Bispecific A (treat to progression),2026-01,3,0,progression / toxicity / other
+PR00170,Bispecific A (treat to progression),2024-11,1,0,progression / toxicity / other
+PR00171,Bispecific A (treat to progression),2024-03,9,0,progression / toxicity / other
+PR00172,Bispecific A (treat to progression),2025-03,1,0,progression / toxicity / other
+PR00173,Bispecific A (treat to progression),2025-07,3,0,progression / toxicity / other
+PR00174,Bispecific A (treat to progression),2024-12,10,0,progression / toxicity / other
+PR00175,Bispecific A (treat to progression),2026-02,1,0,progression / toxicity / other
+PR00176,Bispecific A (treat to progression),2026-06,1,1,still on therapy
+PR00177,Bispecific A (treat to progression),2025-10,9,1,still on therapy
+PR00178,Bispecific A (treat to progression),2024-05,2,0,progression / toxicity / other
+PR00179,Bispecific A (treat to progression),2026-03,4,0,progression / toxicity / other
+PR00180,Bispecific A (treat to progression),2024-10,1,0,progression / toxicity / other
+PR00181,Bispecific A (treat to progression),2025-04,4,0,progression / toxicity / other
+PR00182,Bispecific A (treat to progression),2025-03,2,0,progression / toxicity / other
+PR00183,Bispecific A (treat to progression),2025-05,10,0,progression / toxicity / other
+PR00184,Bispecific A (treat to progression),2025-09,2,0,progression / toxicity / other
+PR00185,Bispecific A (treat to progression),2025-05,4,0,progression / toxicity / other
+PR00186,Bispecific A (treat to progression),2026-01,4,0,progression / toxicity / other
+PR00187,Bispecific A (treat to progression),2025-12,7,0,progression / toxicity / other
+PR00188,Bispecific A (treat to progression),2025-07,12,1,still on therapy
+PR00189,Bispecific A (treat to progression),2024-02,2,0,progression / toxicity / other
+PR00190,Bispecific A (treat to progression),2025-03,4,0,progression / toxicity / other
+PR00191,Bispecific A (treat to progression),2024-04,6,0,progression / toxicity / other
+PR00192,Bispecific A (treat to progression),2024-08,5,0,progression / toxicity / other
+PR00193,Bispecific A (treat to progression),2024-08,9,0,progression / toxicity / other
+PR00194,Bispecific A (treat to progression),2025-12,1,0,progression / toxicity / other
+PR00195,Bispecific A (treat to progression),2025-10,3,0,progression / toxicity / other
+PR00196,Bispecific A (treat to progression),2025-06,13,1,still on therapy
+PR00197,Bispecific A (treat to progression),2025-09,1,0,progression / toxicity / other
+PR00198,Bispecific A (treat to progression),2025-01,3,0,progression / toxicity / other
+PR00199,Bispecific A (treat to progression),2024-04,8,0,progression / toxicity / other
+PR00200,Bispecific A (treat to progression),2024-05,3,0,progression / toxicity / other
+PR00201,Bispecific A (treat to progression),2025-12,5,0,progression / toxicity / other
+PR00202,Bispecific A (treat to progression),2025-11,8,1,still on therapy
+PR00203,Bispecific A (treat to progression),2025-11,8,1,still on therapy
+PR00204,Bispecific A (treat to progression),2024-03,1,0,progression / toxicity / other
+PR00205,Bispecific A (treat to progression),2026-04,3,1,still on therapy
+PR00206,Bispecific A (treat to progression),2024-04,27,1,still on therapy
+PR00207,Bispecific A (treat to progression),2026-04,2,0,progression / toxicity / other
+PR00208,Bispecific A (treat to progression),2026-01,4,0,progression / toxicity / other
+PR00209,Bispecific A (treat to progression),2025-05,14,1,still on therapy
+PR00210,Bispecific A (treat to progression),2026-02,5,1,still on therapy
+PR00211,Bispecific A (treat to progression),2025-02,17,1,still on therapy
+PR00212,Bispecific A (treat to progression),2025-12,7,1,still on therapy
+PR00213,Bispecific A (treat to progression),2026-02,5,1,still on therapy
+PR00214,Bispecific A (treat to progression),2025-04,7,0,progression / toxicity / other
+PR00215,Bispecific A (treat to progression),2026-02,3,0,progression / toxicity / other
+PR00216,Bispecific A (treat to progression),2026-04,3,1,still on therapy
+PR00217,Bispecific A (treat to progression),2026-04,3,1,still on therapy
+PR00218,Bispecific A (treat to progression),2024-06,9,0,progression / toxicity / other
+PR00219,Bispecific A (treat to progression),2026-06,1,1,still on therapy
+PR00220,Bispecific A (treat to progression),2025-08,1,0,progression / toxicity / other
+PR00221,Bispecific A (treat to progression),2024-05,2,0,progression / toxicity / other
+PR00222,Bispecific A (treat to progression),2024-02,3,0,progression / toxicity / other
+PR00223,Bispecific A (treat to progression),2024-09,1,0,progression / toxicity / other
+PR00224,Bispecific A (treat to progression),2024-10,8,0,progression / toxicity / other
+PR00225,Bispecific A (treat to progression),2025-05,14,1,still on therapy
+PR00226,Bispecific A (treat to progression),2025-05,1,0,progression / toxicity / other
+PR00227,Bispecific A (treat to progression),2025-09,2,0,progression / toxicity / other
+PR00228,Bispecific A (treat to progression),2025-02,2,0,progression / toxicity / other
+PR00229,Bispecific A (treat to progression),2024-12,19,1,still on therapy
+PR00230,Bispecific A (treat to progression),2024-09,15,0,progression / toxicity / other
+PR00231,Bispecific A (treat to progression),2026-02,5,1,still on therapy
+PR00232,Bispecific A (treat to progression),2025-05,1,0,progression / toxicity / other
+PR00233,Bispecific A (treat to progression),2024-02,13,0,progression / toxicity / other
+PR00234,Bispecific A (treat to progression),2025-07,6,0,progression / toxicity / other
+PR00235,Bispecific A (treat to progression),2024-03,3,0,progression / toxicity / other
+PR00236,Bispecific A (treat to progression),2025-10,1,0,progression / toxicity / other
+PR00237,Bispecific A (treat to progression),2025-11,8,1,still on therapy
+PR00238,Bispecific A (treat to progression),2024-12,19,1,still on therapy
+PR00239,Bispecific A (treat to progression),2025-03,14,0,progression / toxicity / other
+PR00240,Bispecific A (treat to progression),2025-02,17,1,still on therapy
+PR00241,Bispecific A (treat to progression),2025-02,11,0,progression / toxicity / other
+PR00242,Bispecific A (treat to progression),2025-08,10,0,progression / toxicity / other
+PR00243,Bispecific A (treat to progression),2024-10,21,1,still on therapy
+PR00244,Bispecific A (treat to progression),2024-10,3,0,progression / toxicity / other
+PR00245,Bispecific A (treat to progression),2024-12,13,0,progression / toxicity / other
+PR00246,Bispecific A (treat to progression),2024-06,2,0,progression / toxicity / other
+PR00247,Bispecific A (treat to progression),2025-11,1,0,progression / toxicity / other
+PR00248,Bispecific A (treat to progression),2026-03,4,1,still on therapy
+PR00249,Bispecific A (treat to progression),2024-07,24,0,progression / toxicity / other
+PR00250,Bispecific A (treat to progression),2024-08,6,0,progression / toxicity / other
+PR00251,Bispecific A (treat to progression),2024-02,11,0,progression / toxicity / other
+PR00252,Bispecific A (treat to progression),2024-06,23,0,progression / toxicity / other
+PR00253,Bispecific A (treat to progression),2025-04,12,0,progression / toxicity / other
+PR00254,Bispecific A (treat to progression),2024-08,3,0,progression / toxicity / other
+PR00255,Bispecific A (treat to progression),2024-09,11,0,progression / toxicity / other
+PR00256,Bispecific A (treat to progression),2024-02,12,0,progression / toxicity / other
+PR00257,Bispecific A (treat to progression),2025-11,3,0,progression / toxicity / other
+PR00258,Bispecific A (treat to progression),2024-07,3,0,progression / toxicity / other
+PR00259,Bispecific A (treat to progression),2024-03,5,0,progression / toxicity / other
+PR00260,Bispecific A (treat to progression),2025-09,1,0,progression / toxicity / other
+PR00261,Bispecific A (treat to progression),2024-05,26,1,still on therapy
+PR00262,Bispecific A (treat to progression),2025-02,10,0,progression / toxicity / other
+PR00263,Bispecific A (treat to progression),2025-12,2,0,progression / toxicity / other
+PR00264,Bispecific A (treat to progression),2024-06,6,0,progression / toxicity / other
+PR00265,Bispecific A (treat to progression),2026-04,3,1,still on therapy
+PR00266,Bispecific A (treat to progression),2025-04,1,0,progression / toxicity / other
+PR00267,Bispecific A (treat to progression),2024-01,2,0,progression / toxicity / other
+PR00268,Bispecific A (treat to progression),2024-10,1,0,progression / toxicity / other
+PR00269,Bispecific A (treat to progression),2025-11,8,1,still on therapy
+PR00270,Bispecific A (treat to progression),2026-02,4,0,progression / toxicity / other
+PR00271,Bispecific A (treat to progression),2024-04,27,1,still on therapy
+PR00272,Bispecific A (treat to progression),2025-06,6,0,progression / toxicity / other
+PR00273,Bispecific A (treat to progression),2025-04,11,0,progression / toxicity / other
+PR00274,Bispecific A (treat to progression),2025-11,8,1,still on therapy
+PR00275,Bispecific A (treat to progression),2025-06,4,0,progression / toxicity / other
+PR00276,Bispecific A (treat to progression),2024-11,20,1,still on therapy
+PR00277,Bispecific A (treat to progression),2026-05,2,1,still on therapy
+PR00278,Bispecific A (treat to progression),2025-03,11,0,progression / toxicity / other
+PR00279,Bispecific A (treat to progression),2025-12,5,0,progression / toxicity / other
+PR00280,Bispecific A (treat to progression),2024-09,1,0,progression / toxicity / other
+PR00281,Bispecific A (treat to progression),2025-09,8,0,progression / toxicity / other
+PR00282,Bispecific A (treat to progression),2024-08,1,0,progression / toxicity / other
+PR00283,Bispecific A (treat to progression),2024-01,13,0,progression / toxicity / other
+PR00284,Bispecific A (treat to progression),2026-02,5,1,still on therapy
+PR00285,Bispecific A (treat to progression),2025-07,5,0,progression / toxicity / other
+PR00286,Bispecific A (treat to progression),2024-12,11,0,progression / toxicity / other
+PR00287,Bispecific A (treat to progression),2026-05,2,0,progression / toxicity / other
+PR00288,Bispecific A (treat to progression),2024-05,7,0,progression / toxicity / other
+PR00289,Bispecific A (treat to progression),2024-06,16,0,progression / toxicity / other
+PR00290,Bispecific A (treat to progression),2024-07,2,0,progression / toxicity / other
+PR00291,Bispecific A (treat to progression),2024-09,13,0,progression / toxicity / other
+PR00292,Bispecific A (treat to progression),2025-05,6,0,progression / toxicity / other
+PR00293,Bispecific A (treat to progression),2025-10,9,1,still on therapy
+PR00294,Bispecific A (treat to progression),2026-04,3,1,still on therapy
+PR00295,Bispecific A (treat to progression),2025-06,2,0,progression / toxicity / other
+PR00296,Bispecific A (treat to progression),2024-06,2,0,progression / toxicity / other
+PR00297,Bispecific A (treat to progression),2025-06,1,0,progression / toxicity / other
+PR00298,Bispecific A (treat to progression),2024-03,7,0,progression / toxicity / other
+PR00299,Bispecific A (treat to progression),2025-02,17,1,still on therapy
+PR00300,Bispecific A (treat to progression),2025-06,1,0,progression / toxicity / other
+PR00301,Bispecific A (treat to progression),2026-06,1,1,still on therapy
+PR00302,Bispecific A (treat to progression),2024-02,19,0,progression / toxicity / other
+PR00303,Bispecific A (treat to progression),2026-05,2,1,still on therapy
+PR00304,Bispecific A (treat to progression),2024-02,2,0,progression / toxicity / other
+PR00305,Bispecific A (treat to progression),2025-06,6,0,progression / toxicity / other
+PR00306,Bispecific A (treat to progression),2026-03,2,0,progression / toxicity / other
+PR00307,Bispecific A (treat to progression),2026-05,2,1,still on therapy
+PR00308,Bispecific A (treat to progression),2025-06,9,0,progression / toxicity / other
+PR00309,Bispecific A (treat to progression),2024-11,19,0,progression / toxicity / other
+PR00310,Bispecific A (treat to progression),2024-01,27,0,progression / toxicity / other
+PR00311,Bispecific A (treat to progression),2025-10,9,1,still on therapy
+PR00312,Bispecific A (treat to progression),2025-09,1,0,progression / toxicity / other
+PR00313,Bispecific A (treat to progression),2024-01,6,0,progression / toxicity / other
+PR00314,Bispecific A (treat to progression),2025-11,8,1,still on therapy
+PR00315,Bispecific A (treat to progression),2026-03,4,0,progression / toxicity / other
+PR00316,Bispecific A (treat to progression),2025-06,13,1,still on therapy
+PR00317,Bispecific A (treat to progression),2025-08,8,0,progression / toxicity / other
+PR00318,Bispecific A (treat to progression),2026-06,1,1,still on therapy
+PR00319,Bispecific A (treat to progression),2024-04,7,0,progression / toxicity / other
+PR00320,Bispecific A (treat to progression),2026-06,1,1,still on therapy
+PR00321,Bispecific A (treat to progression),2025-05,2,0,progression / toxicity / other
+PR00322,Bispecific A (treat to progression),2025-04,7,0,progression / toxicity / other
+PR00323,Bispecific A (treat to progression),2026-01,6,1,still on therapy
+PR00324,Bispecific A (treat to progression),2025-11,8,1,still on therapy
+PR00325,Bispecific A (treat to progression),2024-03,7,0,progression / toxicity / other
+PR00326,Bispecific A (treat to progression),2026-01,2,0,progression / toxicity / other
+PR00327,Bispecific A (treat to progression),2024-06,8,0,progression / toxicity / other
+PR00328,Bispecific A (treat to progression),2024-04,11,0,progression / toxicity / other
+PR00329,Bispecific A (treat to progression),2024-04,11,0,progression / toxicity / other
+PR00330,Bispecific A (treat to progression),2026-05,2,1,still on therapy
+PR00331,Bispecific A (treat to progression),2024-10,21,1,still on therapy
+PR00332,Bispecific A (treat to progression),2024-01,22,0,progression / toxicity / other
+PR00333,Bispecific A (treat to progression),2026-01,5,0,progression / toxicity / other
+PR00334,Bispecific A (treat to progression),2025-05,5,0,progression / toxicity / other
+PR00335,Bispecific A (treat to progression),2025-05,1,0,progression / toxicity / other
+PR00336,Bispecific A (treat to progression),2024-08,16,0,progression / toxicity / other
+PR00337,Bispecific A (treat to progression),2024-03,2,0,progression / toxicity / other
+PR00338,Bispecific A (treat to progression),2026-02,5,1,still on therapy
+PR00339,Bispecific A (treat to progression),2025-09,10,1,still on therapy
+PR00340,Bispecific A (treat to progression),2024-08,1,0,progression / toxicity / other
+PR00341,Bispecific A (treat to progression),2025-11,8,1,still on therapy
+PR00342,Bispecific A (treat to progression),2025-04,15,1,still on therapy
+PR00343,Bispecific A (treat to progression),2025-01,7,0,progression / toxicity / other
+PR00344,Bispecific A (treat to progression),2025-06,13,1,still on therapy
+PR00345,Bispecific A (treat to progression),2024-06,25,1,still on therapy
+PR00346,Bispecific A (treat to progression),2026-03,4,1,still on therapy
+PR00347,Bispecific A (treat to progression),2025-06,3,0,progression / toxicity / other
+PR00348,Bispecific A (treat to progression),2024-09,4,0,progression / toxicity / other
+PR00349,Bispecific A (treat to progression),2024-11,2,0,progression / toxicity / other
+PR00350,Bispecific A (treat to progression),2024-02,4,0,progression / toxicity / other
+PR00351,Bispecific A (treat to progression),2024-10,5,0,progression / toxicity / other
+PR00352,Bispecific A (treat to progression),2025-04,3,0,progression / toxicity / other
+PR00353,Bispecific A (treat to progression),2025-05,5,0,progression / toxicity / other
+PR00354,Bispecific A (treat to progression),2025-09,5,0,progression / toxicity / other
+PR00355,Bispecific A (treat to progression),2026-03,4,0,progression / toxicity / other
+PR00356,Bispecific A (treat to progression),2024-05,3,0,progression / toxicity / other
+PR00357,Bispecific A (treat to progression),2025-07,7,0,progression / toxicity / other
+PR00358,Bispecific A (treat to progression),2024-11,2,0,progression / toxicity / other
+PR00359,Bispecific A (treat to progression),2025-08,7,0,progression / toxicity / other
+PR00360,Bispecific A (treat to progression),2024-10,2,0,progression / toxicity / other
+PR00361,Bispecific A (treat to progression),2025-01,7,0,progression / toxicity / other
+PR00362,Bispecific A (treat to progression),2025-01,1,0,progression / toxicity / other
+PR00363,Bispecific A (treat to progression),2025-08,11,1,still on therapy
+PR00364,Bispecific A (treat to progression),2024-02,7,0,progression / toxicity / other
+PR00365,Bispecific A (treat to progression),2025-03,4,0,progression / toxicity / other
+PR00366,Bispecific A (treat to progression),2024-09,2,0,progression / toxicity / other
+PR00367,Bispecific A (treat to progression),2026-05,2,1,still on therapy
+PR00368,Bispecific A (treat to progression),2025-08,5,0,progression / toxicity / other
+PR00369,Bispecific A (treat to progression),2025-06,2,0,progression / toxicity / other
+PR00370,Bispecific A (treat to progression),2025-06,13,1,still on therapy
+PR00371,Bispecific A (treat to progression),2025-03,10,0,progression / toxicity / other
+PR00372,Bispecific A (treat to progression),2025-10,9,1,still on therapy
+PR00373,Bispecific A (treat to progression),2025-08,10,0,progression / toxicity / other
+PR00374,Bispecific A (treat to progression),2026-01,4,0,progression / toxicity / other
+PR00375,Bispecific A (treat to progression),2026-03,4,1,still on therapy
+PR00376,Bispecific A (treat to progression),2026-05,2,1,still on therapy
+PR00377,Bispecific A (treat to progression),2025-06,8,0,progression / toxicity / other
+PR00378,Bispecific A (treat to progression),2025-07,2,0,progression / toxicity / other
+PR00379,Bispecific A (treat to progression),2026-02,2,0,progression / toxicity / other
+PR00380,Bispecific A (treat to progression),2026-05,2,1,still on therapy
+PR00381,Bispecific A (treat to progression),2026-01,6,1,still on therapy
+PR00382,Bispecific A (treat to progression),2024-06,1,0,progression / toxicity / other
+PR00383,Bispecific A (treat to progression),2024-05,4,0,progression / toxicity / other
+PR00384,Bispecific A (treat to progression),2024-02,15,0,progression / toxicity / other
+PR00385,Bispecific A (treat to progression),2025-11,3,0,progression / toxicity / other
+PR00386,Bispecific A (treat to progression),2025-09,2,0,progression / toxicity / other
+PR00387,Bispecific A (treat to progression),2025-08,11,1,still on therapy
+PR00388,Bispecific A (treat to progression),2024-01,17,0,progression / toxicity / other
+PR00389,Bispecific A (treat to progression),2025-04,15,1,still on therapy
+PR00390,Bispecific A (treat to progression),2026-03,4,1,still on therapy
+PR00391,Bispecific A (treat to progression),2025-09,3,0,progression / toxicity / other
+PR00392,Bispecific A (treat to progression),2025-06,13,1,still on therapy
+PR00393,Bispecific A (treat to progression),2024-02,17,0,progression / toxicity / other
+PR00394,Bispecific A (treat to progression),2024-01,14,0,progression / toxicity / other
+PR00395,Bispecific A (treat to progression),2025-09,2,0,progression / toxicity / other
+PR00396,Bispecific A (treat to progression),2026-01,3,0,progression / toxicity / other
+PR00397,Bispecific A (treat to progression),2025-05,4,0,progression / toxicity / other
+PR00398,Bispecific A (treat to progression),2025-05,8,0,progression / toxicity / other
+PR00399,Bispecific A (treat to progression),2026-04,3,1,still on therapy
+PR00400,Bispecific A (treat to progression),2026-06,1,1,still on therapy
+PR00401,Bispecific A (treat to progression),2025-06,3,0,progression / toxicity / other
+PR00402,Bispecific A (treat to progression),2025-04,3,0,progression / toxicity / other
+PR00403,Bispecific A (treat to progression),2025-11,3,0,progression / toxicity / other
+PR00404,Bispecific A (treat to progression),2026-01,6,1,still on therapy
+PR00405,Bispecific A (treat to progression),2025-01,6,0,progression / toxicity / other
+PR00406,Bispecific A (treat to progression),2024-12,4,0,progression / toxicity / other
+PR00407,Bispecific A (treat to progression),2025-10,9,1,still on therapy
+PR00408,Bispecific A (treat to progression),2025-06,13,1,still on therapy
+PR00409,Bispecific A (treat to progression),2024-08,12,0,progression / toxicity / other
+PR00410,Bispecific A (treat to progression),2025-08,10,0,progression / toxicity / other
+PR00411,Bispecific A (treat to progression),2024-03,3,0,progression / toxicity / other
+PR00412,Bispecific A (treat to progression),2024-06,1,0,progression / toxicity / other
+PR00413,Bispecific A (treat to progression),2024-10,9,0,progression / toxicity / other
+PR00414,Bispecific A (treat to progression),2026-04,3,1,still on therapy
+PR00415,Bispecific A (treat to progression),2026-05,2,1,still on therapy
+PR00416,Bispecific A (treat to progression),2025-05,2,0,progression / toxicity / other
+PR00417,Bispecific A (treat to progression),2024-09,9,0,progression / toxicity / other
+PR00418,Bispecific A (treat to progression),2026-05,2,1,still on therapy
+PR00419,Bispecific A (treat to progression),2024-02,5,0,progression / toxicity / other
+PR00420,Bispecific B (fixed 12 cycles),2024-05,4,0,progression / toxicity / other
+PR00421,Bispecific B (fixed 12 cycles),2025-07,3,0,progression / toxicity / other
+PR00422,Bispecific B (fixed 12 cycles),2024-06,12,0,completed fixed course
+PR00423,Bispecific B (fixed 12 cycles),2026-05,2,1,still on therapy
+PR00424,Bispecific B (fixed 12 cycles),2024-07,4,0,progression / toxicity / other
+PR00425,Bispecific B (fixed 12 cycles),2024-09,12,0,completed fixed course
+PR00426,Bispecific B (fixed 12 cycles),2024-09,2,0,progression / toxicity / other
+PR00427,Bispecific B (fixed 12 cycles),2025-03,12,0,completed fixed course
+PR00428,Bispecific B (fixed 12 cycles),2026-04,3,1,still on therapy
+PR00429,Bispecific B (fixed 12 cycles),2025-02,12,0,completed fixed course
+PR00430,Bispecific B (fixed 12 cycles),2024-10,1,0,progression / toxicity / other
+PR00431,Bispecific B (fixed 12 cycles),2025-02,12,0,completed fixed course
+PR00432,Bispecific B (fixed 12 cycles),2024-08,3,0,progression / toxicity / other
+PR00433,Bispecific B (fixed 12 cycles),2025-12,5,0,progression / toxicity / other
+PR00434,Bispecific B (fixed 12 cycles),2026-04,3,1,still on therapy
+PR00435,Bispecific B (fixed 12 cycles),2024-11,11,0,progression / toxicity / other
+PR00436,Bispecific B (fixed 12 cycles),2024-03,1,0,progression / toxicity / other
+PR00437,Bispecific B (fixed 12 cycles),2026-04,3,0,progression / toxicity / other
+PR00438,Bispecific B (fixed 12 cycles),2026-03,4,1,still on therapy
+PR00439,Bispecific B (fixed 12 cycles),2025-12,5,0,progression / toxicity / other
+PR00440,Bispecific B (fixed 12 cycles),2025-12,7,1,still on therapy
+PR00441,Bispecific B (fixed 12 cycles),2025-08,6,0,progression / toxicity / other
+PR00442,Bispecific B (fixed 12 cycles),2024-08,1,0,progression / toxicity / other
+PR00443,Bispecific B (fixed 12 cycles),2026-03,4,1,still on therapy
+PR00444,Bispecific B (fixed 12 cycles),2024-11,12,0,completed fixed course
+PR00445,Bispecific B (fixed 12 cycles),2025-09,10,1,still on therapy
+PR00446,Bispecific B (fixed 12 cycles),2024-06,12,0,completed fixed course
+PR00447,Bispecific B (fixed 12 cycles),2025-12,7,1,still on therapy
+PR00448,Bispecific B (fixed 12 cycles),2024-04,1,0,progression / toxicity / other
+PR00449,Bispecific B (fixed 12 cycles),2025-11,8,1,still on therapy
+PR00450,Bispecific B (fixed 12 cycles),2025-04,8,0,progression / toxicity / other
+PR00451,Bispecific B (fixed 12 cycles),2024-04,12,0,completed fixed course
+PR00452,Bispecific B (fixed 12 cycles),2024-11,12,0,completed fixed course
+PR00453,Bispecific B (fixed 12 cycles),2026-01,6,1,still on therapy
+PR00454,Bispecific B (fixed 12 cycles),2024-02,3,0,progression / toxicity / other
+PR00455,Bispecific B (fixed 12 cycles),2025-10,9,1,still on therapy
+PR00456,Bispecific B (fixed 12 cycles),2025-10,9,1,still on therapy
+PR00457,Bispecific B (fixed 12 cycles),2026-05,2,1,still on therapy
+PR00458,Bispecific B (fixed 12 cycles),2024-01,3,0,progression / toxicity / other
+PR00459,Bispecific B (fixed 12 cycles),2024-01,2,0,progression / toxicity / other
+PR00460,Bispecific B (fixed 12 cycles),2025-12,7,1,still on therapy
+PR00461,Bispecific B (fixed 12 cycles),2025-08,11,1,still on therapy
+PR00462,Bispecific B (fixed 12 cycles),2024-12,12,0,completed fixed course
+PR00463,Bispecific B (fixed 12 cycles),2024-01,12,0,completed fixed course
+PR00464,Bispecific B (fixed 12 cycles),2025-08,11,1,still on therapy
+PR00465,Bispecific B (fixed 12 cycles),2025-08,11,1,still on therapy
+PR00466,Bispecific B (fixed 12 cycles),2025-05,10,0,progression / toxicity / other
+PR00467,Bispecific B (fixed 12 cycles),2026-03,4,1,still on therapy
+PR00468,Bispecific B (fixed 12 cycles),2024-02,1,0,progression / toxicity / other
+PR00469,Bispecific B (fixed 12 cycles),2025-09,10,1,still on therapy
+PR00470,Bispecific B (fixed 12 cycles),2025-06,12,0,completed fixed course
+PR00471,Bispecific B (fixed 12 cycles),2026-06,1,1,still on therapy
+PR00472,Bispecific B (fixed 12 cycles),2024-09,12,0,completed fixed course
+PR00473,Bispecific B (fixed 12 cycles),2024-01,5,0,progression / toxicity / other
+PR00474,Bispecific B (fixed 12 cycles),2026-06,1,1,still on therapy
+PR00475,Bispecific B (fixed 12 cycles),2025-08,2,0,progression / toxicity / other
+PR00476,Bispecific B (fixed 12 cycles),2025-04,3,0,progression / toxicity / other
+PR00477,Bispecific B (fixed 12 cycles),2024-07,12,0,completed fixed course
+PR00478,Bispecific B (fixed 12 cycles),2025-08,1,0,progression / toxicity / other
+PR00479,Bispecific B (fixed 12 cycles),2026-01,3,0,progression / toxicity / other
+PR00480,Bispecific B (fixed 12 cycles),2025-10,3,0,progression / toxicity / other
+PR00481,Bispecific B (fixed 12 cycles),2024-11,5,0,progression / toxicity / other
+PR00482,Bispecific B (fixed 12 cycles),2024-10,12,0,completed fixed course
+PR00483,Bispecific B (fixed 12 cycles),2025-07,12,0,completed fixed course
+PR00484,Bispecific B (fixed 12 cycles),2025-04,12,0,completed fixed course
+PR00485,Bispecific B (fixed 12 cycles),2025-11,1,0,progression / toxicity / other
+PR00486,Bispecific B (fixed 12 cycles),2026-03,4,1,still on therapy
+PR00487,Bispecific B (fixed 12 cycles),2026-06,1,1,still on therapy
+PR00488,Bispecific B (fixed 12 cycles),2025-10,2,0,progression / toxicity / other
+PR00489,Bispecific B (fixed 12 cycles),2025-09,8,0,progression / toxicity / other
+PR00490,Bispecific B (fixed 12 cycles),2024-11,12,0,completed fixed course
+PR00491,Bispecific B (fixed 12 cycles),2026-04,1,0,progression / toxicity / other
+PR00492,Bispecific B (fixed 12 cycles),2024-03,11,0,progression / toxicity / other
+PR00493,Bispecific B (fixed 12 cycles),2025-08,11,1,still on therapy
+PR00494,Bispecific B (fixed 12 cycles),2025-02,1,0,progression / toxicity / other
+PR00495,Bispecific B (fixed 12 cycles),2024-10,12,0,completed fixed course
+PR00496,Bispecific B (fixed 12 cycles),2024-08,9,0,progression / toxicity / other
+PR00497,Bispecific B (fixed 12 cycles),2024-08,12,0,completed fixed course
+PR00498,Bispecific B (fixed 12 cycles),2024-01,12,0,completed fixed course
+PR00499,Bispecific B (fixed 12 cycles),2025-12,7,1,still on therapy
+PR00500,Bispecific B (fixed 12 cycles),2025-05,6,0,progression / toxicity / other
+PR00501,Bispecific B (fixed 12 cycles),2024-08,12,0,completed fixed course
+PR00502,Bispecific B (fixed 12 cycles),2024-05,4,0,progression / toxicity / other
+PR00503,Bispecific B (fixed 12 cycles),2024-01,12,0,completed fixed course
+PR00504,Bispecific B (fixed 12 cycles),2025-06,12,0,completed fixed course
+PR00505,Bispecific B (fixed 12 cycles),2024-10,1,0,progression / toxicity / other
+PR00506,Bispecific B (fixed 12 cycles),2024-11,2,0,progression / toxicity / other
+PR00507,Bispecific B (fixed 12 cycles),2025-06,12,0,completed fixed course
+PR00508,Bispecific B (fixed 12 cycles),2025-10,9,1,still on therapy
+PR00509,Bispecific B (fixed 12 cycles),2024-02,12,0,completed fixed course
+PR00510,Bispecific B (fixed 12 cycles),2024-11,12,0,completed fixed course
+PR00511,Bispecific B (fixed 12 cycles),2026-05,1,0,progression / toxicity / other
+PR00512,Bispecific B (fixed 12 cycles),2024-06,12,0,completed fixed course
+PR00513,Bispecific B (fixed 12 cycles),2026-03,1,0,progression / toxicity / other
+PR00514,Bispecific B (fixed 12 cycles),2024-03,12,0,completed fixed course
+PR00515,Bispecific B (fixed 12 cycles),2024-04,12,0,completed fixed course
+PR00516,Bispecific B (fixed 12 cycles),2024-07,12,0,completed fixed course
+PR00517,Bispecific B (fixed 12 cycles),2025-02,5,0,progression / toxicity / other
+PR00518,Bispecific B (fixed 12 cycles),2025-11,1,0,progression / toxicity / other
+PR00519,Bispecific B (fixed 12 cycles),2026-01,6,1,still on therapy
+PR00520,Bispecific B (fixed 12 cycles),2024-07,12,0,completed fixed course
+PR00521,Bispecific B (fixed 12 cycles),2024-07,5,0,progression / toxicity / other
+PR00522,Bispecific B (fixed 12 cycles),2025-05,1,0,progression / toxicity / other
+PR00523,Bispecific B (fixed 12 cycles),2025-11,1,0,progression / toxicity / other
+PR00524,Bispecific B (fixed 12 cycles),2024-12,10,0,progression / toxicity / other
+PR00525,Bispecific B (fixed 12 cycles),2024-06,1,0,progression / toxicity / other
+PR00526,Bispecific B (fixed 12 cycles),2026-03,4,1,still on therapy
+PR00527,Bispecific B (fixed 12 cycles),2025-09,10,1,still on therapy
+PR00528,Bispecific B (fixed 12 cycles),2024-02,6,0,progression / toxicity / other
+PR00529,Bispecific B (fixed 12 cycles),2024-10,8,0,progression / toxicity / other
+PR00530,Bispecific B (fixed 12 cycles),2024-07,12,0,completed fixed course
+PR00531,Bispecific B (fixed 12 cycles),2026-03,3,0,progression / toxicity / other
+PR00532,Bispecific B (fixed 12 cycles),2025-07,2,0,progression / toxicity / other
+PR00533,Bispecific B (fixed 12 cycles),2025-02,4,0,progression / toxicity / other
+PR00534,Bispecific B (fixed 12 cycles),2025-11,8,1,still on therapy
+PR00535,Bispecific B (fixed 12 cycles),2025-07,12,0,completed fixed course
+PR00536,Bispecific B (fixed 12 cycles),2024-06,12,0,completed fixed course
+PR00537,Bispecific B (fixed 12 cycles),2024-09,9,0,progression / toxicity / other
+PR00538,Bispecific B (fixed 12 cycles),2025-05,6,0,progression / toxicity / other
+PR00539,Bispecific B (fixed 12 cycles),2024-02,5,0,progression / toxicity / other
+PR00540,Bispecific B (fixed 12 cycles),2025-05,3,0,progression / toxicity / other
+PR00541,Bispecific B (fixed 12 cycles),2025-08,1,0,progression / toxicity / other
+PR00542,Bispecific B (fixed 12 cycles),2024-02,1,0,progression / toxicity / other
+PR00543,Bispecific B (fixed 12 cycles),2026-04,3,1,still on therapy
+PR00544,Bispecific B (fixed 12 cycles),2025-05,1,0,progression / toxicity / other
+PR00545,Bispecific B (fixed 12 cycles),2024-01,5,0,progression / toxicity / other
+PR00546,Bispecific B (fixed 12 cycles),2026-06,1,1,still on therapy
+PR00547,Bispecific B (fixed 12 cycles),2025-07,10,0,progression / toxicity / other
+PR00548,Bispecific B (fixed 12 cycles),2025-03,9,0,progression / toxicity / other
+PR00549,Bispecific B (fixed 12 cycles),2024-10,12,0,completed fixed course
+PR00550,Bispecific B (fixed 12 cycles),2024-01,4,0,progression / toxicity / other
+PR00551,Bispecific B (fixed 12 cycles),2025-11,8,1,still on therapy
+PR00552,Bispecific B (fixed 12 cycles),2025-04,4,0,progression / toxicity / other
+PR00553,Bispecific B (fixed 12 cycles),2025-05,12,0,completed fixed course
+PR00554,Bispecific B (fixed 12 cycles),2026-03,4,1,still on therapy
+PR00555,Bispecific B (fixed 12 cycles),2025-11,8,1,still on therapy
+PR00556,Bispecific B (fixed 12 cycles),2024-02,12,0,completed fixed course
+PR00557,Bispecific B (fixed 12 cycles),2024-06,8,0,progression / toxicity / other
+PR00558,Bispecific B (fixed 12 cycles),2024-09,1,0,progression / toxicity / other
+PR00559,Bispecific B (fixed 12 cycles),2025-07,12,0,completed fixed course
+PR00560,Bispecific B (fixed 12 cycles),2025-10,8,0,progression / toxicity / other
+PR00561,Bispecific B (fixed 12 cycles),2025-08,11,1,still on therapy
+PR00562,Bispecific B (fixed 12 cycles),2025-04,11,0,progression / toxicity / other
+PR00563,Bispecific B (fixed 12 cycles),2024-03,12,0,completed fixed course
+PR00564,Bispecific B (fixed 12 cycles),2025-03,12,0,completed fixed course
+PR00565,Bispecific B (fixed 12 cycles),2026-04,3,0,progression / toxicity / other
+PR00566,Bispecific B (fixed 12 cycles),2025-11,8,1,still on therapy
+PR00567,Bispecific B (fixed 12 cycles),2025-02,3,0,progression / toxicity / other
+PR00568,Bispecific B (fixed 12 cycles),2024-09,12,0,completed fixed course
+PR00569,Bispecific B (fixed 12 cycles),2025-12,7,1,still on therapy
+PR00570,Bispecific B (fixed 12 cycles),2025-04,5,0,progression / toxicity / other
+PR00571,Bispecific B (fixed 12 cycles),2026-01,2,0,progression / toxicity / other
+PR00572,Bispecific B (fixed 12 cycles),2024-02,12,0,completed fixed course
+PR00573,Bispecific B (fixed 12 cycles),2024-07,5,0,progression / toxicity / other
+PR00574,Bispecific B (fixed 12 cycles),2025-12,7,1,still on therapy
+PR00575,Bispecific B (fixed 12 cycles),2026-01,6,0,progression / toxicity / other
+PR00576,Bispecific B (fixed 12 cycles),2024-02,9,0,progression / toxicity / other
+PR00577,Bispecific B (fixed 12 cycles),2025-08,7,0,progression / toxicity / other
+PR00578,Bispecific B (fixed 12 cycles),2024-02,5,0,progression / toxicity / other
+PR00579,Bispecific B (fixed 12 cycles),2024-06,3,0,progression / toxicity / other
+PR00580,Bispecific B (fixed 12 cycles),2025-12,7,1,still on therapy
+PR00581,Bispecific B (fixed 12 cycles),2025-10,6,0,progression / toxicity / other
+PR00582,Bispecific B (fixed 12 cycles),2025-11,1,0,progression / toxicity / other
+PR00583,Bispecific B (fixed 12 cycles),2024-05,12,0,completed fixed course
+PR00584,Bispecific B (fixed 12 cycles),2026-03,4,1,still on therapy
+PR00585,Bispecific B (fixed 12 cycles),2025-11,2,0,progression / toxicity / other
+PR00586,Bispecific B (fixed 12 cycles),2025-02,2,0,progression / toxicity / other
+PR00587,Bispecific B (fixed 12 cycles),2026-05,2,1,still on therapy
+PR00588,Bispecific B (fixed 12 cycles),2026-01,6,1,still on therapy
+PR00589,Bispecific B (fixed 12 cycles),2024-05,12,0,completed fixed course
+PR00590,Bispecific B (fixed 12 cycles),2026-02,5,1,still on therapy
+PR00591,Bispecific B (fixed 12 cycles),2025-03,2,0,progression / toxicity / other
+PR00592,Bispecific B (fixed 12 cycles),2026-06,1,1,still on therapy
+PR00593,Bispecific B (fixed 12 cycles),2024-11,4,0,progression / toxicity / other
+PR00594,Bispecific B (fixed 12 cycles),2025-10,9,1,still on therapy
+PR00595,Bispecific B (fixed 12 cycles),2024-11,4,0,progression / toxicity / other
+PR00596,Bispecific B (fixed 12 cycles),2025-02,4,0,progression / toxicity / other
+PR00597,Bispecific B (fixed 12 cycles),2024-02,12,0,completed fixed course
+PR00598,Bispecific B (fixed 12 cycles),2024-04,4,0,progression / toxicity / other
+PR00599,Bispecific B (fixed 12 cycles),2024-05,12,0,completed fixed course
+PR00600,Bispecific B (fixed 12 cycles),2024-04,1,0,progression / toxicity / other
+PR00601,Bispecific B (fixed 12 cycles),2025-08,10,0,progression / toxicity / other
+PR00602,Bispecific B (fixed 12 cycles),2025-04,12,0,completed fixed course
+PR00603,Bispecific B (fixed 12 cycles),2025-02,5,0,progression / toxicity / other
+PR00604,Bispecific B (fixed 12 cycles),2026-01,6,1,still on therapy
+PR00605,Bispecific B (fixed 12 cycles),2024-06,9,0,progression / toxicity / other
+PR00606,Bispecific B (fixed 12 cycles),2025-08,1,0,progression / toxicity / other
+PR00607,Bispecific B (fixed 12 cycles),2024-02,12,0,completed fixed course
+PR00608,Bispecific B (fixed 12 cycles),2025-09,10,1,still on therapy
+PR00609,Bispecific B (fixed 12 cycles),2024-04,2,0,progression / toxicity / other
+PR00610,Bispecific B (fixed 12 cycles),2025-09,5,0,progression / toxicity / other
+PR00611,Bispecific B (fixed 12 cycles),2026-03,4,1,still on therapy
+PR00612,Bispecific B (fixed 12 cycles),2024-06,1,0,progression / toxicity / other
+PR00613,Bispecific B (fixed 12 cycles),2024-10,12,0,completed fixed course
+PR00614,Bispecific B (fixed 12 cycles),2024-05,12,0,completed fixed course
+PR00615,Bispecific B (fixed 12 cycles),2026-06,1,1,still on therapy
+PR00616,Bispecific B (fixed 12 cycles),2025-12,7,1,still on therapy
+PR00617,Bispecific B (fixed 12 cycles),2024-04,12,0,completed fixed course
+PR00618,Bispecific B (fixed 12 cycles),2024-12,12,0,completed fixed course
+PR00619,Bispecific B (fixed 12 cycles),2025-12,7,1,still on therapy
+PR00620,Bispecific B (fixed 12 cycles),2024-07,12,0,completed fixed course
+PR00621,Bispecific B (fixed 12 cycles),2024-12,10,0,progression / toxicity / other
+PR00622,Bispecific B (fixed 12 cycles),2024-02,1,0,progression / toxicity / other
+PR00623,Bispecific B (fixed 12 cycles),2025-05,2,0,progression / toxicity / other
+PR00624,Bispecific B (fixed 12 cycles),2026-04,3,1,still on therapy
+PR00625,Bispecific B (fixed 12 cycles),2025-07,12,0,completed fixed course
+PR00626,Bispecific B (fixed 12 cycles),2025-10,9,1,still on therapy
+PR00627,Bispecific B (fixed 12 cycles),2024-06,3,0,progression / toxicity / other
+PR00628,Bispecific B (fixed 12 cycles),2025-12,1,0,progression / toxicity / other
+PR00629,Bispecific B (fixed 12 cycles),2026-01,6,1,still on therapy
+PR00630,Bispecific B (fixed 12 cycles),2024-07,7,0,progression / toxicity / other
+PR00631,Bispecific B (fixed 12 cycles),2025-07,9,0,progression / toxicity / other
+PR00632,Bispecific B (fixed 12 cycles),2025-07,9,0,progression / toxicity / other
+PR00633,Bispecific B (fixed 12 cycles),2025-07,12,0,completed fixed course
+PR00634,Bispecific B (fixed 12 cycles),2025-04,12,0,completed fixed course
+PR00635,Bispecific B (fixed 12 cycles),2024-07,2,0,progression / toxicity / other
+PR00636,Bispecific B (fixed 12 cycles),2024-10,12,0,completed fixed course
+PR00637,Bispecific B (fixed 12 cycles),2025-02,12,0,completed fixed course
+PR00638,Bispecific B (fixed 12 cycles),2024-04,4,0,progression / toxicity / other
+PR00639,Bispecific B (fixed 12 cycles),2025-11,8,1,still on therapy
+PR00640,Bispecific B (fixed 12 cycles),2026-03,4,1,still on therapy
+PR00641,Bispecific B (fixed 12 cycles),2025-09,10,1,still on therapy
+PR00642,Bispecific B (fixed 12 cycles),2025-08,11,1,still on therapy
+PR00643,Bispecific B (fixed 12 cycles),2025-12,4,0,progression / toxicity / other
+PR00644,Bispecific B (fixed 12 cycles),2024-11,5,0,progression / toxicity / other
+PR00645,Bispecific B (fixed 12 cycles),2026-06,1,1,still on therapy
+PR00646,Bispecific B (fixed 12 cycles),2024-04,12,0,completed fixed course
+PR00647,Bispecific B (fixed 12 cycles),2024-01,12,0,completed fixed course
+PR00648,Bispecific B (fixed 12 cycles),2026-02,5,1,still on therapy
+PR00649,Bispecific B (fixed 12 cycles),2024-09,12,0,completed fixed course
+PR00650,Bispecific B (fixed 12 cycles),2025-11,8,1,still on therapy
+PR00651,Bispecific B (fixed 12 cycles),2025-03,6,0,progression / toxicity / other
+PR00652,Bispecific B (fixed 12 cycles),2024-11,5,0,progression / toxicity / other
+PR00653,Bispecific B (fixed 12 cycles),2025-06,4,0,progression / toxicity / other
+PR00654,Bispecific B (fixed 12 cycles),2025-02,5,0,progression / toxicity / other
+PR00655,Bispecific B (fixed 12 cycles),2024-08,2,0,progression / toxicity / other
+PR00656,Bispecific B (fixed 12 cycles),2025-12,2,0,progression / toxicity / other
+PR00657,Bispecific B (fixed 12 cycles),2025-01,12,0,completed fixed course
+PR00658,Bispecific B (fixed 12 cycles),2025-05,12,0,completed fixed course
+PR00659,Bispecific B (fixed 12 cycles),2025-05,12,0,completed fixed course
+PR00660,Bispecific B (fixed 12 cycles),2025-11,5,0,progression / toxicity / other
+PR00661,Bispecific B (fixed 12 cycles),2024-12,3,0,progression / toxicity / other
+PR00662,Bispecific B (fixed 12 cycles),2025-02,5,0,progression / toxicity / other
+PR00663,Bispecific B (fixed 12 cycles),2025-03,12,0,completed fixed course
+PR00664,Bispecific B (fixed 12 cycles),2026-03,4,1,still on therapy
+PR00665,Bispecific B (fixed 12 cycles),2024-12,6,0,progression / toxicity / other
+PR00666,Bispecific B (fixed 12 cycles),2025-03,12,0,completed fixed course
+PR00667,Bispecific B (fixed 12 cycles),2026-01,6,1,still on therapy
+PR00668,Bispecific B (fixed 12 cycles),2025-03,12,0,completed fixed course
+PR00669,Bispecific B (fixed 12 cycles),2024-10,9,0,progression / toxicity / other
+PR00670,Bispecific B (fixed 12 cycles),2025-10,2,0,progression / toxicity / other
+PR00671,Bispecific B (fixed 12 cycles),2026-01,6,1,still on therapy
+PR00672,Bispecific B (fixed 12 cycles),2025-08,11,1,still on therapy
+PR00673,Bispecific B (fixed 12 cycles),2024-11,12,0,completed fixed course
+PR00674,Bispecific B (fixed 12 cycles),2025-03,1,0,progression / toxicity / other
+PR00675,Bispecific B (fixed 12 cycles),2024-11,12,0,completed fixed course
+PR00676,Bispecific B (fixed 12 cycles),2024-10,4,0,progression / toxicity / other
+PR00677,Bispecific B (fixed 12 cycles),2025-01,12,0,completed fixed course
+PR00678,Bispecific B (fixed 12 cycles),2024-05,2,0,progression / toxicity / other
+PR00679,Bispecific B (fixed 12 cycles),2025-05,6,0,progression / toxicity / other
+PR00680,Bispecific B (fixed 12 cycles),2025-04,10,0,progression / toxicity / other
+PR00681,Bispecific B (fixed 12 cycles),2024-10,7,0,progression / toxicity / other
+PR00682,Bispecific B (fixed 12 cycles),2025-12,7,1,still on therapy
+PR00683,Bispecific B (fixed 12 cycles),2025-12,7,1,still on therapy
+PR00684,Bispecific B (fixed 12 cycles),2025-05,12,0,completed fixed course
+PR00685,Bispecific B (fixed 12 cycles),2024-07,7,0,progression / toxicity / other
+PR00686,Bispecific B (fixed 12 cycles),2025-12,7,1,still on therapy
+PR00687,Bispecific B (fixed 12 cycles),2025-03,12,0,completed fixed course
+PR00688,Bispecific B (fixed 12 cycles),2025-04,12,0,completed fixed course
+PR00689,Bispecific B (fixed 12 cycles),2026-06,1,1,still on therapy
+PR00690,Bispecific B (fixed 12 cycles),2024-04,4,0,progression / toxicity / other
+PR00691,Bispecific B (fixed 12 cycles),2025-11,8,1,still on therapy
+PR00692,Bispecific B (fixed 12 cycles),2024-04,8,0,progression / toxicity / other
+PR00693,Bispecific B (fixed 12 cycles),2024-07,6,0,progression / toxicity / other
+PR00694,Bispecific B (fixed 12 cycles),2024-02,12,0,completed fixed course
+PR00695,Bispecific B (fixed 12 cycles),2025-06,1,0,progression / toxicity / other
+PR00696,Bispecific B (fixed 12 cycles),2025-08,11,1,still on therapy
+PR00697,Bispecific B (fixed 12 cycles),2026-03,4,1,still on therapy
+PR00698,Bispecific B (fixed 12 cycles),2024-04,6,0,progression / toxicity / other
+PR00699,Bispecific B (fixed 12 cycles),2026-05,2,1,still on therapy
+PR00700,Bispecific B (fixed 12 cycles),2024-04,12,0,completed fixed course
+PR00701,Bispecific B (fixed 12 cycles),2025-06,12,0,completed fixed course
+PR00702,Bispecific B (fixed 12 cycles),2025-07,12,0,completed fixed course
+PR00703,Bispecific B (fixed 12 cycles),2024-07,12,0,completed fixed course
+PR00704,Bispecific B (fixed 12 cycles),2024-01,3,0,progression / toxicity / other
+PR00705,Bispecific B (fixed 12 cycles),2025-01,12,0,completed fixed course
+PR00706,Bispecific B (fixed 12 cycles),2026-02,5,1,still on therapy
+PR00707,Bispecific B (fixed 12 cycles),2026-04,3,1,still on therapy
+PR00708,Bispecific B (fixed 12 cycles),2024-12,12,0,completed fixed course
+PR00709,Bispecific B (fixed 12 cycles),2026-03,4,1,still on therapy
+PR00710,Bispecific B (fixed 12 cycles),2025-05,1,0,progression / toxicity / other
+PR00711,Bispecific B (fixed 12 cycles),2024-05,11,0,progression / toxicity / other
+PR00712,Bispecific B (fixed 12 cycles),2025-04,1,0,progression / toxicity / other
+PR00713,Bispecific B (fixed 12 cycles),2026-05,2,1,still on therapy
+PR00714,Bispecific B (fixed 12 cycles),2025-09,10,1,still on therapy
+PR00715,Bispecific B (fixed 12 cycles),2026-01,6,1,still on therapy
+PR00716,Bispecific B (fixed 12 cycles),2025-04,6,0,progression / toxicity / other
+PR00717,Bispecific B (fixed 12 cycles),2026-02,5,1,still on therapy
+PR00718,Bispecific B (fixed 12 cycles),2024-10,5,0,progression / toxicity / other
+PR00719,Bispecific B (fixed 12 cycles),2024-02,5,0,progression / toxicity / other
+PR00720,Bispecific B (fixed 12 cycles),2026-03,4,0,progression / toxicity / other
+PR00721,Bispecific B (fixed 12 cycles),2024-12,9,0,progression / toxicity / other
+PR00722,Bispecific B (fixed 12 cycles),2025-02,12,0,completed fixed course
+PR00723,Bispecific B (fixed 12 cycles),2026-02,5,1,still on therapy
+PR00724,Bispecific B (fixed 12 cycles),2024-04,1,0,progression / toxicity / other
+PR00725,Bispecific B (fixed 12 cycles),2025-02,12,0,completed fixed course
+PR00726,Bispecific B (fixed 12 cycles),2026-06,1,1,still on therapy
+PR00727,Bispecific B (fixed 12 cycles),2024-05,8,0,progression / toxicity / other
+PR00728,Bispecific B (fixed 12 cycles),2025-03,12,0,completed fixed course
+PR00729,Bispecific B (fixed 12 cycles),2026-03,4,1,still on therapy
+PR00730,Bispecific B (fixed 12 cycles),2024-06,12,0,completed fixed course
+PR00731,Bispecific B (fixed 12 cycles),2024-07,12,0,completed fixed course
+PR00732,Bispecific B (fixed 12 cycles),2025-07,6,0,progression / toxicity / other
+PR00733,Bispecific B (fixed 12 cycles),2024-06,3,0,progression / toxicity / other
+PR00734,Bispecific B (fixed 12 cycles),2024-10,12,0,completed fixed course
+PR00735,Bispecific B (fixed 12 cycles),2024-01,12,0,completed fixed course
+PR00736,Bispecific B (fixed 12 cycles),2024-05,12,0,completed fixed course
+PR00737,Bispecific B (fixed 12 cycles),2026-01,6,1,still on therapy
+PR00738,Bispecific B (fixed 12 cycles),2024-05,12,0,completed fixed course
+PR00739,Bispecific B (fixed 12 cycles),2026-05,2,1,still on therapy
+PR00740,Bispecific B (fixed 12 cycles),2025-11,8,1,still on therapy
+PR00741,Bispecific B (fixed 12 cycles),2026-05,2,1,still on therapy
+PR00742,Bispecific B (fixed 12 cycles),2025-01,12,0,completed fixed course
+PR00743,Bispecific B (fixed 12 cycles),2025-02,12,0,completed fixed course
+PR00744,Bispecific B (fixed 12 cycles),2025-10,2,0,progression / toxicity / other
+PR00745,Bispecific B (fixed 12 cycles),2025-07,12,0,completed fixed course
+PR00746,Bispecific B (fixed 12 cycles),2026-03,4,1,still on therapy
+PR00747,Bispecific B (fixed 12 cycles),2025-03,5,0,progression / toxicity / other
+PR00748,Bispecific B (fixed 12 cycles),2024-10,12,0,completed fixed course
+PR00749,Bispecific B (fixed 12 cycles),2025-09,4,0,progression / toxicity / other
+PR00750,Oral XPO1 inhibitor (treat to progression),2025-06,2,0,progression / toxicity / other
+PR00751,Oral XPO1 inhibitor (treat to progression),2024-05,18,0,progression / toxicity / other
+PR00752,Oral XPO1 inhibitor (treat to progression),2026-04,2,0,progression / toxicity / other
+PR00753,Oral XPO1 inhibitor (treat to progression),2025-11,8,1,still on therapy
+PR00754,Oral XPO1 inhibitor (treat to progression),2025-08,2,0,progression / toxicity / other
+PR00755,Oral XPO1 inhibitor (treat to progression),2026-04,1,0,progression / toxicity / other
+PR00756,Oral XPO1 inhibitor (treat to progression),2024-01,1,0,progression / toxicity / other
+PR00757,Oral XPO1 inhibitor (treat to progression),2025-05,4,0,progression / toxicity / other
+PR00758,Oral XPO1 inhibitor (treat to progression),2024-02,10,0,progression / toxicity / other
+PR00759,Oral XPO1 inhibitor (treat to progression),2025-12,3,0,progression / toxicity / other
+PR00760,Oral XPO1 inhibitor (treat to progression),2025-09,10,0,progression / toxicity / other
+PR00761,Oral XPO1 inhibitor (treat to progression),2025-08,3,0,progression / toxicity / other
+PR00762,Oral XPO1 inhibitor (treat to progression),2025-05,2,0,progression / toxicity / other
+PR00763,Oral XPO1 inhibitor (treat to progression),2026-06,1,1,still on therapy
+PR00764,Oral XPO1 inhibitor (treat to progression),2025-05,14,1,still on therapy
+PR00765,Oral XPO1 inhibitor (treat to progression),2025-07,5,0,progression / toxicity / other
+PR00766,Oral XPO1 inhibitor (treat to progression),2025-10,4,0,progression / toxicity / other
+PR00767,Oral XPO1 inhibitor (treat to progression),2026-02,2,0,progression / toxicity / other
+PR00768,Oral XPO1 inhibitor (treat to progression),2025-04,1,0,progression / toxicity / other
+PR00769,Oral XPO1 inhibitor (treat to progression),2025-06,2,0,progression / toxicity / other
+PR00770,Oral XPO1 inhibitor (treat to progression),2025-09,4,0,progression / toxicity / other
+PR00771,Oral XPO1 inhibitor (treat to progression),2024-11,5,0,progression / toxicity / other
+PR00772,Oral XPO1 inhibitor (treat to progression),2024-01,1,0,progression / toxicity / other
+PR00773,Oral XPO1 inhibitor (treat to progression),2024-04,2,0,progression / toxicity / other
+PR00774,Oral XPO1 inhibitor (treat to progression),2025-03,8,0,progression / toxicity / other
+PR00775,Oral XPO1 inhibitor (treat to progression),2026-06,1,1,still on therapy
+PR00776,Oral XPO1 inhibitor (treat to progression),2025-10,5,0,progression / toxicity / other
+PR00777,Oral XPO1 inhibitor (treat to progression),2024-04,17,0,progression / toxicity / other
+PR00778,Oral XPO1 inhibitor (treat to progression),2024-12,1,0,progression / toxicity / other
+PR00779,Oral XPO1 inhibitor (treat to progression),2025-11,3,0,progression / toxicity / other
+PR00780,Oral XPO1 inhibitor (treat to progression),2024-10,6,0,progression / toxicity / other
+PR00781,Oral XPO1 inhibitor (treat to progression),2024-05,15,0,progression / toxicity / other
+PR00782,Oral XPO1 inhibitor (treat to progression),2025-06,13,0,progression / toxicity / other
+PR00783,Oral XPO1 inhibitor (treat to progression),2025-08,2,0,progression / toxicity / other
+PR00784,Oral XPO1 inhibitor (treat to progression),2024-12,4,0,progression / toxicity / other
+PR00785,Oral XPO1 inhibitor (treat to progression),2024-09,2,0,progression / toxicity / other
+PR00786,Oral XPO1 inhibitor (treat to progression),2025-12,7,1,still on therapy
+PR00787,Oral XPO1 inhibitor (treat to progression),2024-01,14,0,progression / toxicity / other
+PR00788,Oral XPO1 inhibitor (treat to progression),2026-04,3,1,still on therapy
+PR00789,Oral XPO1 inhibitor (treat to progression),2025-01,10,0,progression / toxicity / other
+PR00790,Oral XPO1 inhibitor (treat to progression),2025-04,15,1,still on therapy
+PR00791,Oral XPO1 inhibitor (treat to progression),2024-02,6,0,progression / toxicity / other
+PR00792,Oral XPO1 inhibitor (treat to progression),2025-07,2,0,progression / toxicity / other
+PR00793,Oral XPO1 inhibitor (treat to progression),2025-04,13,0,progression / toxicity / other
+PR00794,Oral XPO1 inhibitor (treat to progression),2025-09,1,0,progression / toxicity / other
+PR00795,Oral XPO1 inhibitor (treat to progression),2025-08,11,1,still on therapy
+PR00796,Oral XPO1 inhibitor (treat to progression),2024-02,7,0,progression / toxicity / other
+PR00797,Oral XPO1 inhibitor (treat to progression),2025-12,3,0,progression / toxicity / other
+PR00798,Oral XPO1 inhibitor (treat to progression),2024-10,8,0,progression / toxicity / other
+PR00799,Oral XPO1 inhibitor (treat to progression),2025-04,7,0,progression / toxicity / other
+PR00800,Oral XPO1 inhibitor (treat to progression),2025-09,1,0,progression / toxicity / other
+PR00801,Oral XPO1 inhibitor (treat to progression),2024-01,2,0,progression / toxicity / other
+PR00802,Oral XPO1 inhibitor (treat to progression),2025-09,8,0,progression / toxicity / other
+PR00803,Oral XPO1 inhibitor (treat to progression),2026-06,1,0,progression / toxicity / other
+PR00804,Oral XPO1 inhibitor (treat to progression),2025-03,8,0,progression / toxicity / other
+PR00805,Oral XPO1 inhibitor (treat to progression),2024-10,6,0,progression / toxicity / other
+PR00806,Oral XPO1 inhibitor (treat to progression),2025-04,15,1,still on therapy
+PR00807,Oral XPO1 inhibitor (treat to progression),2025-06,5,0,progression / toxicity / other
+PR00808,Oral XPO1 inhibitor (treat to progression),2024-10,17,0,progression / toxicity / other
+PR00809,Oral XPO1 inhibitor (treat to progression),2025-05,14,1,still on therapy
+PR00810,Oral XPO1 inhibitor (treat to progression),2024-10,6,0,progression / toxicity / other
+PR00811,Oral XPO1 inhibitor (treat to progression),2026-01,3,0,progression / toxicity / other
+PR00812,Oral XPO1 inhibitor (treat to progression),2024-03,1,0,progression / toxicity / other
+PR00813,Oral XPO1 inhibitor (treat to progression),2026-05,2,0,progression / toxicity / other
+PR00814,Oral XPO1 inhibitor (treat to progression),2025-10,5,0,progression / toxicity / other
+PR00815,Oral XPO1 inhibitor (treat to progression),2024-10,14,0,progression / toxicity / other
+PR00816,Oral XPO1 inhibitor (treat to progression),2026-06,1,1,still on therapy
+PR00817,Oral XPO1 inhibitor (treat to progression),2025-10,1,0,progression / toxicity / other
+PR00818,Oral XPO1 inhibitor (treat to progression),2025-07,12,0,progression / toxicity / other
+PR00819,Oral XPO1 inhibitor (treat to progression),2024-03,1,0,progression / toxicity / other
+PR00820,Oral XPO1 inhibitor (treat to progression),2024-09,6,0,progression / toxicity / other
+PR00821,Oral XPO1 inhibitor (treat to progression),2025-08,1,0,progression / toxicity / other
+PR00822,Oral XPO1 inhibitor (treat to progression),2026-02,5,1,still on therapy
+PR00823,Oral XPO1 inhibitor (treat to progression),2025-05,1,0,progression / toxicity / other
+PR00824,Oral XPO1 inhibitor (treat to progression),2024-11,3,0,progression / toxicity / other
+PR00825,Oral XPO1 inhibitor (treat to progression),2025-07,2,0,progression / toxicity / other
+PR00826,Oral XPO1 inhibitor (treat to progression),2024-04,5,0,progression / toxicity / other
+PR00827,Oral XPO1 inhibitor (treat to progression),2025-04,1,0,progression / toxicity / other
+PR00828,Oral XPO1 inhibitor (treat to progression),2024-10,9,0,progression / toxicity / other
+PR00829,Oral XPO1 inhibitor (treat to progression),2025-06,4,0,progression / toxicity / other
+PR00830,Oral XPO1 inhibitor (treat to progression),2024-12,4,0,progression / toxicity / other
+PR00831,Oral XPO1 inhibitor (treat to progression),2025-10,1,0,progression / toxicity / other
+PR00832,Oral XPO1 inhibitor (treat to progression),2024-10,3,0,progression / toxicity / other
+PR00833,Oral XPO1 inhibitor (treat to progression),2025-11,2,0,progression / toxicity / other
+PR00834,Oral XPO1 inhibitor (treat to progression),2024-07,3,0,progression / toxicity / other
+PR00835,Oral XPO1 inhibitor (treat to progression),2024-07,2,0,progression / toxicity / other
+PR00836,Oral XPO1 inhibitor (treat to progression),2026-02,1,0,progression / toxicity / other
+PR00837,Oral XPO1 inhibitor (treat to progression),2024-04,3,0,progression / toxicity / other
+PR00838,Oral XPO1 inhibitor (treat to progression),2025-02,1,0,progression / toxicity / other
+PR00839,Oral XPO1 inhibitor (treat to progression),2024-10,1,0,progression / toxicity / other
+PR00840,Oral XPO1 inhibitor (treat to progression),2025-07,3,0,progression / toxicity / other
+PR00841,Oral XPO1 inhibitor (treat to progression),2026-05,1,0,progression / toxicity / other
+PR00842,Oral XPO1 inhibitor (treat to progression),2024-02,12,0,progression / toxicity / other
+PR00843,Oral XPO1 inhibitor (treat to progression),2024-12,1,0,progression / toxicity / other
+PR00844,Oral XPO1 inhibitor (treat to progression),2024-07,6,0,progression / toxicity / other
+PR00845,Oral XPO1 inhibitor (treat to progression),2025-10,2,0,progression / toxicity / other
+PR00846,Oral XPO1 inhibitor (treat to progression),2024-07,6,0,progression / toxicity / other
+PR00847,Oral XPO1 inhibitor (treat to progression),2024-12,9,0,progression / toxicity / other
+PR00848,Oral XPO1 inhibitor (treat to progression),2025-04,1,0,progression / toxicity / other
+PR00849,Oral XPO1 inhibitor (treat to progression),2025-08,7,0,progression / toxicity / other
+PR00850,Oral XPO1 inhibitor (treat to progression),2024-10,4,0,progression / toxicity / other
+PR00851,Oral XPO1 inhibitor (treat to progression),2025-05,1,0,progression / toxicity / other
+PR00852,Oral XPO1 inhibitor (treat to progression),2026-06,1,1,still on therapy
+PR00853,Oral XPO1 inhibitor (treat to progression),2026-05,2,1,still on therapy
+PR00854,Oral XPO1 inhibitor (treat to progression),2025-04,3,0,progression / toxicity / other
+PR00855,Oral XPO1 inhibitor (treat to progression),2025-06,11,0,progression / toxicity / other
+PR00856,Oral XPO1 inhibitor (treat to progression),2025-04,1,0,progression / toxicity / other
+PR00857,Oral XPO1 inhibitor (treat to progression),2025-12,4,0,progression / toxicity / other
+PR00858,Oral XPO1 inhibitor (treat to progression),2025-05,2,0,progression / toxicity / other
+PR00859,Oral XPO1 inhibitor (treat to progression),2024-02,19,0,progression / toxicity / other
+PR00860,Oral XPO1 inhibitor (treat to progression),2025-12,7,1,still on therapy
+PR00861,Oral XPO1 inhibitor (treat to progression),2024-10,5,0,progression / toxicity / other
+PR00862,Oral XPO1 inhibitor (treat to progression),2025-12,2,0,progression / toxicity / other
+PR00863,Oral XPO1 inhibitor (treat to progression),2026-03,1,0,progression / toxicity / other
+PR00864,Oral XPO1 inhibitor (treat to progression),2024-07,3,0,progression / toxicity / other
+PR00865,Oral XPO1 inhibitor (treat to progression),2024-07,10,0,progression / toxicity / other
+PR00866,Oral XPO1 inhibitor (treat to progression),2025-10,3,0,progression / toxicity / other
+PR00867,Oral XPO1 inhibitor (treat to progression),2025-08,7,0,progression / toxicity / other
+PR00868,Oral XPO1 inhibitor (treat to progression),2024-03,6,0,progression / toxicity / other
+PR00869,Oral XPO1 inhibitor (treat to progression),2024-05,3,0,progression / toxicity / other
+PR00870,Oral XPO1 inhibitor (treat to progression),2024-12,10,0,progression / toxicity / other
+PR00871,Oral XPO1 inhibitor (treat to progression),2024-05,7,0,progression / toxicity / other
+PR00872,Oral XPO1 inhibitor (treat to progression),2024-05,11,0,progression / toxicity / other
+PR00873,Oral XPO1 inhibitor (treat to progression),2026-05,2,1,still on therapy
+PR00874,Oral XPO1 inhibitor (treat to progression),2024-09,1,0,progression / toxicity / other
+PR00875,Oral XPO1 inhibitor (treat to progression),2024-01,15,0,progression / toxicity / other
+PR00876,Oral XPO1 inhibitor (treat to progression),2026-03,4,1,still on therapy
+PR00877,Oral XPO1 inhibitor (treat to progression),2026-02,5,1,still on therapy
+PR00878,Oral XPO1 inhibitor (treat to progression),2024-03,11,0,progression / toxicity / other
+PR00879,Oral XPO1 inhibitor (treat to progression),2025-02,5,0,progression / toxicity / other
+PR00880,Oral XPO1 inhibitor (treat to progression),2025-02,2,0,progression / toxicity / other
+PR00881,Oral XPO1 inhibitor (treat to progression),2024-05,3,0,progression / toxicity / other
+PR00882,Oral XPO1 inhibitor (treat to progression),2024-09,5,0,progression / toxicity / other
+PR00883,Oral XPO1 inhibitor (treat to progression),2025-04,8,0,progression / toxicity / other
+PR00884,Oral XPO1 inhibitor (treat to progression),2025-12,3,0,progression / toxicity / other
+PR00885,Oral XPO1 inhibitor (treat to progression),2024-03,3,0,progression / toxicity / other
+PR00886,Oral XPO1 inhibitor (treat to progression),2024-03,1,0,progression / toxicity / other
+PR00887,Oral XPO1 inhibitor (treat to progression),2025-08,11,1,still on therapy
+PR00888,Oral XPO1 inhibitor (treat to progression),2024-08,3,0,progression / toxicity / other
+PR00889,Oral XPO1 inhibitor (treat to progression),2024-03,8,0,progression / toxicity / other
+PR00890,Oral XPO1 inhibitor (treat to progression),2025-09,10,1,still on therapy
+PR00891,Oral XPO1 inhibitor (treat to progression),2024-11,3,0,progression / toxicity / other
+PR00892,Oral XPO1 inhibitor (treat to progression),2025-06,1,0,progression / toxicity / other
+PR00893,Oral XPO1 inhibitor (treat to progression),2025-05,3,0,progression / toxicity / other
+PR00894,Oral XPO1 inhibitor (treat to progression),2025-08,9,0,progression / toxicity / other
+PR00895,Oral XPO1 inhibitor (treat to progression),2025-09,9,0,progression / toxicity / other
+PR00896,Oral XPO1 inhibitor (treat to progression),2026-05,2,1,still on therapy
+PR00897,Oral XPO1 inhibitor (treat to progression),2025-09,2,0,progression / toxicity / other
+PR00898,Oral XPO1 inhibitor (treat to progression),2025-08,3,0,progression / toxicity / other
+PR00899,Oral XPO1 inhibitor (treat to progression),2024-01,7,0,progression / toxicity / other
