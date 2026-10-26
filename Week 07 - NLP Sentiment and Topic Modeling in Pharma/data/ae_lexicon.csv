@@ -1,0 +1,78 @@
+lay_term,course_pt,in_label,serious_default
+nausea,Nausea,Y,N
+nauseous,Nausea,Y,N
+queasy,Nausea,Y,N
+sick to my stomach,Nausea,Y,N
+stomach upset,Nausea,Y,N
+gi upset,Nausea,Y,N
+vomiting,Vomiting,Y,N
+threw up,Vomiting,Y,N
+throwing up,Vomiting,Y,N
+vomited,Vomiting,Y,N
+diarrhea,Diarrhoea,Y,N
+loose stools,Diarrhoea,Y,N
+diarrhoea,Diarrhoea,Y,N
+constipation,Constipation,Y,N
+constipated,Constipation,Y,N
+stomach pain,Abdominal pain,Y,N
+abdominal pain,Abdominal pain,Y,N
+belly pain,Abdominal pain,Y,N
+cramps,Abdominal pain,Y,N
+headache,Headache,Y,N
+headaches,Headache,Y,N
+migraine,Headache,Y,N
+dizzy,Dizziness,Y,N
+dizziness,Dizziness,Y,N
+lightheaded,Dizziness,Y,N
+low blood sugar,Hypoglycaemia,Y,N
+hypoglycemia,Hypoglycaemia,Y,N
+hypo,Hypoglycaemia,Y,N
+sugar crashed,Hypoglycaemia,Y,N
+glucose dropped,Hypoglycaemia,Y,N
+shaky and sweaty,Hypoglycaemia,Y,N
+uti,Urinary tract infection,Y,N
+urinary tract infection,Urinary tract infection,Y,N
+bladder infection,Urinary tract infection,Y,N
+yeast infection,Genital mycotic infection,Y,N
+rash,Rash,Y,N
+hives,Urticaria,Y,N
+itching,Pruritus,Y,N
+itchy,Pruritus,Y,N
+no appetite,Decreased appetite,Y,N
+lost my appetite,Decreased appetite,Y,N
+not hungry,Decreased appetite,Y,N
+lost weight,Weight decreased,Y,N
+weight loss,Weight decreased,Y,N
+tired,Fatigue,Y,N
+fatigue,Fatigue,Y,N
+exhausted,Fatigue,Y,N
+dehydrated,Dehydration,Y,N
+dehydration,Dehydration,Y,N
+pancreatitis,Pancreatitis,N,Y
+inflamed pancreas,Pancreatitis,N,Y
+severe pain radiating to the back,Pancreatitis,N,Y
+kidney injury,Acute kidney injury,N,Y
+creatinine spiked,Acute kidney injury,N,Y
+kidneys shut down,Acute kidney injury,N,Y
+kidney failure,Acute kidney injury,N,Y
+liver enzymes,Hepatic enzyme increased,N,Y
+jaundice,Hepatic injury,N,Y
+yellow eyes,Hepatic injury,N,Y
+swelling of the face,Angioedema,N,Y
+lips swelled,Angioedema,N,Y
+throat closing,Angioedema,N,Y
+anaphylaxis,Anaphylactic reaction,N,Y
+passed out,Syncope,N,Y
+fainted,Syncope,N,Y
+blacked out,Syncope,N,Y
+chest pain,Chest pain,N,Y
+heart racing,Palpitations,N,N
+palpitations,Palpitations,N,N
+hospitalized,(seriousness: hospitalisation),-,Y
+hospitalised,(seriousness: hospitalisation),-,Y
+admitted,(seriousness: hospitalisation),-,Y
+er visit,(seriousness: hospitalisation),-,Y
+emergency room,(seriousness: hospitalisation),-,Y
+icu,(seriousness: life-threatening),-,Y
+died,(seriousness: death),-,Y
+passed away,(seriousness: death),-,Y

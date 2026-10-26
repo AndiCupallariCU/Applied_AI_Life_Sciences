@@ -1,0 +1,2401 @@
+hcp_id,specialty,region,segment,rep_id
+H00001,Endocrinology,Northeast,Maintain,R046
+H00002,Endocrinology,Northeast,Grow,R036
+H00003,PCP,South,Grow,R060
+H00004,Endocrinology,Midwest,Grow,R050
+H00005,PCP,West,Maintain,R026
+H00006,Internal Medicine,West,Build,R026
+H00007,PCP,South,Low priority,R023
+H00008,PCP,Midwest,Grow,R020
+H00009,PCP,South,Grow,R014
+H00010,PCP,Northeast,Maintain,R042
+H00011,PCP,Northeast,Grow,R013
+H00012,PCP,Midwest,Grow,R009
+H00013,Internal Medicine,Northeast,Low priority,R003
+H00014,Endocrinology,Midwest,Low priority,R033
+H00015,PCP,Northeast,Grow,R056
+H00016,Internal Medicine,Midwest,Build,R056
+H00017,Endocrinology,West,Maintain,R038
+H00018,Endocrinology,Midwest,Build,R050
+H00019,Internal Medicine,Northeast,Maintain,R020
+H00020,PCP,Northeast,Grow,R039
+H00021,PCP,Midwest,Maintain,R012
+H00022,PCP,South,Grow,R051
+H00023,PCP,West,Grow,R007
+H00024,Endocrinology,West,Grow,R046
+H00025,PCP,South,Maintain,R049
+H00026,PCP,West,Maintain,R046
+H00027,PCP,South,Grow,R025
+H00028,Endocrinology,Midwest,Grow,R016
+H00029,PCP,West,Low priority,R027
+H00030,Internal Medicine,West,Grow,R051
+H00031,NP/PA,South,Low priority,R028
+H00032,Endocrinology,South,Maintain,R038
+H00033,PCP,South,Maintain,R005
+H00034,Internal Medicine,Northeast,Grow,R052
+H00035,PCP,West,Build,R023
+H00036,Internal Medicine,South,Grow,R039
+H00037,PCP,Northeast,Maintain,R020
+H00038,PCP,Northeast,Low priority,R033
+H00039,PCP,Northeast,Build,R026
+H00040,Endocrinology,Midwest,Low priority,R036
+H00041,Endocrinology,Northeast,Grow,R038
+H00042,Endocrinology,Northeast,Grow,R034
+H00043,PCP,Midwest,Grow,R028
+H00044,PCP,South,Maintain,R033
+H00045,PCP,Northeast,Build,R030
+H00046,PCP,West,Grow,R055
+H00047,Internal Medicine,West,Maintain,R054
+H00048,Endocrinology,South,Maintain,R027
+H00049,Internal Medicine,Northeast,Grow,R041
+H00050,PCP,Midwest,Grow,R029
+H00051,PCP,Northeast,Maintain,R015
+H00052,PCP,West,Grow,R021
+H00053,PCP,Northeast,Low priority,R024
+H00054,PCP,West,Grow,R026
+H00055,PCP,West,Maintain,R003
+H00056,PCP,Midwest,Maintain,R056
+H00057,Internal Medicine,Northeast,Build,R054
+H00058,PCP,Midwest,Maintain,R022
+H00059,PCP,South,Maintain,R050
+H00060,Endocrinology,Northeast,Maintain,R018
+H00061,Internal Medicine,South,Maintain,R040
+H00062,Internal Medicine,Northeast,Low priority,R003
+H00063,Endocrinology,Northeast,Build,R054
+H00064,PCP,South,Grow,R008
+H00065,PCP,West,Low priority,R027
+H00066,PCP,South,Low priority,R046
+H00067,PCP,West,Build,R051
+H00068,PCP,Northeast,Build,R020
+H00069,Internal Medicine,West,Build,R023
+H00070,NP/PA,South,Low priority,R019
+H00071,PCP,West,Grow,R022
+H00072,PCP,Midwest,Grow,R012
+H00073,PCP,West,Low priority,R047
+H00074,NP/PA,South,Grow,R006
+H00075,Endocrinology,Northeast,Grow,R052
+H00076,PCP,Midwest,Grow,R028
+H00077,PCP,Northeast,Maintain,R060
+H00078,Endocrinology,West,Maintain,R043
+H00079,Endocrinology,Northeast,Maintain,R056
+H00080,PCP,Northeast,Maintain,R028
+H00081,PCP,West,Maintain,R031
+H00082,PCP,South,Build,R034
+H00083,PCP,Northeast,Grow,R041
+H00084,Endocrinology,Northeast,Grow,R015
+H00085,PCP,Northeast,Low priority,R005
+H00086,PCP,South,Grow,R059
+H00087,PCP,Northeast,Maintain,R045
+H00088,PCP,Midwest,Build,R060
+H00089,PCP,South,Grow,R002
+H00090,PCP,West,Low priority,R048
+H00091,PCP,West,Low priority,R009
+H00092,PCP,South,Grow,R037
+H00093,Endocrinology,Northeast,Build,R042
+H00094,Endocrinology,Northeast,Maintain,R010
+H00095,PCP,Northeast,Maintain,R052
+H00096,PCP,Midwest,Grow,R038
+H00097,PCP,Midwest,Maintain,R029
+H00098,Internal Medicine,West,Build,R054
+H00099,PCP,South,Grow,R038
+H00100,Endocrinology,Northeast,Grow,R014
+H00101,PCP,South,Maintain,R027
+H00102,PCP,Midwest,Build,R044
+H00103,PCP,Northeast,Build,R016
+H00104,PCP,West,Low priority,R004
+H00105,Endocrinology,Midwest,Grow,R040
+H00106,Endocrinology,Midwest,Build,R014
+H00107,PCP,West,Maintain,R022
+H00108,PCP,Northeast,Maintain,R055
+H00109,NP/PA,West,Maintain,R018
+H00110,PCP,South,Low priority,R058
+H00111,PCP,West,Grow,R011
+H00112,PCP,Northeast,Grow,R016
+H00113,Endocrinology,South,Maintain,R047
+H00114,PCP,West,Low priority,R032
+H00115,PCP,Midwest,Grow,R053
+H00116,Internal Medicine,West,Build,R028
+H00117,PCP,Midwest,Build,R059
+H00118,PCP,Northeast,Maintain,R009
+H00119,PCP,Northeast,Grow,R023
+H00120,PCP,West,Maintain,R022
+H00121,PCP,Midwest,Grow,R029
+H00122,PCP,Northeast,Grow,R020
+H00123,PCP,Northeast,Low priority,R001
+H00124,PCP,South,Maintain,R012
+H00125,Endocrinology,South,Grow,R035
+H00126,Endocrinology,Midwest,Build,R013
+H00127,PCP,Northeast,Build,R027
+H00128,Endocrinology,South,Build,R055
+H00129,PCP,Northeast,Maintain,R027
+H00130,Endocrinology,South,Maintain,R013
+H00131,Endocrinology,Northeast,Build,R053
+H00132,Endocrinology,South,Build,R060
+H00133,Endocrinology,West,Maintain,R006
+H00134,Internal Medicine,Northeast,Grow,R055
+H00135,PCP,Midwest,Maintain,R020
+H00136,Internal Medicine,Northeast,Grow,R043
+H00137,PCP,West,Low priority,R047
+H00138,Endocrinology,Midwest,Low priority,R053
+H00139,PCP,Northeast,Maintain,R055
+H00140,NP/PA,Northeast,Maintain,R059
+H00141,PCP,West,Grow,R019
+H00142,PCP,Midwest,Grow,R025
+H00143,Endocrinology,South,Build,R056
+H00144,PCP,Midwest,Grow,R057
+H00145,PCP,Midwest,Build,R057
+H00146,NP/PA,South,Build,R010
+H00147,Endocrinology,South,Grow,R014
+H00148,PCP,West,Build,R025
+H00149,PCP,West,Maintain,R038
+H00150,PCP,Midwest,Grow,R041
+H00151,PCP,West,Maintain,R025
+H00152,PCP,South,Low priority,R051
+H00153,PCP,Midwest,Maintain,R045
+H00154,PCP,South,Build,R046
+H00155,PCP,Midwest,Maintain,R012
+H00156,PCP,West,Low priority,R051
+H00157,Endocrinology,South,Low priority,R006
+H00158,Endocrinology,Northeast,Grow,R014
+H00159,PCP,West,Build,R046
+H00160,PCP,Midwest,Build,R040
+H00161,Endocrinology,Midwest,Low priority,R032
+H00162,PCP,South,Build,R007
+H00163,Endocrinology,Midwest,Build,R011
+H00164,PCP,Midwest,Grow,R030
+H00165,PCP,West,Maintain,R023
+H00166,PCP,South,Maintain,R004
+H00167,Endocrinology,West,Maintain,R037
+H00168,PCP,South,Grow,R030
+H00169,NP/PA,South,Maintain,R055
+H00170,PCP,South,Build,R019
+H00171,Endocrinology,Midwest,Maintain,R004
+H00172,PCP,Midwest,Low priority,R051
+H00173,PCP,West,Maintain,R042
+H00174,PCP,Midwest,Maintain,R019
+H00175,PCP,West,Build,R031
+H00176,PCP,Midwest,Maintain,R011
+H00177,NP/PA,South,Low priority,R051
+H00178,Internal Medicine,West,Grow,R029
+H00179,NP/PA,Midwest,Build,R049
+H00180,PCP,South,Build,R022
+H00181,PCP,Midwest,Maintain,R022
+H00182,PCP,West,Grow,R020
+H00183,PCP,Northeast,Build,R033
+H00184,PCP,Northeast,Low priority,R019
+H00185,PCP,Midwest,Grow,R014
+H00186,Endocrinology,Midwest,Maintain,R041
+H00187,PCP,West,Low priority,R011
+H00188,PCP,West,Maintain,R042
+H00189,PCP,West,Build,R039
+H00190,PCP,Northeast,Build,R035
+H00191,Internal Medicine,West,Build,R033
+H00192,PCP,South,Maintain,R015
+H00193,PCP,Northeast,Low priority,R040
+H00194,PCP,Northeast,Build,R031
+H00195,PCP,Northeast,Build,R030
+H00196,PCP,Midwest,Low priority,R008
+H00197,Endocrinology,Midwest,Maintain,R042
+H00198,PCP,Midwest,Maintain,R028
+H00199,PCP,South,Grow,R019
+H00200,Internal Medicine,Midwest,Maintain,R033
+H00201,PCP,West,Grow,R040
+H00202,PCP,Northeast,Build,R005
+H00203,Endocrinology,Northeast,Maintain,R044
+H00204,Endocrinology,South,Grow,R034
+H00205,PCP,West,Maintain,R040
+H00206,Endocrinology,Northeast,Grow,R060
+H00207,PCP,Midwest,Build,R021
+H00208,Endocrinology,South,Grow,R020
+H00209,Endocrinology,Northeast,Grow,R053
+H00210,PCP,Northeast,Maintain,R003
+H00211,Internal Medicine,Northeast,Maintain,R006
+H00212,PCP,Northeast,Grow,R023
+H00213,PCP,West,Grow,R007
+H00214,NP/PA,South,Low priority,R045
+H00215,PCP,South,Build,R044
+H00216,NP/PA,South,Build,R059
+H00217,PCP,Northeast,Maintain,R056
+H00218,Internal Medicine,South,Grow,R053
+H00219,PCP,Northeast,Maintain,R022
+H00220,PCP,Midwest,Maintain,R012
+H00221,PCP,South,Grow,R023
+H00222,PCP,Midwest,Maintain,R052
+H00223,PCP,South,Maintain,R055
+H00224,Endocrinology,Midwest,Build,R012
+H00225,NP/PA,Northeast,Maintain,R035
+H00226,Endocrinology,Midwest,Maintain,R046
+H00227,PCP,Northeast,Build,R006
+H00228,NP/PA,West,Build,R031
+H00229,PCP,South,Maintain,R041
+H00230,PCP,West,Build,R032
+H00231,Endocrinology,South,Build,R024
+H00232,PCP,West,Grow,R059
+H00233,PCP,Northeast,Low priority,R040
+H00234,PCP,Midwest,Build,R009
+H00235,Endocrinology,West,Grow,R012
+H00236,PCP,Midwest,Maintain,R005
+H00237,Endocrinology,West,Maintain,R047
+H00238,NP/PA,West,Low priority,R028
+H00239,NP/PA,Northeast,Grow,R048
+H00240,PCP,South,Build,R041
+H00241,PCP,Midwest,Build,R002
+H00242,Endocrinology,South,Maintain,R033
+H00243,PCP,Northeast,Build,R029
+H00244,PCP,Northeast,Grow,R008
+H00245,PCP,West,Grow,R024
+H00246,PCP,West,Grow,R021
+H00247,PCP,West,Build,R014
+H00248,Endocrinology,South,Build,R027
+H00249,Endocrinology,Northeast,Build,R025
+H00250,PCP,Northeast,Low priority,R052
+H00251,Internal Medicine,Midwest,Maintain,R023
+H00252,Internal Medicine,South,Maintain,R018
+H00253,PCP,West,Build,R057
+H00254,PCP,South,Maintain,R020
+H00255,Endocrinology,South,Maintain,R053
+H00256,PCP,South,Build,R001
+H00257,PCP,Midwest,Build,R033
+H00258,Internal Medicine,South,Grow,R012
+H00259,Endocrinology,South,Maintain,R037
+H00260,PCP,Northeast,Grow,R013
+H00261,PCP,South,Low priority,R039
+H00262,Endocrinology,West,Build,R004
+H00263,PCP,Midwest,Maintain,R048
+H00264,Endocrinology,Midwest,Build,R054
+H00265,NP/PA,Midwest,Maintain,R047
+H00266,PCP,Northeast,Grow,R045
+H00267,PCP,South,Grow,R042
+H00268,PCP,West,Build,R037
+H00269,PCP,South,Maintain,R027
+H00270,PCP,Northeast,Maintain,R042
+H00271,PCP,West,Low priority,R048
+H00272,PCP,Midwest,Build,R031
+H00273,Endocrinology,West,Build,R018
+H00274,Endocrinology,Midwest,Build,R051
+H00275,PCP,Northeast,Grow,R038
+H00276,PCP,Midwest,Grow,R011
+H00277,PCP,South,Maintain,R036
+H00278,NP/PA,West,Maintain,R040
+H00279,PCP,West,Maintain,R005
+H00280,PCP,West,Grow,R011
+H00281,Internal Medicine,West,Build,R010
+H00282,Endocrinology,West,Low priority,R049
+H00283,PCP,Northeast,Build,R002
+H00284,PCP,Northeast,Build,R034
+H00285,Endocrinology,Midwest,Build,R019
+H00286,PCP,South,Grow,R056
+H00287,PCP,Northeast,Low priority,R028
+H00288,PCP,Midwest,Grow,R023
+H00289,Endocrinology,Northeast,Maintain,R034
+H00290,PCP,Northeast,Build,R035
+H00291,NP/PA,Northeast,Build,R022
+H00292,PCP,Northeast,Build,R037
+H00293,Endocrinology,West,Build,R017
+H00294,PCP,West,Grow,R001
+H00295,Endocrinology,West,Maintain,R042
+H00296,Endocrinology,Midwest,Grow,R011
+H00297,PCP,Northeast,Low priority,R038
+H00298,Endocrinology,Midwest,Maintain,R033
+H00299,PCP,South,Grow,R050
+H00300,Endocrinology,South,Build,R056
+H00301,PCP,Midwest,Build,R040
+H00302,Endocrinology,Northeast,Low priority,R036
+H00303,PCP,West,Build,R051
+H00304,Endocrinology,South,Low priority,R024
+H00305,Internal Medicine,Midwest,Grow,R050
+H00306,Internal Medicine,Northeast,Maintain,R016
+H00307,Internal Medicine,Midwest,Grow,R009
+H00308,PCP,Northeast,Grow,R030
+H00309,PCP,South,Build,R020
+H00310,Endocrinology,South,Build,R027
+H00311,PCP,West,Grow,R035
+H00312,PCP,Midwest,Grow,R031
+H00313,PCP,Northeast,Maintain,R025
+H00314,PCP,Northeast,Grow,R027
+H00315,PCP,West,Grow,R008
+H00316,Endocrinology,Northeast,Build,R036
+H00317,PCP,Midwest,Build,R023
+H00318,PCP,West,Build,R028
+H00319,PCP,West,Low priority,R050
+H00320,PCP,South,Grow,R022
+H00321,PCP,Northeast,Build,R014
+H00322,PCP,Northeast,Grow,R041
+H00323,NP/PA,Midwest,Grow,R045
+H00324,PCP,West,Maintain,R058
+H00325,PCP,Northeast,Build,R059
+H00326,PCP,West,Maintain,R052
+H00327,Internal Medicine,Northeast,Build,R004
+H00328,PCP,South,Maintain,R016
+H00329,PCP,South,Build,R053
+H00330,PCP,Midwest,Low priority,R032
+H00331,PCP,West,Grow,R008
+H00332,Endocrinology,West,Build,R053
+H00333,PCP,South,Grow,R044
+H00334,PCP,Northeast,Build,R035
+H00335,PCP,Midwest,Build,R046
+H00336,Internal Medicine,West,Grow,R002
+H00337,PCP,South,Maintain,R055
+H00338,PCP,West,Grow,R019
+H00339,PCP,South,Build,R014
+H00340,PCP,Northeast,Build,R037
+H00341,PCP,West,Low priority,R003
+H00342,Endocrinology,Northeast,Build,R039
+H00343,Endocrinology,Northeast,Grow,R019
+H00344,PCP,South,Build,R051
+H00345,PCP,Midwest,Maintain,R036
+H00346,NP/PA,Northeast,Build,R042
+H00347,Endocrinology,West,Maintain,R007
+H00348,PCP,Midwest,Grow,R018
+H00349,Endocrinology,Midwest,Grow,R033
+H00350,PCP,South,Build,R023
+H00351,NP/PA,Midwest,Grow,R035
+H00352,Endocrinology,Northeast,Maintain,R034
+H00353,PCP,Northeast,Build,R031
+H00354,PCP,South,Maintain,R018
+H00355,PCP,Midwest,Build,R050
+H00356,PCP,Midwest,Maintain,R006
+H00357,Endocrinology,West,Maintain,R049
+H00358,Internal Medicine,Midwest,Grow,R012
+H00359,PCP,Northeast,Grow,R030
+H00360,PCP,Northeast,Low priority,R054
+H00361,PCP,Northeast,Maintain,R042
+H00362,PCP,South,Maintain,R030
+H00363,PCP,Northeast,Low priority,R043
+H00364,Endocrinology,West,Maintain,R048
+H00365,PCP,West,Maintain,R045
+H00366,Endocrinology,West,Grow,R032
+H00367,PCP,West,Grow,R024
+H00368,PCP,Northeast,Maintain,R012
+H00369,PCP,South,Low priority,R048
+H00370,Endocrinology,Northeast,Maintain,R042
+H00371,PCP,West,Grow,R003
+H00372,PCP,Midwest,Maintain,R031
+H00373,Internal Medicine,West,Grow,R002
+H00374,PCP,Northeast,Grow,R034
+H00375,Internal Medicine,West,Grow,R048
+H00376,PCP,South,Grow,R001
+H00377,PCP,Midwest,Low priority,R025
+H00378,PCP,South,Low priority,R016
+H00379,PCP,Northeast,Low priority,R057
+H00380,NP/PA,Northeast,Grow,R021
+H00381,PCP,Northeast,Grow,R040
+H00382,PCP,Midwest,Maintain,R054
+H00383,PCP,Northeast,Low priority,R046
+H00384,Endocrinology,South,Low priority,R053
+H00385,Internal Medicine,South,Grow,R019
+H00386,PCP,West,Build,R025
+H00387,NP/PA,Northeast,Grow,R036
+H00388,PCP,Northeast,Maintain,R018
+H00389,PCP,South,Grow,R025
+H00390,Endocrinology,West,Grow,R047
+H00391,PCP,South,Grow,R021
+H00392,Endocrinology,West,Maintain,R056
+H00393,Internal Medicine,West,Grow,R054
+H00394,PCP,West,Maintain,R044
+H00395,PCP,Northeast,Build,R045
+H00396,PCP,Northeast,Grow,R048
+H00397,NP/PA,Midwest,Low priority,R052
+H00398,PCP,West,Grow,R035
+H00399,PCP,West,Low priority,R027
+H00400,PCP,South,Low priority,R005
+H00401,PCP,Northeast,Build,R010
+H00402,PCP,Midwest,Low priority,R052
+H00403,PCP,Midwest,Grow,R054
+H00404,PCP,Northeast,Grow,R015
+H00405,PCP,Northeast,Grow,R037
+H00406,PCP,West,Low priority,R012
+H00407,PCP,South,Build,R049
+H00408,NP/PA,South,Maintain,R005
+H00409,PCP,Midwest,Grow,R060
+H00410,Endocrinology,Northeast,Low priority,R005
+H00411,NP/PA,Northeast,Maintain,R023
+H00412,Internal Medicine,Midwest,Build,R057
+H00413,Internal Medicine,South,Maintain,R022
+H00414,PCP,South,Build,R032
+H00415,PCP,Northeast,Grow,R037
+H00416,PCP,South,Build,R031
+H00417,Endocrinology,West,Maintain,R022
+H00418,PCP,Midwest,Build,R045
+H00419,PCP,West,Grow,R017
+H00420,Endocrinology,West,Low priority,R006
+H00421,PCP,Midwest,Grow,R016
+H00422,NP/PA,Northeast,Grow,R058
+H00423,Endocrinology,South,Maintain,R017
+H00424,Endocrinology,Midwest,Maintain,R034
+H00425,Endocrinology,West,Grow,R037
+H00426,Endocrinology,Northeast,Grow,R035
+H00427,PCP,Northeast,Maintain,R023
+H00428,PCP,South,Low priority,R029
+H00429,NP/PA,West,Build,R037
+H00430,PCP,West,Grow,R005
+H00431,Internal Medicine,Midwest,Grow,R002
+H00432,PCP,Northeast,Grow,R027
+H00433,PCP,Northeast,Grow,R015
+H00434,Internal Medicine,West,Maintain,R003
+H00435,NP/PA,West,Build,R041
+H00436,PCP,Midwest,Maintain,R037
+H00437,NP/PA,Midwest,Build,R020
+H00438,PCP,South,Build,R015
+H00439,PCP,Northeast,Grow,R032
+H00440,PCP,Northeast,Grow,R044
+H00441,PCP,South,Grow,R031
+H00442,Endocrinology,Midwest,Maintain,R055
+H00443,PCP,West,Build,R022
+H00444,NP/PA,Midwest,Grow,R024
+H00445,PCP,Northeast,Grow,R057
+H00446,PCP,West,Grow,R029
+H00447,NP/PA,South,Grow,R008
+H00448,PCP,West,Maintain,R054
+H00449,Endocrinology,Northeast,Low priority,R033
+H00450,Internal Medicine,Northeast,Maintain,R036
+H00451,NP/PA,West,Build,R044
+H00452,PCP,Northeast,Grow,R005
+H00453,Endocrinology,South,Build,R028
+H00454,PCP,South,Maintain,R054
+H00455,PCP,Midwest,Grow,R029
+H00456,Endocrinology,Northeast,Maintain,R006
+H00457,NP/PA,West,Maintain,R044
+H00458,PCP,West,Grow,R056
+H00459,PCP,West,Grow,R056
+H00460,PCP,Midwest,Build,R017
+H00461,PCP,South,Maintain,R056
+H00462,NP/PA,Northeast,Grow,R057
+H00463,NP/PA,South,Build,R027
+H00464,PCP,Midwest,Grow,R046
+H00465,PCP,Midwest,Maintain,R039
+H00466,Endocrinology,Northeast,Maintain,R003
+H00467,PCP,South,Grow,R010
+H00468,PCP,Midwest,Build,R045
+H00469,Endocrinology,West,Build,R043
+H00470,PCP,West,Maintain,R054
+H00471,PCP,Midwest,Maintain,R037
+H00472,PCP,South,Maintain,R037
+H00473,PCP,South,Grow,R016
+H00474,PCP,West,Build,R043
+H00475,NP/PA,South,Low priority,R004
+H00476,PCP,Northeast,Grow,R053
+H00477,Endocrinology,South,Low priority,R002
+H00478,Internal Medicine,Midwest,Grow,R035
+H00479,PCP,Midwest,Grow,R051
+H00480,PCP,South,Maintain,R022
+H00481,PCP,West,Maintain,R019
+H00482,Internal Medicine,South,Build,R058
+H00483,NP/PA,West,Grow,R016
+H00484,PCP,Northeast,Build,R032
+H00485,Endocrinology,South,Build,R042
+H00486,PCP,West,Maintain,R021
+H00487,Endocrinology,Midwest,Build,R020
+H00488,PCP,Northeast,Maintain,R060
+H00489,PCP,West,Grow,R006
+H00490,PCP,Midwest,Grow,R045
+H00491,PCP,Midwest,Build,R047
+H00492,PCP,Midwest,Grow,R015
+H00493,PCP,West,Build,R016
+H00494,PCP,Northeast,Maintain,R023
+H00495,PCP,Midwest,Build,R056
+H00496,PCP,Midwest,Low priority,R046
+H00497,PCP,West,Grow,R020
+H00498,PCP,West,Build,R027
+H00499,PCP,Midwest,Grow,R019
+H00500,PCP,Midwest,Build,R042
+H00501,PCP,Northeast,Maintain,R057
+H00502,PCP,West,Build,R005
+H00503,PCP,West,Maintain,R050
+H00504,PCP,West,Maintain,R031
+H00505,Endocrinology,Midwest,Maintain,R029
+H00506,PCP,Northeast,Grow,R012
+H00507,PCP,Northeast,Build,R026
+H00508,Endocrinology,Midwest,Build,R030
+H00509,PCP,Midwest,Grow,R032
+H00510,PCP,Midwest,Low priority,R022
+H00511,PCP,West,Low priority,R033
+H00512,Endocrinology,West,Grow,R054
+H00513,PCP,Midwest,Maintain,R022
+H00514,PCP,West,Maintain,R028
+H00515,PCP,Northeast,Grow,R056
+H00516,PCP,South,Maintain,R046
+H00517,PCP,Midwest,Grow,R015
+H00518,PCP,Northeast,Low priority,R051
+H00519,PCP,Midwest,Low priority,R041
+H00520,PCP,Northeast,Low priority,R043
+H00521,PCP,South,Maintain,R052
+H00522,PCP,Northeast,Build,R027
+H00523,PCP,Midwest,Grow,R035
+H00524,PCP,Northeast,Low priority,R040
+H00525,Endocrinology,South,Maintain,R016
+H00526,Endocrinology,Midwest,Low priority,R054
+H00527,PCP,West,Grow,R059
+H00528,PCP,South,Maintain,R023
+H00529,Endocrinology,South,Build,R030
+H00530,PCP,Midwest,Maintain,R049
+H00531,Endocrinology,West,Maintain,R028
+H00532,PCP,South,Maintain,R019
+H00533,PCP,Northeast,Grow,R014
+H00534,NP/PA,Northeast,Build,R018
+H00535,PCP,South,Grow,R002
+H00536,PCP,Northeast,Low priority,R047
+H00537,Endocrinology,Midwest,Maintain,R010
+H00538,PCP,Midwest,Grow,R057
+H00539,PCP,Midwest,Grow,R008
+H00540,PCP,Northeast,Maintain,R018
+H00541,Endocrinology,South,Grow,R052
+H00542,Endocrinology,Midwest,Grow,R033
+H00543,PCP,Northeast,Grow,R025
+H00544,PCP,West,Maintain,R058
+H00545,PCP,Midwest,Grow,R055
+H00546,NP/PA,South,Grow,R023
+H00547,Endocrinology,West,Maintain,R037
+H00548,PCP,West,Grow,R034
+H00549,NP/PA,Northeast,Grow,R059
+H00550,Internal Medicine,Northeast,Grow,R011
+H00551,NP/PA,Midwest,Grow,R058
+H00552,PCP,West,Low priority,R059
+H00553,PCP,Northeast,Maintain,R006
+H00554,Internal Medicine,West,Maintain,R037
+H00555,Endocrinology,Midwest,Build,R017
+H00556,PCP,South,Maintain,R011
+H00557,PCP,South,Maintain,R058
+H00558,Internal Medicine,West,Grow,R016
+H00559,PCP,West,Maintain,R048
+H00560,PCP,South,Maintain,R009
+H00561,NP/PA,Northeast,Grow,R055
+H00562,PCP,Midwest,Grow,R006
+H00563,Internal Medicine,Midwest,Low priority,R021
+H00564,Internal Medicine,South,Low priority,R005
+H00565,PCP,South,Build,R042
+H00566,PCP,Northeast,Build,R030
+H00567,PCP,West,Maintain,R026
+H00568,PCP,West,Build,R050
+H00569,NP/PA,South,Build,R033
+H00570,NP/PA,Northeast,Build,R046
+H00571,PCP,South,Maintain,R007
+H00572,PCP,Midwest,Grow,R041
+H00573,Endocrinology,South,Low priority,R039
+H00574,PCP,South,Maintain,R004
+H00575,Internal Medicine,Midwest,Low priority,R034
+H00576,PCP,West,Low priority,R020
+H00577,PCP,Northeast,Grow,R053
+H00578,PCP,Midwest,Grow,R033
+H00579,Internal Medicine,West,Maintain,R033
+H00580,PCP,West,Build,R024
+H00581,PCP,Northeast,Grow,R027
+H00582,PCP,Northeast,Grow,R013
+H00583,PCP,Midwest,Build,R008
+H00584,PCP,Northeast,Build,R006
+H00585,Endocrinology,Midwest,Build,R035
+H00586,PCP,Northeast,Grow,R023
+H00587,PCP,Midwest,Build,R023
+H00588,PCP,South,Maintain,R002
+H00589,PCP,South,Maintain,R021
+H00590,PCP,Midwest,Maintain,R028
+H00591,PCP,West,Build,R058
+H00592,Endocrinology,Midwest,Grow,R050
+H00593,Endocrinology,South,Grow,R050
+H00594,PCP,West,Low priority,R054
+H00595,Endocrinology,Northeast,Build,R054
+H00596,PCP,South,Maintain,R001
+H00597,PCP,Midwest,Maintain,R059
+H00598,Endocrinology,South,Grow,R011
+H00599,Endocrinology,West,Grow,R007
+H00600,PCP,West,Maintain,R034
+H00601,PCP,Northeast,Grow,R048
+H00602,NP/PA,Northeast,Low priority,R020
+H00603,PCP,West,Grow,R059
+H00604,PCP,Northeast,Maintain,R049
+H00605,PCP,Midwest,Build,R052
+H00606,PCP,South,Maintain,R033
+H00607,PCP,Northeast,Maintain,R026
+H00608,PCP,Midwest,Maintain,R039
+H00609,NP/PA,Northeast,Maintain,R012
+H00610,Endocrinology,Midwest,Grow,R059
+H00611,PCP,West,Grow,R029
+H00612,NP/PA,West,Build,R021
+H00613,PCP,West,Maintain,R046
+H00614,PCP,Northeast,Build,R024
+H00615,PCP,Northeast,Maintain,R060
+H00616,NP/PA,South,Maintain,R051
+H00617,PCP,Midwest,Grow,R060
+H00618,PCP,Midwest,Grow,R022
+H00619,PCP,Midwest,Grow,R004
+H00620,NP/PA,West,Low priority,R046
+H00621,PCP,Midwest,Grow,R048
+H00622,Endocrinology,West,Low priority,R007
+H00623,PCP,Midwest,Grow,R052
+H00624,PCP,Midwest,Grow,R012
+H00625,NP/PA,Midwest,Grow,R003
+H00626,Endocrinology,West,Build,R029
+H00627,PCP,West,Maintain,R024
+H00628,PCP,Northeast,Low priority,R001
+H00629,Endocrinology,West,Build,R043
+H00630,Endocrinology,South,Maintain,R046
+H00631,Endocrinology,Midwest,Maintain,R014
+H00632,PCP,South,Low priority,R054
+H00633,PCP,West,Grow,R032
+H00634,PCP,Midwest,Maintain,R052
+H00635,NP/PA,Northeast,Low priority,R051
+H00636,NP/PA,South,Build,R044
+H00637,Endocrinology,Midwest,Grow,R045
+H00638,PCP,Northeast,Low priority,R032
+H00639,PCP,West,Build,R024
+H00640,PCP,Midwest,Maintain,R051
+H00641,PCP,West,Build,R016
+H00642,PCP,South,Grow,R022
+H00643,PCP,Northeast,Grow,R021
+H00644,Internal Medicine,West,Maintain,R021
+H00645,PCP,West,Build,R014
+H00646,Endocrinology,Northeast,Grow,R053
+H00647,PCP,West,Build,R011
+H00648,PCP,Midwest,Maintain,R030
+H00649,NP/PA,South,Maintain,R012
+H00650,Endocrinology,Midwest,Grow,R031
+H00651,PCP,Midwest,Grow,R023
+H00652,PCP,South,Maintain,R046
+H00653,PCP,West,Low priority,R042
+H00654,PCP,Midwest,Maintain,R010
+H00655,Endocrinology,South,Maintain,R015
+H00656,PCP,West,Grow,R018
+H00657,NP/PA,South,Maintain,R006
+H00658,PCP,Midwest,Grow,R024
+H00659,PCP,South,Build,R027
+H00660,PCP,South,Build,R032
+H00661,PCP,West,Maintain,R036
+H00662,Endocrinology,Midwest,Build,R052
+H00663,Endocrinology,Northeast,Grow,R009
+H00664,PCP,South,Maintain,R040
+H00665,Endocrinology,Northeast,Build,R047
+H00666,PCP,West,Build,R011
+H00667,PCP,Northeast,Build,R007
+H00668,PCP,Northeast,Maintain,R057
+H00669,Endocrinology,Midwest,Grow,R039
+H00670,PCP,West,Low priority,R039
+H00671,PCP,West,Build,R006
+H00672,NP/PA,South,Build,R041
+H00673,Internal Medicine,South,Build,R037
+H00674,Endocrinology,Midwest,Low priority,R051
+H00675,PCP,Northeast,Build,R018
+H00676,PCP,Midwest,Grow,R024
+H00677,PCP,Northeast,Grow,R034
+H00678,Internal Medicine,South,Build,R003
+H00679,PCP,South,Build,R016
+H00680,PCP,South,Grow,R024
+H00681,PCP,Northeast,Maintain,R039
+H00682,NP/PA,Northeast,Build,R059
+H00683,PCP,West,Low priority,R018
+H00684,Endocrinology,Northeast,Maintain,R004
+H00685,PCP,Northeast,Build,R001
+H00686,PCP,South,Maintain,R018
+H00687,NP/PA,West,Build,R036
+H00688,NP/PA,Northeast,Grow,R019
+H00689,Endocrinology,South,Build,R055
+H00690,Endocrinology,West,Low priority,R046
+H00691,NP/PA,Northeast,Maintain,R050
+H00692,PCP,West,Low priority,R021
+H00693,PCP,West,Maintain,R003
+H00694,Endocrinology,Northeast,Maintain,R021
+H00695,PCP,West,Build,R024
+H00696,PCP,West,Grow,R047
+H00697,PCP,South,Build,R002
+H00698,Endocrinology,South,Low priority,R002
+H00699,PCP,Midwest,Build,R060
+H00700,Endocrinology,South,Build,R008
+H00701,PCP,South,Grow,R032
+H00702,PCP,Midwest,Grow,R006
+H00703,PCP,Northeast,Grow,R015
+H00704,PCP,Midwest,Low priority,R021
+H00705,PCP,West,Grow,R021
+H00706,PCP,South,Grow,R004
+H00707,Endocrinology,Northeast,Low priority,R028
+H00708,Internal Medicine,Northeast,Grow,R033
+H00709,Endocrinology,South,Grow,R043
+H00710,Endocrinology,Midwest,Low priority,R007
+H00711,Internal Medicine,Northeast,Maintain,R007
+H00712,PCP,Midwest,Maintain,R052
+H00713,Internal Medicine,West,Build,R028
+H00714,PCP,South,Build,R027
+H00715,Internal Medicine,West,Maintain,R010
+H00716,PCP,West,Maintain,R048
+H00717,NP/PA,Midwest,Grow,R054
+H00718,PCP,Midwest,Maintain,R052
+H00719,Endocrinology,Midwest,Grow,R023
+H00720,PCP,Midwest,Grow,R037
+H00721,Internal Medicine,West,Grow,R052
+H00722,PCP,West,Build,R008
+H00723,PCP,Northeast,Build,R008
+H00724,Internal Medicine,Midwest,Build,R002
+H00725,PCP,Northeast,Grow,R016
+H00726,PCP,Midwest,Maintain,R023
+H00727,Endocrinology,Northeast,Grow,R040
+H00728,Endocrinology,Midwest,Maintain,R055
+H00729,PCP,South,Build,R010
+H00730,Endocrinology,South,Grow,R003
+H00731,Endocrinology,Northeast,Grow,R030
+H00732,PCP,Northeast,Grow,R012
+H00733,PCP,West,Grow,R005
+H00734,Internal Medicine,Midwest,Grow,R007
+H00735,PCP,West,Grow,R045
+H00736,PCP,South,Build,R012
+H00737,Endocrinology,Northeast,Build,R010
+H00738,PCP,Northeast,Build,R005
+H00739,PCP,South,Build,R058
+H00740,PCP,South,Maintain,R012
+H00741,Internal Medicine,South,Grow,R035
+H00742,Endocrinology,Midwest,Maintain,R040
+H00743,PCP,West,Grow,R015
+H00744,PCP,Midwest,Maintain,R008
+H00745,PCP,Northeast,Low priority,R040
+H00746,PCP,Midwest,Grow,R027
+H00747,PCP,West,Build,R026
+H00748,Internal Medicine,South,Maintain,R051
+H00749,PCP,West,Low priority,R002
+H00750,NP/PA,Northeast,Grow,R045
+H00751,PCP,West,Grow,R023
+H00752,Internal Medicine,Midwest,Maintain,R031
+H00753,NP/PA,South,Grow,R052
+H00754,PCP,Midwest,Low priority,R056
+H00755,Endocrinology,Northeast,Build,R036
+H00756,PCP,Midwest,Maintain,R008
+H00757,Internal Medicine,Midwest,Grow,R002
+H00758,PCP,South,Build,R013
+H00759,PCP,South,Low priority,R015
+H00760,Internal Medicine,Northeast,Maintain,R005
+H00761,PCP,South,Grow,R030
+H00762,Internal Medicine,Northeast,Grow,R013
+H00763,Endocrinology,West,Build,R052
+H00764,PCP,South,Grow,R049
+H00765,PCP,West,Maintain,R010
+H00766,PCP,South,Build,R003
+H00767,Endocrinology,West,Grow,R058
+H00768,Endocrinology,West,Grow,R038
+H00769,PCP,South,Maintain,R037
+H00770,PCP,West,Build,R019
+H00771,PCP,West,Maintain,R040
+H00772,Endocrinology,Northeast,Grow,R002
+H00773,PCP,South,Build,R002
+H00774,PCP,Midwest,Build,R046
+H00775,Endocrinology,Midwest,Build,R043
+H00776,Endocrinology,South,Maintain,R036
+H00777,NP/PA,Northeast,Grow,R029
+H00778,Endocrinology,Midwest,Grow,R053
+H00779,Internal Medicine,Northeast,Grow,R010
+H00780,Endocrinology,Midwest,Grow,R019
+H00781,PCP,South,Grow,R002
+H00782,NP/PA,West,Grow,R032
+H00783,PCP,South,Maintain,R047
+H00784,Endocrinology,South,Low priority,R013
+H00785,NP/PA,West,Low priority,R005
+H00786,PCP,South,Build,R018
+H00787,PCP,West,Grow,R002
+H00788,PCP,Northeast,Low priority,R054
+H00789,Endocrinology,Northeast,Maintain,R018
+H00790,PCP,Northeast,Build,R057
+H00791,Endocrinology,West,Maintain,R016
+H00792,PCP,West,Maintain,R060
+H00793,PCP,South,Grow,R025
+H00794,PCP,West,Maintain,R025
+H00795,PCP,Midwest,Grow,R025
+H00796,PCP,Midwest,Low priority,R043
+H00797,PCP,Midwest,Maintain,R038
+H00798,PCP,Northeast,Grow,R046
+H00799,PCP,West,Maintain,R049
+H00800,Endocrinology,South,Grow,R005
+H00801,NP/PA,Northeast,Build,R017
+H00802,Internal Medicine,Northeast,Low priority,R018
+H00803,PCP,Midwest,Grow,R022
+H00804,PCP,Northeast,Maintain,R007
+H00805,PCP,Midwest,Build,R023
+H00806,PCP,Midwest,Maintain,R015
+H00807,NP/PA,Midwest,Grow,R054
+H00808,NP/PA,Northeast,Grow,R039
+H00809,NP/PA,Northeast,Low priority,R048
+H00810,PCP,West,Maintain,R018
+H00811,Endocrinology,South,Grow,R007
+H00812,NP/PA,West,Maintain,R046
+H00813,PCP,South,Grow,R034
+H00814,PCP,West,Build,R023
+H00815,PCP,Northeast,Build,R029
+H00816,PCP,West,Low priority,R023
+H00817,Endocrinology,Midwest,Grow,R051
+H00818,Internal Medicine,Midwest,Build,R050
+H00819,NP/PA,West,Grow,R052
+H00820,PCP,West,Low priority,R060
+H00821,Internal Medicine,South,Grow,R008
+H00822,Internal Medicine,West,Maintain,R057
+H00823,Internal Medicine,South,Build,R010
+H00824,PCP,South,Grow,R053
+H00825,PCP,Midwest,Build,R023
+H00826,PCP,West,Grow,R029
+H00827,PCP,Midwest,Maintain,R044
+H00828,Endocrinology,Midwest,Grow,R012
+H00829,Internal Medicine,Northeast,Maintain,R001
+H00830,PCP,West,Maintain,R014
+H00831,PCP,South,Grow,R005
+H00832,PCP,Northeast,Grow,R047
+H00833,Endocrinology,Northeast,Build,R060
+H00834,PCP,West,Grow,R036
+H00835,PCP,South,Low priority,R047
+H00836,Endocrinology,West,Build,R028
+H00837,Endocrinology,South,Low priority,R015
+H00838,PCP,South,Low priority,R023
+H00839,PCP,Midwest,Maintain,R004
+H00840,PCP,West,Maintain,R010
+H00841,Endocrinology,Midwest,Grow,R014
+H00842,PCP,Northeast,Maintain,R045
+H00843,Endocrinology,South,Build,R031
+H00844,NP/PA,Northeast,Grow,R028
+H00845,PCP,Midwest,Build,R009
+H00846,Endocrinology,Midwest,Maintain,R013
+H00847,PCP,South,Maintain,R056
+H00848,PCP,Midwest,Maintain,R016
+H00849,PCP,Northeast,Maintain,R008
+H00850,Endocrinology,Northeast,Maintain,R017
+H00851,Endocrinology,Northeast,Low priority,R042
+H00852,Endocrinology,Northeast,Grow,R038
+H00853,Internal Medicine,Midwest,Low priority,R052
+H00854,PCP,Midwest,Grow,R021
+H00855,PCP,Midwest,Grow,R015
+H00856,PCP,Northeast,Maintain,R048
+H00857,Endocrinology,South,Low priority,R023
+H00858,NP/PA,South,Low priority,R030
+H00859,Endocrinology,Midwest,Grow,R008
+H00860,PCP,West,Maintain,R037
+H00861,Endocrinology,Northeast,Build,R024
+H00862,PCP,South,Build,R054
+H00863,PCP,West,Grow,R026
+H00864,NP/PA,Northeast,Build,R011
+H00865,PCP,Midwest,Maintain,R024
+H00866,Endocrinology,West,Low priority,R014
+H00867,PCP,West,Grow,R020
+H00868,NP/PA,Midwest,Maintain,R036
+H00869,Internal Medicine,West,Build,R021
+H00870,PCP,Northeast,Grow,R053
+H00871,Endocrinology,West,Grow,R057
+H00872,Endocrinology,South,Low priority,R050
+H00873,PCP,Midwest,Grow,R049
+H00874,PCP,South,Low priority,R048
+H00875,PCP,South,Grow,R026
+H00876,Endocrinology,Northeast,Grow,R056
+H00877,Internal Medicine,Midwest,Maintain,R004
+H00878,Endocrinology,Northeast,Grow,R048
+H00879,PCP,West,Grow,R023
+H00880,NP/PA,South,Build,R003
+H00881,PCP,South,Grow,R017
+H00882,Endocrinology,South,Grow,R046
+H00883,PCP,Northeast,Build,R014
+H00884,PCP,West,Low priority,R041
+H00885,Endocrinology,West,Maintain,R036
+H00886,PCP,South,Build,R018
+H00887,PCP,South,Grow,R053
+H00888,PCP,South,Build,R053
+H00889,Endocrinology,Midwest,Grow,R046
+H00890,PCP,South,Build,R011
+H00891,Internal Medicine,South,Build,R060
+H00892,NP/PA,West,Low priority,R052
+H00893,PCP,West,Build,R016
+H00894,Endocrinology,West,Build,R004
+H00895,Endocrinology,Midwest,Maintain,R029
+H00896,PCP,Northeast,Grow,R042
+H00897,PCP,West,Grow,R030
+H00898,PCP,South,Build,R035
+H00899,PCP,West,Build,R051
+H00900,Endocrinology,Northeast,Build,R010
+H00901,PCP,West,Low priority,R033
+H00902,PCP,West,Grow,R026
+H00903,Endocrinology,Northeast,Maintain,R035
+H00904,PCP,West,Grow,R040
+H00905,PCP,Midwest,Maintain,R046
+H00906,Endocrinology,South,Maintain,R052
+H00907,Endocrinology,West,Grow,R029
+H00908,NP/PA,West,Maintain,R010
+H00909,PCP,Midwest,Grow,R047
+H00910,PCP,Northeast,Maintain,R003
+H00911,PCP,West,Grow,R040
+H00912,PCP,West,Build,R006
+H00913,PCP,West,Low priority,R037
+H00914,Internal Medicine,West,Maintain,R059
+H00915,Internal Medicine,South,Grow,R058
+H00916,PCP,Midwest,Maintain,R039
+H00917,Endocrinology,South,Build,R028
+H00918,Endocrinology,West,Build,R020
+H00919,Endocrinology,Midwest,Maintain,R003
+H00920,Endocrinology,Midwest,Grow,R035
+H00921,Endocrinology,Midwest,Grow,R029
+H00922,PCP,West,Grow,R054
+H00923,Internal Medicine,South,Build,R039
+H00924,PCP,South,Build,R035
+H00925,PCP,Midwest,Maintain,R053
+H00926,PCP,South,Low priority,R011
+H00927,Internal Medicine,South,Grow,R005
+H00928,Internal Medicine,Midwest,Maintain,R027
+H00929,Internal Medicine,Northeast,Maintain,R058
+H00930,Internal Medicine,West,Grow,R045
+H00931,Endocrinology,South,Maintain,R034
+H00932,PCP,West,Build,R057
+H00933,PCP,Midwest,Build,R042
+H00934,NP/PA,West,Low priority,R030
+H00935,Endocrinology,Northeast,Grow,R028
+H00936,PCP,South,Build,R051
+H00937,PCP,South,Maintain,R036
+H00938,PCP,Midwest,Grow,R023
+H00939,Endocrinology,Midwest,Build,R043
+H00940,PCP,West,Grow,R042
+H00941,PCP,Northeast,Grow,R021
+H00942,PCP,South,Build,R036
+H00943,Endocrinology,South,Low priority,R060
+H00944,Internal Medicine,Northeast,Maintain,R017
+H00945,Internal Medicine,South,Maintain,R038
+H00946,NP/PA,Midwest,Build,R042
+H00947,Endocrinology,Northeast,Build,R044
+H00948,Internal Medicine,Northeast,Grow,R009
+H00949,NP/PA,South,Build,R042
+H00950,PCP,Midwest,Grow,R059
+H00951,PCP,Northeast,Build,R044
+H00952,Endocrinology,West,Grow,R007
+H00953,PCP,South,Build,R053
+H00954,PCP,South,Grow,R020
+H00955,PCP,Midwest,Maintain,R036
+H00956,NP/PA,Midwest,Grow,R006
+H00957,Internal Medicine,West,Low priority,R004
+H00958,PCP,Northeast,Grow,R006
+H00959,PCP,West,Grow,R031
+H00960,PCP,South,Maintain,R004
+H00961,NP/PA,Northeast,Build,R013
+H00962,Endocrinology,Midwest,Low priority,R018
+H00963,NP/PA,West,Build,R040
+H00964,PCP,Midwest,Build,R049
+H00965,PCP,West,Maintain,R014
+H00966,Internal Medicine,South,Maintain,R033
+H00967,Internal Medicine,Midwest,Build,R020
+H00968,PCP,West,Maintain,R005
+H00969,PCP,West,Grow,R006
+H00970,Endocrinology,West,Maintain,R058
+H00971,PCP,West,Low priority,R020
+H00972,Internal Medicine,West,Grow,R022
+H00973,PCP,Midwest,Maintain,R015
+H00974,PCP,West,Build,R008
+H00975,PCP,Northeast,Grow,R003
+H00976,Endocrinology,Midwest,Grow,R020
+H00977,PCP,West,Grow,R044
+H00978,NP/PA,South,Low priority,R003
+H00979,PCP,West,Low priority,R038
+H00980,PCP,West,Build,R002
+H00981,PCP,Midwest,Grow,R040
+H00982,Internal Medicine,West,Maintain,R018
+H00983,Endocrinology,South,Build,R039
+H00984,Internal Medicine,Northeast,Maintain,R034
+H00985,PCP,Midwest,Grow,R046
+H00986,PCP,South,Maintain,R034
+H00987,PCP,Midwest,Maintain,R028
+H00988,Internal Medicine,West,Low priority,R050
+H00989,PCP,Northeast,Build,R019
+H00990,Internal Medicine,Midwest,Build,R028
+H00991,PCP,Midwest,Low priority,R028
+H00992,Internal Medicine,Midwest,Grow,R034
+H00993,PCP,West,Maintain,R006
+H00994,PCP,West,Low priority,R059
+H00995,PCP,South,Grow,R035
+H00996,NP/PA,Northeast,Grow,R010
+H00997,NP/PA,South,Maintain,R020
+H00998,Endocrinology,West,Grow,R026
+H00999,PCP,South,Build,R021
+H01000,PCP,Northeast,Maintain,R028
+H01001,Endocrinology,South,Build,R023
+H01002,NP/PA,South,Maintain,R016
+H01003,NP/PA,Northeast,Build,R016
+H01004,PCP,Northeast,Grow,R027
+H01005,PCP,Northeast,Maintain,R017
+H01006,PCP,Midwest,Grow,R038
+H01007,Endocrinology,South,Grow,R035
+H01008,PCP,West,Low priority,R054
+H01009,PCP,Midwest,Maintain,R053
+H01010,PCP,Midwest,Grow,R051
+H01011,PCP,South,Grow,R003
+H01012,PCP,West,Build,R014
+H01013,Internal Medicine,Northeast,Grow,R037
+H01014,PCP,South,Build,R021
+H01015,NP/PA,West,Build,R017
+H01016,NP/PA,Northeast,Build,R020
+H01017,PCP,West,Maintain,R050
+H01018,PCP,Midwest,Build,R045
+H01019,PCP,West,Grow,R027
+H01020,NP/PA,Midwest,Build,R016
+H01021,NP/PA,West,Build,R005
+H01022,PCP,Northeast,Low priority,R006
+H01023,Endocrinology,Northeast,Build,R018
+H01024,NP/PA,Midwest,Build,R019
+H01025,PCP,Northeast,Low priority,R052
+H01026,Endocrinology,West,Grow,R008
+H01027,PCP,Northeast,Low priority,R001
+H01028,Endocrinology,Midwest,Maintain,R017
+H01029,PCP,West,Maintain,R013
+H01030,Endocrinology,West,Low priority,R004
+H01031,PCP,Midwest,Maintain,R025
+H01032,PCP,Northeast,Maintain,R004
+H01033,PCP,West,Grow,R053
+H01034,Endocrinology,West,Maintain,R054
+H01035,PCP,Midwest,Grow,R040
+H01036,PCP,West,Build,R011
+H01037,Endocrinology,Midwest,Maintain,R030
+H01038,Internal Medicine,Northeast,Maintain,R037
+H01039,Endocrinology,West,Low priority,R015
+H01040,PCP,South,Grow,R002
+H01041,PCP,Northeast,Maintain,R020
+H01042,Endocrinology,West,Maintain,R032
+H01043,PCP,Northeast,Build,R013
+H01044,PCP,South,Maintain,R042
+H01045,Internal Medicine,Midwest,Grow,R046
+H01046,PCP,Northeast,Maintain,R008
+H01047,PCP,Northeast,Grow,R013
+H01048,PCP,Northeast,Low priority,R024
+H01049,PCP,Midwest,Grow,R003
+H01050,PCP,Northeast,Grow,R053
+H01051,Internal Medicine,West,Build,R012
+H01052,Endocrinology,Midwest,Grow,R060
+H01053,PCP,West,Maintain,R003
+H01054,PCP,Northeast,Maintain,R046
+H01055,Internal Medicine,Northeast,Maintain,R019
+H01056,Endocrinology,Northeast,Build,R029
+H01057,Internal Medicine,Midwest,Build,R035
+H01058,NP/PA,Midwest,Grow,R028
+H01059,PCP,South,Maintain,R024
+H01060,PCP,South,Build,R028
+H01061,PCP,West,Low priority,R015
+H01062,PCP,South,Maintain,R059
+H01063,PCP,West,Build,R043
+H01064,PCP,South,Grow,R060
+H01065,Internal Medicine,Northeast,Low priority,R018
+H01066,PCP,West,Grow,R004
+H01067,PCP,West,Maintain,R030
+H01068,NP/PA,Midwest,Maintain,R046
+H01069,Endocrinology,West,Build,R046
+H01070,Endocrinology,West,Maintain,R003
+H01071,PCP,South,Maintain,R001
+H01072,PCP,South,Low priority,R050
+H01073,Endocrinology,West,Grow,R001
+H01074,PCP,Midwest,Low priority,R032
+H01075,PCP,South,Build,R056
+H01076,Internal Medicine,South,Low priority,R058
+H01077,NP/PA,Midwest,Maintain,R013
+H01078,PCP,Midwest,Maintain,R053
+H01079,Internal Medicine,Midwest,Grow,R049
+H01080,PCP,Northeast,Build,R020
+H01081,Endocrinology,South,Low priority,R009
+H01082,PCP,West,Build,R053
+H01083,PCP,South,Low priority,R010
+H01084,PCP,West,Grow,R005
+H01085,PCP,West,Maintain,R040
+H01086,PCP,Midwest,Low priority,R032
+H01087,Endocrinology,South,Build,R031
+H01088,PCP,South,Maintain,R005
+H01089,PCP,West,Maintain,R017
+H01090,PCP,Midwest,Grow,R055
+H01091,PCP,West,Maintain,R043
+H01092,PCP,Midwest,Grow,R051
+H01093,NP/PA,South,Build,R057
+H01094,PCP,South,Grow,R038
+H01095,Endocrinology,Midwest,Build,R028
+H01096,Endocrinology,West,Build,R030
+H01097,PCP,West,Low priority,R017
+H01098,PCP,West,Maintain,R015
+H01099,PCP,Midwest,Build,R012
+H01100,Endocrinology,Midwest,Build,R046
+H01101,PCP,Midwest,Grow,R022
+H01102,Internal Medicine,West,Maintain,R033
+H01103,NP/PA,South,Build,R040
+H01104,PCP,Midwest,Grow,R007
+H01105,PCP,Midwest,Grow,R056
+H01106,PCP,West,Maintain,R014
+H01107,PCP,Midwest,Maintain,R031
+H01108,PCP,South,Maintain,R031
+H01109,NP/PA,Midwest,Low priority,R018
+H01110,Endocrinology,Northeast,Grow,R027
+H01111,NP/PA,Midwest,Grow,R050
+H01112,PCP,Midwest,Grow,R048
+H01113,Endocrinology,Midwest,Maintain,R010
+H01114,PCP,West,Maintain,R015
+H01115,NP/PA,Midwest,Build,R003
+H01116,Endocrinology,West,Maintain,R006
+H01117,Internal Medicine,West,Grow,R042
+H01118,Endocrinology,Northeast,Build,R003
+H01119,Endocrinology,Midwest,Low priority,R032
+H01120,PCP,Midwest,Maintain,R041
+H01121,PCP,West,Build,R042
+H01122,Endocrinology,Midwest,Low priority,R058
+H01123,Endocrinology,South,Grow,R033
+H01124,PCP,West,Build,R040
+H01125,Endocrinology,Midwest,Maintain,R049
+H01126,Internal Medicine,West,Maintain,R008
+H01127,Endocrinology,South,Grow,R038
+H01128,PCP,Midwest,Maintain,R024
+H01129,PCP,Northeast,Build,R051
+H01130,PCP,Northeast,Grow,R025
+H01131,PCP,South,Grow,R028
+H01132,PCP,South,Low priority,R013
+H01133,PCP,Midwest,Maintain,R006
+H01134,NP/PA,West,Grow,R024
+H01135,PCP,Northeast,Grow,R006
+H01136,PCP,West,Build,R033
+H01137,Endocrinology,Northeast,Build,R047
+H01138,PCP,West,Build,R051
+H01139,PCP,West,Build,R056
+H01140,NP/PA,Northeast,Maintain,R003
+H01141,PCP,South,Grow,R017
+H01142,PCP,South,Grow,R058
+H01143,Internal Medicine,West,Maintain,R016
+H01144,PCP,Northeast,Build,R020
+H01145,PCP,South,Low priority,R035
+H01146,Endocrinology,South,Grow,R058
+H01147,PCP,Northeast,Grow,R049
+H01148,PCP,Midwest,Maintain,R009
+H01149,NP/PA,Midwest,Maintain,R039
+H01150,PCP,Midwest,Maintain,R025
+H01151,PCP,South,Low priority,R033
+H01152,NP/PA,Midwest,Grow,R046
+H01153,PCP,Northeast,Build,R047
+H01154,NP/PA,Northeast,Low priority,R028
+H01155,PCP,South,Grow,R025
+H01156,Endocrinology,Northeast,Grow,R014
+H01157,PCP,Midwest,Build,R010
+H01158,PCP,Northeast,Maintain,R051
+H01159,NP/PA,Northeast,Grow,R040
+H01160,Endocrinology,Midwest,Maintain,R004
+H01161,PCP,West,Low priority,R004
+H01162,PCP,Northeast,Grow,R058
+H01163,PCP,West,Maintain,R040
+H01164,Endocrinology,Northeast,Build,R028
+H01165,PCP,Northeast,Build,R058
+H01166,Endocrinology,Midwest,Maintain,R035
+H01167,PCP,Northeast,Grow,R043
+H01168,NP/PA,West,Build,R047
+H01169,PCP,Northeast,Low priority,R033
+H01170,PCP,West,Build,R045
+H01171,PCP,West,Maintain,R028
+H01172,Endocrinology,Midwest,Low priority,R027
+H01173,PCP,Midwest,Maintain,R052
+H01174,PCP,Northeast,Build,R038
+H01175,PCP,South,Low priority,R053
+H01176,PCP,West,Grow,R021
+H01177,Internal Medicine,West,Grow,R026
+H01178,PCP,West,Maintain,R014
+H01179,NP/PA,Midwest,Grow,R039
+H01180,Endocrinology,West,Build,R032
+H01181,Endocrinology,Northeast,Maintain,R035
+H01182,PCP,Midwest,Grow,R041
+H01183,PCP,West,Maintain,R045
+H01184,PCP,West,Build,R003
+H01185,PCP,South,Grow,R007
+H01186,PCP,Northeast,Maintain,R004
+H01187,PCP,Northeast,Build,R009
+H01188,Endocrinology,West,Maintain,R010
+H01189,Endocrinology,Northeast,Build,R023
+H01190,Internal Medicine,Northeast,Build,R028
+H01191,PCP,South,Grow,R037
+H01192,PCP,Midwest,Low priority,R033
+H01193,PCP,West,Maintain,R056
+H01194,NP/PA,Northeast,Maintain,R026
+H01195,PCP,Northeast,Grow,R011
+H01196,PCP,West,Maintain,R012
+H01197,PCP,South,Build,R057
+H01198,PCP,Northeast,Maintain,R007
+H01199,Endocrinology,Midwest,Grow,R051
+H01200,PCP,West,Grow,R037
+H01201,NP/PA,West,Low priority,R058
+H01202,PCP,Northeast,Low priority,R060
+H01203,PCP,Northeast,Build,R017
+H01204,Internal Medicine,Midwest,Grow,R002
+H01205,Endocrinology,West,Grow,R048
+H01206,Endocrinology,Northeast,Grow,R045
+H01207,Endocrinology,South,Grow,R018
+H01208,PCP,South,Grow,R045
+H01209,PCP,Northeast,Build,R034
+H01210,Endocrinology,South,Grow,R041
+H01211,PCP,South,Build,R058
+H01212,Internal Medicine,Midwest,Grow,R036
+H01213,PCP,South,Grow,R020
+H01214,PCP,South,Grow,R002
+H01215,PCP,West,Grow,R020
+H01216,NP/PA,Northeast,Maintain,R029
+H01217,NP/PA,Northeast,Grow,R060
+H01218,Endocrinology,Northeast,Low priority,R012
+H01219,PCP,Midwest,Grow,R059
+H01220,PCP,South,Maintain,R043
+H01221,PCP,South,Build,R008
+H01222,PCP,West,Build,R056
+H01223,PCP,Northeast,Grow,R024
+H01224,NP/PA,South,Low priority,R056
+H01225,Endocrinology,Northeast,Low priority,R059
+H01226,Internal Medicine,Northeast,Grow,R002
+H01227,Endocrinology,South,Build,R039
+H01228,PCP,South,Maintain,R051
+H01229,PCP,South,Grow,R025
+H01230,PCP,South,Maintain,R013
+H01231,PCP,Midwest,Maintain,R026
+H01232,NP/PA,Northeast,Maintain,R031
+H01233,Internal Medicine,South,Grow,R001
+H01234,NP/PA,South,Grow,R046
+H01235,PCP,West,Build,R053
+H01236,PCP,Midwest,Build,R031
+H01237,PCP,Northeast,Build,R040
+H01238,PCP,South,Maintain,R047
+H01239,PCP,Midwest,Grow,R021
+H01240,PCP,Midwest,Build,R054
+H01241,PCP,West,Build,R021
+H01242,PCP,Midwest,Grow,R042
+H01243,PCP,West,Low priority,R017
+H01244,PCP,Midwest,Build,R020
+H01245,PCP,Midwest,Grow,R043
+H01246,Endocrinology,South,Low priority,R032
+H01247,NP/PA,Midwest,Build,R019
+H01248,PCP,West,Maintain,R044
+H01249,Endocrinology,South,Maintain,R004
+H01250,PCP,Midwest,Grow,R020
+H01251,NP/PA,Midwest,Maintain,R041
+H01252,PCP,West,Build,R024
+H01253,Endocrinology,South,Build,R046
+H01254,Endocrinology,Midwest,Maintain,R033
+H01255,PCP,Midwest,Grow,R023
+H01256,PCP,South,Build,R050
+H01257,Endocrinology,South,Maintain,R026
+H01258,PCP,South,Maintain,R029
+H01259,PCP,Midwest,Maintain,R046
+H01260,PCP,Northeast,Maintain,R056
+H01261,Endocrinology,Midwest,Low priority,R018
+H01262,PCP,Midwest,Maintain,R016
+H01263,PCP,South,Grow,R043
+H01264,Endocrinology,South,Maintain,R054
+H01265,NP/PA,West,Maintain,R040
+H01266,PCP,West,Maintain,R018
+H01267,PCP,Northeast,Build,R025
+H01268,PCP,Northeast,Maintain,R051
+H01269,Endocrinology,Northeast,Low priority,R010
+H01270,PCP,South,Maintain,R048
+H01271,NP/PA,Midwest,Grow,R035
+H01272,PCP,West,Build,R019
+H01273,PCP,Northeast,Build,R042
+H01274,PCP,Midwest,Low priority,R037
+H01275,PCP,West,Grow,R042
+H01276,PCP,Northeast,Maintain,R004
+H01277,NP/PA,West,Build,R014
+H01278,PCP,Northeast,Build,R023
+H01279,Endocrinology,West,Maintain,R055
+H01280,PCP,South,Maintain,R049
+H01281,NP/PA,West,Build,R022
+H01282,PCP,Midwest,Low priority,R007
+H01283,PCP,Midwest,Build,R047
+H01284,PCP,West,Low priority,R017
+H01285,PCP,South,Build,R001
+H01286,PCP,West,Build,R021
+H01287,PCP,South,Maintain,R036
+H01288,Endocrinology,West,Low priority,R007
+H01289,NP/PA,Midwest,Build,R025
+H01290,Endocrinology,West,Low priority,R051
+H01291,PCP,Midwest,Maintain,R052
+H01292,NP/PA,South,Grow,R055
+H01293,PCP,Northeast,Build,R045
+H01294,PCP,South,Grow,R045
+H01295,PCP,Northeast,Maintain,R018
+H01296,PCP,South,Build,R048
+H01297,PCP,West,Maintain,R013
+H01298,PCP,West,Grow,R008
+H01299,Internal Medicine,Midwest,Grow,R053
+H01300,Internal Medicine,Midwest,Maintain,R052
+H01301,Endocrinology,South,Maintain,R058
+H01302,Endocrinology,Midwest,Grow,R007
+H01303,PCP,West,Maintain,R028
+H01304,PCP,Northeast,Build,R038
+H01305,Endocrinology,Midwest,Build,R051
+H01306,PCP,Northeast,Grow,R011
+H01307,PCP,West,Grow,R003
+H01308,PCP,West,Build,R030
+H01309,Endocrinology,West,Maintain,R038
+H01310,NP/PA,South,Maintain,R013
+H01311,Endocrinology,Northeast,Maintain,R034
+H01312,PCP,South,Build,R045
+H01313,PCP,Midwest,Maintain,R037
+H01314,Internal Medicine,South,Build,R020
+H01315,PCP,West,Grow,R049
+H01316,PCP,Northeast,Build,R055
+H01317,Endocrinology,West,Build,R052
+H01318,PCP,Midwest,Build,R032
+H01319,PCP,South,Grow,R042
+H01320,Endocrinology,West,Low priority,R052
+H01321,PCP,Midwest,Build,R031
+H01322,Endocrinology,Northeast,Build,R025
+H01323,PCP,South,Grow,R020
+H01324,NP/PA,West,Build,R054
+H01325,PCP,Midwest,Build,R016
+H01326,Endocrinology,Midwest,Grow,R043
+H01327,Endocrinology,West,Build,R044
+H01328,PCP,Midwest,Maintain,R042
+H01329,Endocrinology,Midwest,Grow,R005
+H01330,PCP,Northeast,Build,R049
+H01331,PCP,Northeast,Maintain,R048
+H01332,PCP,South,Maintain,R017
+H01333,PCP,Midwest,Build,R034
+H01334,PCP,Midwest,Maintain,R012
+H01335,Endocrinology,West,Low priority,R004
+H01336,Endocrinology,West,Maintain,R005
+H01337,PCP,South,Grow,R027
+H01338,PCP,South,Maintain,R056
+H01339,NP/PA,West,Maintain,R059
+H01340,Endocrinology,Midwest,Build,R023
+H01341,PCP,Midwest,Build,R018
+H01342,PCP,South,Build,R053
+H01343,PCP,South,Low priority,R005
+H01344,PCP,West,Grow,R016
+H01345,Endocrinology,South,Maintain,R019
+H01346,NP/PA,Midwest,Grow,R030
+H01347,PCP,West,Grow,R033
+H01348,PCP,South,Low priority,R001
+H01349,PCP,South,Build,R052
+H01350,PCP,Midwest,Build,R039
+H01351,PCP,South,Grow,R047
+H01352,PCP,Northeast,Low priority,R056
+H01353,PCP,Midwest,Grow,R010
+H01354,PCP,Midwest,Grow,R016
+H01355,PCP,Northeast,Maintain,R048
+H01356,Endocrinology,South,Grow,R007
+H01357,Endocrinology,West,Low priority,R032
+H01358,Endocrinology,South,Maintain,R059
+H01359,NP/PA,South,Grow,R030
+H01360,Endocrinology,West,Maintain,R013
+H01361,PCP,Midwest,Maintain,R019
+H01362,Endocrinology,Midwest,Grow,R010
+H01363,Internal Medicine,South,Maintain,R030
+H01364,PCP,South,Low priority,R059
+H01365,Endocrinology,South,Grow,R003
+H01366,NP/PA,South,Maintain,R060
+H01367,PCP,South,Grow,R031
+H01368,Endocrinology,Northeast,Maintain,R016
+H01369,PCP,Midwest,Grow,R021
+H01370,NP/PA,West,Maintain,R042
+H01371,PCP,West,Grow,R058
+H01372,Endocrinology,West,Grow,R019
+H01373,Endocrinology,Northeast,Grow,R052
+H01374,PCP,Midwest,Grow,R050
+H01375,PCP,Midwest,Maintain,R017
+H01376,PCP,Northeast,Low priority,R043
+H01377,Internal Medicine,South,Grow,R052
+H01378,PCP,Midwest,Low priority,R020
+H01379,PCP,Northeast,Low priority,R040
+H01380,NP/PA,West,Maintain,R046
+H01381,PCP,South,Grow,R051
+H01382,PCP,Midwest,Build,R010
+H01383,NP/PA,South,Low priority,R014
+H01384,NP/PA,South,Low priority,R015
+H01385,PCP,South,Grow,R005
+H01386,PCP,West,Build,R047
+H01387,PCP,West,Maintain,R005
+H01388,PCP,West,Maintain,R003
+H01389,PCP,Midwest,Maintain,R033
+H01390,PCP,West,Maintain,R037
+H01391,Endocrinology,West,Grow,R001
+H01392,PCP,Midwest,Grow,R016
+H01393,PCP,Northeast,Grow,R056
+H01394,PCP,West,Maintain,R053
+H01395,Endocrinology,Northeast,Grow,R026
+H01396,Internal Medicine,West,Low priority,R019
+H01397,NP/PA,South,Grow,R013
+H01398,PCP,South,Grow,R007
+H01399,PCP,Midwest,Grow,R002
+H01400,PCP,Midwest,Grow,R022
+H01401,NP/PA,Northeast,Low priority,R034
+H01402,Endocrinology,Midwest,Maintain,R031
+H01403,Internal Medicine,West,Build,R058
+H01404,Endocrinology,South,Maintain,R059
+H01405,PCP,South,Low priority,R031
+H01406,PCP,Northeast,Grow,R033
+H01407,NP/PA,West,Low priority,R017
+H01408,Internal Medicine,South,Grow,R026
+H01409,NP/PA,Northeast,Maintain,R009
+H01410,PCP,West,Grow,R027
+H01411,PCP,West,Grow,R044
+H01412,PCP,South,Grow,R012
+H01413,PCP,South,Grow,R012
+H01414,PCP,Northeast,Build,R044
+H01415,Endocrinology,West,Grow,R030
+H01416,Endocrinology,South,Build,R017
+H01417,PCP,South,Grow,R013
+H01418,NP/PA,Midwest,Low priority,R036
+H01419,PCP,Midwest,Grow,R029
+H01420,PCP,Northeast,Low priority,R030
+H01421,PCP,Northeast,Maintain,R037
+H01422,PCP,West,Grow,R026
+H01423,PCP,Northeast,Grow,R054
+H01424,Endocrinology,Northeast,Maintain,R053
+H01425,NP/PA,Northeast,Build,R055
+H01426,PCP,South,Maintain,R027
+H01427,PCP,Midwest,Low priority,R004
+H01428,NP/PA,Midwest,Build,R048
+H01429,NP/PA,South,Grow,R030
+H01430,PCP,Northeast,Maintain,R035
+H01431,PCP,South,Maintain,R029
+H01432,PCP,Northeast,Build,R003
+H01433,PCP,Northeast,Maintain,R045
+H01434,Endocrinology,South,Grow,R003
+H01435,NP/PA,Midwest,Maintain,R016
+H01436,PCP,Midwest,Build,R022
+H01437,PCP,West,Low priority,R051
+H01438,PCP,Northeast,Maintain,R029
+H01439,PCP,Northeast,Build,R034
+H01440,PCP,Midwest,Maintain,R001
+H01441,Endocrinology,Midwest,Low priority,R027
+H01442,PCP,Northeast,Low priority,R010
+H01443,PCP,Midwest,Low priority,R010
+H01444,PCP,South,Grow,R023
+H01445,PCP,Northeast,Grow,R057
+H01446,PCP,Midwest,Grow,R045
+H01447,PCP,South,Maintain,R057
+H01448,PCP,South,Build,R008
+H01449,PCP,West,Grow,R051
+H01450,PCP,West,Maintain,R012
+H01451,Internal Medicine,Northeast,Low priority,R058
+H01452,NP/PA,Midwest,Build,R022
+H01453,PCP,South,Maintain,R054
+H01454,PCP,South,Low priority,R023
+H01455,Endocrinology,Northeast,Grow,R021
+H01456,PCP,Midwest,Maintain,R020
+H01457,NP/PA,Midwest,Grow,R029
+H01458,Endocrinology,South,Build,R045
+H01459,PCP,South,Grow,R057
+H01460,Endocrinology,West,Maintain,R059
+H01461,PCP,Northeast,Grow,R053
+H01462,PCP,South,Grow,R046
+H01463,PCP,Midwest,Maintain,R024
+H01464,Endocrinology,West,Build,R015
+H01465,PCP,Northeast,Maintain,R032
+H01466,PCP,West,Low priority,R047
+H01467,NP/PA,West,Maintain,R018
+H01468,Endocrinology,West,Grow,R046
+H01469,PCP,South,Grow,R055
+H01470,PCP,West,Grow,R017
+H01471,PCP,Midwest,Build,R043
+H01472,PCP,South,Build,R001
+H01473,PCP,South,Maintain,R045
+H01474,Endocrinology,Midwest,Build,R017
+H01475,PCP,West,Low priority,R057
+H01476,Internal Medicine,South,Grow,R046
+H01477,PCP,Northeast,Maintain,R016
+H01478,Endocrinology,Midwest,Build,R002
+H01479,Endocrinology,West,Build,R051
+H01480,Endocrinology,Northeast,Low priority,R032
+H01481,PCP,Midwest,Maintain,R015
+H01482,PCP,Northeast,Maintain,R050
+H01483,PCP,South,Build,R011
+H01484,PCP,South,Grow,R002
+H01485,PCP,Northeast,Low priority,R054
+H01486,PCP,West,Build,R029
+H01487,Endocrinology,Midwest,Grow,R011
+H01488,Endocrinology,South,Build,R059
+H01489,PCP,South,Grow,R018
+H01490,NP/PA,Northeast,Build,R053
+H01491,PCP,West,Build,R057
+H01492,Endocrinology,Midwest,Grow,R060
+H01493,PCP,South,Low priority,R033
+H01494,PCP,South,Build,R042
+H01495,PCP,South,Build,R015
+H01496,PCP,Northeast,Build,R024
+H01497,Internal Medicine,Northeast,Low priority,R020
+H01498,Internal Medicine,West,Grow,R048
+H01499,PCP,Midwest,Grow,R019
+H01500,Endocrinology,West,Build,R025
+H01501,PCP,Midwest,Grow,R014
+H01502,PCP,Northeast,Build,R012
+H01503,PCP,South,Grow,R021
+H01504,Internal Medicine,Northeast,Build,R043
+H01505,Internal Medicine,Northeast,Grow,R034
+H01506,PCP,Northeast,Build,R007
+H01507,Endocrinology,West,Build,R032
+H01508,Endocrinology,Northeast,Maintain,R012
+H01509,PCP,West,Low priority,R036
+H01510,PCP,South,Build,R053
+H01511,PCP,West,Grow,R008
+H01512,PCP,South,Grow,R037
+H01513,Internal Medicine,South,Grow,R039
+H01514,PCP,West,Maintain,R043
+H01515,Internal Medicine,Midwest,Maintain,R020
+H01516,PCP,West,Grow,R009
+H01517,PCP,South,Grow,R030
+H01518,PCP,South,Grow,R015
+H01519,PCP,South,Low priority,R003
+H01520,Endocrinology,South,Build,R004
+H01521,Endocrinology,South,Build,R056
+H01522,PCP,Midwest,Maintain,R035
+H01523,Internal Medicine,Midwest,Grow,R036
+H01524,PCP,South,Build,R015
+H01525,PCP,Northeast,Low priority,R020
+H01526,PCP,Midwest,Build,R057
+H01527,NP/PA,Midwest,Grow,R005
+H01528,NP/PA,Midwest,Maintain,R008
+H01529,PCP,South,Maintain,R042
+H01530,PCP,Northeast,Grow,R007
+H01531,PCP,Northeast,Low priority,R001
+H01532,PCP,South,Maintain,R027
+H01533,Internal Medicine,Northeast,Grow,R031
+H01534,PCP,South,Build,R005
+H01535,PCP,West,Grow,R055
+H01536,NP/PA,West,Maintain,R021
+H01537,PCP,West,Grow,R021
+H01538,Endocrinology,South,Grow,R033
+H01539,PCP,South,Build,R048
+H01540,PCP,West,Grow,R020
+H01541,PCP,West,Maintain,R054
+H01542,PCP,Northeast,Maintain,R060
+H01543,NP/PA,West,Maintain,R058
+H01544,PCP,West,Grow,R048
+H01545,PCP,West,Maintain,R028
+H01546,PCP,Midwest,Maintain,R049
+H01547,NP/PA,Northeast,Build,R052
+H01548,PCP,West,Maintain,R039
+H01549,Endocrinology,South,Build,R017
+H01550,Endocrinology,West,Grow,R008
+H01551,PCP,South,Maintain,R048
+H01552,PCP,Midwest,Maintain,R033
+H01553,Endocrinology,West,Maintain,R014
+H01554,Endocrinology,Northeast,Maintain,R021
+H01555,PCP,Midwest,Build,R042
+H01556,Endocrinology,West,Grow,R033
+H01557,Endocrinology,Midwest,Low priority,R007
+H01558,NP/PA,South,Low priority,R016
+H01559,PCP,Northeast,Build,R016
+H01560,Endocrinology,South,Low priority,R003
+H01561,PCP,South,Maintain,R041
+H01562,NP/PA,Northeast,Build,R047
+H01563,PCP,West,Grow,R043
+H01564,PCP,Midwest,Maintain,R008
+H01565,PCP,Northeast,Low priority,R050
+H01566,Internal Medicine,Northeast,Maintain,R001
+H01567,PCP,South,Grow,R050
+H01568,Endocrinology,Midwest,Build,R042
+H01569,NP/PA,Northeast,Build,R002
+H01570,PCP,Midwest,Low priority,R053
+H01571,Internal Medicine,West,Build,R039
+H01572,PCP,Northeast,Grow,R039
+H01573,Endocrinology,Midwest,Grow,R054
+H01574,PCP,Midwest,Build,R029
+H01575,Endocrinology,West,Maintain,R059
+H01576,PCP,Northeast,Grow,R016
+H01577,PCP,West,Maintain,R018
+H01578,PCP,South,Grow,R013
+H01579,Endocrinology,Northeast,Grow,R022
+H01580,Endocrinology,South,Low priority,R011
+H01581,PCP,Midwest,Grow,R058
+H01582,Endocrinology,West,Low priority,R014
+H01583,PCP,Northeast,Maintain,R011
+H01584,Endocrinology,West,Maintain,R020
+H01585,PCP,Northeast,Maintain,R060
+H01586,NP/PA,South,Grow,R041
+H01587,PCP,West,Grow,R034
+H01588,Endocrinology,West,Maintain,R004
+H01589,PCP,Midwest,Low priority,R058
+H01590,Endocrinology,South,Low priority,R032
+H01591,PCP,Midwest,Build,R022
+H01592,PCP,South,Maintain,R004
+H01593,PCP,Northeast,Maintain,R053
+H01594,PCP,Northeast,Low priority,R059
+H01595,Internal Medicine,South,Build,R051
+H01596,Endocrinology,Northeast,Maintain,R001
+H01597,PCP,West,Grow,R016
+H01598,Internal Medicine,Northeast,Grow,R031
+H01599,PCP,West,Grow,R050
+H01600,NP/PA,Midwest,Maintain,R006
+H01601,Internal Medicine,Northeast,Build,R009
+H01602,Endocrinology,South,Maintain,R013
+H01603,NP/PA,West,Maintain,R051
+H01604,PCP,Northeast,Grow,R040
+H01605,NP/PA,Midwest,Maintain,R038
+H01606,PCP,Northeast,Grow,R009
+H01607,Endocrinology,South,Build,R044
+H01608,PCP,Midwest,Maintain,R039
+H01609,PCP,West,Grow,R012
+H01610,Internal Medicine,West,Grow,R006
+H01611,Endocrinology,West,Grow,R015
+H01612,PCP,West,Build,R032
+H01613,PCP,Midwest,Build,R027
+H01614,PCP,Northeast,Build,R046
+H01615,PCP,West,Grow,R034
+H01616,PCP,Northeast,Grow,R015
+H01617,PCP,Northeast,Build,R005
+H01618,PCP,Midwest,Grow,R060
+H01619,Internal Medicine,South,Grow,R020
+H01620,PCP,Northeast,Low priority,R047
+H01621,PCP,Midwest,Build,R059
+H01622,PCP,Northeast,Maintain,R007
+H01623,PCP,Midwest,Maintain,R005
+H01624,PCP,Midwest,Build,R046
+H01625,PCP,Northeast,Low priority,R002
+H01626,PCP,Northeast,Grow,R037
+H01627,PCP,West,Build,R060
+H01628,Endocrinology,Northeast,Low priority,R012
+H01629,PCP,West,Maintain,R049
+H01630,PCP,South,Maintain,R059
+H01631,Endocrinology,Midwest,Maintain,R058
+H01632,PCP,West,Build,R044
+H01633,PCP,South,Build,R042
+H01634,PCP,Northeast,Maintain,R049
+H01635,Endocrinology,South,Maintain,R034
+H01636,Endocrinology,South,Build,R059
+H01637,PCP,South,Low priority,R039
+H01638,PCP,South,Maintain,R022
+H01639,Endocrinology,Northeast,Grow,R032
+H01640,PCP,South,Build,R002
+H01641,Endocrinology,Midwest,Maintain,R010
+H01642,Endocrinology,West,Build,R023
+H01643,PCP,Northeast,Grow,R031
+H01644,PCP,Northeast,Build,R057
+H01645,PCP,West,Build,R005
+H01646,Endocrinology,South,Low priority,R057
+H01647,Endocrinology,West,Grow,R033
+H01648,PCP,South,Grow,R052
+H01649,PCP,West,Build,R024
+H01650,PCP,South,Maintain,R030
+H01651,PCP,West,Low priority,R050
+H01652,PCP,Northeast,Build,R027
+H01653,Internal Medicine,Midwest,Grow,R042
+H01654,NP/PA,South,Build,R007
+H01655,Endocrinology,West,Low priority,R005
+H01656,PCP,West,Build,R004
+H01657,Endocrinology,West,Grow,R032
+H01658,PCP,Northeast,Maintain,R004
+H01659,Endocrinology,Midwest,Maintain,R003
+H01660,Internal Medicine,Midwest,Maintain,R049
+H01661,NP/PA,South,Maintain,R026
+H01662,NP/PA,Northeast,Grow,R016
+H01663,PCP,Midwest,Maintain,R048
+H01664,PCP,West,Build,R012
+H01665,PCP,Northeast,Grow,R020
+H01666,PCP,Midwest,Grow,R036
+H01667,Endocrinology,South,Maintain,R044
+H01668,Endocrinology,South,Maintain,R015
+H01669,Internal Medicine,West,Maintain,R055
+H01670,PCP,Midwest,Maintain,R001
+H01671,PCP,Northeast,Grow,R045
+H01672,Internal Medicine,Northeast,Maintain,R025
+H01673,Internal Medicine,West,Grow,R028
+H01674,Endocrinology,West,Grow,R055
+H01675,PCP,West,Grow,R026
+H01676,NP/PA,Midwest,Build,R054
+H01677,PCP,South,Low priority,R033
+H01678,Internal Medicine,South,Grow,R013
+H01679,Endocrinology,West,Maintain,R047
+H01680,Endocrinology,Midwest,Maintain,R020
+H01681,NP/PA,Northeast,Low priority,R054
+H01682,Endocrinology,Northeast,Maintain,R020
+H01683,PCP,Midwest,Grow,R008
+H01684,Endocrinology,Northeast,Low priority,R046
+H01685,PCP,Midwest,Grow,R018
+H01686,PCP,Midwest,Build,R045
+H01687,Endocrinology,West,Grow,R013
+H01688,Endocrinology,West,Low priority,R056
+H01689,PCP,South,Maintain,R046
+H01690,Endocrinology,South,Maintain,R028
+H01691,Endocrinology,Northeast,Maintain,R020
+H01692,PCP,South,Low priority,R027
+H01693,NP/PA,Midwest,Build,R018
+H01694,Endocrinology,Northeast,Grow,R019
+H01695,PCP,West,Build,R026
+H01696,NP/PA,West,Maintain,R010
+H01697,Endocrinology,West,Grow,R040
+H01698,Internal Medicine,Northeast,Grow,R055
+H01699,PCP,Northeast,Maintain,R009
+H01700,Endocrinology,Northeast,Low priority,R019
+H01701,Endocrinology,West,Maintain,R031
+H01702,PCP,Northeast,Build,R012
+H01703,Internal Medicine,Northeast,Build,R017
+H01704,PCP,West,Maintain,R018
+H01705,Endocrinology,Northeast,Maintain,R040
+H01706,Internal Medicine,West,Grow,R022
+H01707,Endocrinology,West,Grow,R017
+H01708,PCP,Midwest,Build,R017
+H01709,PCP,Northeast,Grow,R026
+H01710,PCP,West,Build,R048
+H01711,PCP,Northeast,Low priority,R024
+H01712,PCP,Northeast,Grow,R025
+H01713,NP/PA,Northeast,Grow,R041
+H01714,Endocrinology,West,Maintain,R042
+H01715,PCP,West,Maintain,R007
+H01716,PCP,South,Maintain,R053
+H01717,PCP,Midwest,Build,R034
+H01718,PCP,West,Grow,R060
+H01719,PCP,Northeast,Build,R035
+H01720,Endocrinology,Midwest,Low priority,R026
+H01721,Endocrinology,Midwest,Low priority,R030
+H01722,Endocrinology,South,Grow,R031
+H01723,NP/PA,Midwest,Maintain,R048
+H01724,PCP,West,Grow,R031
+H01725,PCP,Midwest,Build,R056
+H01726,PCP,Midwest,Maintain,R019
+H01727,Internal Medicine,Midwest,Grow,R046
+H01728,Internal Medicine,Northeast,Build,R041
+H01729,PCP,South,Low priority,R023
+H01730,PCP,West,Maintain,R042
+H01731,Internal Medicine,Northeast,Low priority,R041
+H01732,PCP,West,Maintain,R032
+H01733,Endocrinology,Northeast,Build,R009
+H01734,PCP,Northeast,Grow,R049
+H01735,PCP,South,Maintain,R013
+H01736,PCP,Midwest,Grow,R041
+H01737,PCP,West,Grow,R020
+H01738,PCP,Midwest,Build,R023
+H01739,Internal Medicine,West,Grow,R034
+H01740,NP/PA,Midwest,Grow,R042
+H01741,Endocrinology,Midwest,Maintain,R043
+H01742,Endocrinology,West,Grow,R003
+H01743,PCP,West,Maintain,R032
+H01744,Internal Medicine,Northeast,Grow,R029
+H01745,PCP,Midwest,Maintain,R049
+H01746,PCP,Midwest,Maintain,R035
+H01747,Endocrinology,South,Low priority,R013
+H01748,PCP,Northeast,Low priority,R052
+H01749,PCP,Midwest,Low priority,R006
+H01750,NP/PA,Midwest,Grow,R024
+H01751,PCP,West,Low priority,R014
+H01752,Endocrinology,Midwest,Build,R060
+H01753,PCP,Northeast,Low priority,R012
+H01754,PCP,Northeast,Build,R022
+H01755,PCP,South,Grow,R010
+H01756,PCP,South,Grow,R035
+H01757,PCP,South,Grow,R042
+H01758,Endocrinology,South,Low priority,R059
+H01759,PCP,South,Maintain,R010
+H01760,PCP,West,Build,R017
+H01761,Endocrinology,South,Maintain,R052
+H01762,PCP,South,Grow,R048
+H01763,Internal Medicine,Midwest,Grow,R028
+H01764,PCP,Northeast,Grow,R041
+H01765,PCP,West,Build,R057
+H01766,PCP,Midwest,Maintain,R018
+H01767,PCP,West,Grow,R036
+H01768,NP/PA,South,Maintain,R037
+H01769,Internal Medicine,Midwest,Build,R029
+H01770,PCP,Northeast,Maintain,R056
+H01771,PCP,Midwest,Low priority,R001
+H01772,PCP,West,Maintain,R049
+H01773,PCP,Northeast,Low priority,R032
+H01774,NP/PA,Midwest,Maintain,R001
+H01775,PCP,South,Maintain,R023
+H01776,PCP,Midwest,Maintain,R056
+H01777,NP/PA,Midwest,Maintain,R013
+H01778,PCP,South,Maintain,R001
+H01779,PCP,Northeast,Grow,R040
+H01780,PCP,Northeast,Grow,R013
+H01781,PCP,West,Maintain,R010
+H01782,PCP,Northeast,Grow,R006
+H01783,PCP,Midwest,Low priority,R021
+H01784,Endocrinology,Northeast,Build,R054
+H01785,Endocrinology,Northeast,Grow,R053
+H01786,PCP,South,Maintain,R027
+H01787,PCP,West,Build,R006
+H01788,PCP,South,Build,R018
+H01789,Endocrinology,West,Build,R029
+H01790,PCP,West,Low priority,R042
+H01791,PCP,West,Grow,R059
+H01792,PCP,Northeast,Maintain,R034
+H01793,PCP,Midwest,Low priority,R051
+H01794,PCP,South,Maintain,R016
+H01795,PCP,South,Maintain,R033
+H01796,PCP,South,Maintain,R005
+H01797,Endocrinology,Northeast,Build,R003
+H01798,PCP,West,Maintain,R021
+H01799,NP/PA,Midwest,Build,R030
+H01800,PCP,West,Build,R015
+H01801,PCP,Midwest,Low priority,R037
+H01802,PCP,South,Maintain,R014
+H01803,Internal Medicine,Midwest,Low priority,R041
+H01804,PCP,West,Maintain,R018
+H01805,Endocrinology,South,Build,R056
+H01806,PCP,Northeast,Build,R016
+H01807,PCP,West,Build,R029
+H01808,PCP,South,Grow,R047
+H01809,PCP,Midwest,Maintain,R033
+H01810,PCP,West,Build,R060
+H01811,Endocrinology,Northeast,Low priority,R035
+H01812,PCP,Midwest,Maintain,R039
+H01813,Endocrinology,South,Build,R003
+H01814,PCP,Midwest,Low priority,R037
+H01815,PCP,West,Maintain,R038
+H01816,Internal Medicine,Midwest,Build,R045
+H01817,NP/PA,West,Low priority,R038
+H01818,PCP,Midwest,Maintain,R001
+H01819,NP/PA,Northeast,Grow,R032
+H01820,PCP,South,Grow,R021
+H01821,PCP,South,Grow,R056
+H01822,PCP,South,Maintain,R048
+H01823,Endocrinology,South,Maintain,R012
+H01824,PCP,West,Maintain,R007
+H01825,PCP,Midwest,Grow,R031
+H01826,PCP,South,Grow,R050
+H01827,PCP,Northeast,Maintain,R046
+H01828,Endocrinology,West,Grow,R052
+H01829,PCP,South,Maintain,R060
+H01830,PCP,Midwest,Maintain,R030
+H01831,PCP,West,Build,R016
+H01832,NP/PA,Northeast,Maintain,R056
+H01833,Endocrinology,Midwest,Grow,R029
+H01834,PCP,Midwest,Build,R028
+H01835,PCP,Northeast,Low priority,R001
+H01836,Endocrinology,West,Build,R009
+H01837,Internal Medicine,West,Build,R048
+H01838,Endocrinology,Northeast,Maintain,R019
+H01839,PCP,South,Low priority,R057
+H01840,Internal Medicine,Midwest,Grow,R032
+H01841,Internal Medicine,Northeast,Grow,R036
+H01842,PCP,West,Low priority,R025
+H01843,PCP,Northeast,Grow,R013
+H01844,PCP,Northeast,Maintain,R060
+H01845,PCP,Midwest,Build,R048
+H01846,Endocrinology,South,Maintain,R051
+H01847,NP/PA,Midwest,Grow,R020
+H01848,Internal Medicine,Northeast,Low priority,R007
+H01849,PCP,South,Low priority,R007
+H01850,PCP,Northeast,Maintain,R016
+H01851,PCP,Northeast,Maintain,R041
+H01852,PCP,Midwest,Low priority,R059
+H01853,NP/PA,South,Grow,R040
+H01854,Internal Medicine,Midwest,Low priority,R048
+H01855,PCP,South,Build,R054
+H01856,PCP,West,Maintain,R034
+H01857,PCP,Midwest,Low priority,R028
+H01858,PCP,West,Maintain,R059
+H01859,PCP,South,Build,R043
+H01860,Endocrinology,West,Maintain,R001
+H01861,Endocrinology,South,Maintain,R046
+H01862,PCP,South,Maintain,R004
+H01863,PCP,Midwest,Grow,R029
+H01864,Internal Medicine,Midwest,Build,R043
+H01865,PCP,South,Build,R031
+H01866,PCP,Northeast,Build,R004
+H01867,Endocrinology,Midwest,Grow,R035
+H01868,PCP,South,Grow,R013
+H01869,PCP,South,Low priority,R006
+H01870,Endocrinology,Northeast,Low priority,R017
+H01871,PCP,West,Maintain,R022
+H01872,Endocrinology,West,Grow,R050
+H01873,PCP,West,Maintain,R020
+H01874,NP/PA,Northeast,Maintain,R040
+H01875,PCP,South,Build,R048
+H01876,PCP,Northeast,Grow,R049
+H01877,Endocrinology,South,Build,R041
+H01878,Endocrinology,Northeast,Grow,R060
+H01879,PCP,South,Build,R014
+H01880,PCP,Northeast,Grow,R027
+H01881,Endocrinology,Northeast,Grow,R014
+H01882,NP/PA,Northeast,Build,R040
+H01883,Internal Medicine,South,Grow,R042
+H01884,Endocrinology,Northeast,Grow,R012
+H01885,PCP,Northeast,Low priority,R054
+H01886,PCP,West,Maintain,R031
+H01887,PCP,Midwest,Maintain,R052
+H01888,Internal Medicine,West,Maintain,R055
+H01889,Endocrinology,South,Grow,R006
+H01890,PCP,Midwest,Maintain,R005
+H01891,Endocrinology,Midwest,Grow,R022
+H01892,PCP,West,Maintain,R036
+H01893,PCP,Midwest,Grow,R031
+H01894,PCP,Midwest,Grow,R042
+H01895,Internal Medicine,West,Grow,R060
+H01896,PCP,Northeast,Build,R045
+H01897,NP/PA,South,Grow,R006
+H01898,PCP,Midwest,Grow,R011
+H01899,Endocrinology,South,Grow,R048
+H01900,NP/PA,Northeast,Grow,R016
+H01901,PCP,West,Maintain,R028
+H01902,PCP,West,Build,R012
+H01903,PCP,Midwest,Build,R020
+H01904,PCP,Northeast,Build,R039
+H01905,PCP,South,Build,R040
+H01906,PCP,West,Build,R049
+H01907,PCP,West,Grow,R016
+H01908,PCP,West,Low priority,R037
+H01909,PCP,Northeast,Maintain,R045
+H01910,PCP,Northeast,Maintain,R045
+H01911,PCP,Midwest,Grow,R039
+H01912,PCP,Midwest,Maintain,R031
+H01913,NP/PA,West,Grow,R019
+H01914,Endocrinology,Northeast,Low priority,R059
+H01915,NP/PA,Midwest,Maintain,R010
+H01916,PCP,Midwest,Maintain,R052
+H01917,PCP,Midwest,Build,R027
+H01918,PCP,Northeast,Grow,R040
+H01919,PCP,South,Grow,R049
+H01920,PCP,Northeast,Build,R043
+H01921,PCP,South,Build,R008
+H01922,NP/PA,Midwest,Grow,R043
+H01923,PCP,Midwest,Maintain,R026
+H01924,PCP,Northeast,Maintain,R009
+H01925,PCP,West,Build,R039
+H01926,Endocrinology,West,Grow,R042
+H01927,Endocrinology,Northeast,Grow,R019
+H01928,PCP,West,Low priority,R048
+H01929,PCP,West,Build,R054
+H01930,PCP,West,Grow,R038
+H01931,NP/PA,South,Grow,R025
+H01932,Internal Medicine,West,Low priority,R050
+H01933,Endocrinology,Midwest,Build,R045
+H01934,Endocrinology,Midwest,Maintain,R011
+H01935,Endocrinology,Northeast,Maintain,R044
+H01936,PCP,South,Maintain,R005
+H01937,PCP,Northeast,Build,R020
+H01938,PCP,South,Grow,R049
+H01939,NP/PA,Northeast,Low priority,R041
+H01940,Internal Medicine,West,Maintain,R058
+H01941,Endocrinology,West,Low priority,R056
+H01942,PCP,West,Build,R046
+H01943,Internal Medicine,West,Maintain,R021
+H01944,PCP,South,Maintain,R031
+H01945,NP/PA,Midwest,Maintain,R023
+H01946,Endocrinology,West,Low priority,R057
+H01947,NP/PA,Midwest,Maintain,R046
+H01948,PCP,West,Build,R005
+H01949,PCP,South,Maintain,R010
+H01950,PCP,Northeast,Low priority,R005
+H01951,PCP,Midwest,Low priority,R049
+H01952,NP/PA,South,Grow,R029
+H01953,Endocrinology,Northeast,Grow,R058
+H01954,PCP,South,Maintain,R052
+H01955,Endocrinology,Northeast,Maintain,R034
+H01956,PCP,West,Low priority,R060
+H01957,PCP,Midwest,Maintain,R043
+H01958,PCP,South,Maintain,R015
+H01959,PCP,West,Maintain,R023
+H01960,Endocrinology,West,Build,R059
+H01961,NP/PA,Northeast,Grow,R007
+H01962,Internal Medicine,West,Maintain,R004
+H01963,PCP,Midwest,Low priority,R060
+H01964,NP/PA,South,Grow,R050
+H01965,PCP,West,Build,R043
+H01966,PCP,West,Build,R011
+H01967,PCP,West,Grow,R060
+H01968,Endocrinology,West,Build,R020
+H01969,PCP,South,Maintain,R045
+H01970,PCP,Midwest,Maintain,R037
+H01971,Internal Medicine,South,Grow,R001
+H01972,PCP,Midwest,Maintain,R028
+H01973,Endocrinology,South,Maintain,R058
+H01974,PCP,West,Build,R038
+H01975,Endocrinology,West,Maintain,R052
+H01976,Endocrinology,South,Build,R051
+H01977,PCP,South,Grow,R004
+H01978,PCP,Northeast,Maintain,R002
+H01979,Internal Medicine,Midwest,Build,R007
+H01980,PCP,Northeast,Low priority,R020
+H01981,PCP,South,Low priority,R034
+H01982,PCP,Midwest,Grow,R024
+H01983,PCP,Northeast,Build,R022
+H01984,PCP,Northeast,Maintain,R020
+H01985,PCP,South,Maintain,R020
+H01986,Endocrinology,Midwest,Grow,R025
+H01987,Endocrinology,West,Build,R038
+H01988,PCP,Midwest,Build,R038
+H01989,PCP,South,Low priority,R002
+H01990,PCP,South,Maintain,R020
+H01991,PCP,Northeast,Maintain,R019
+H01992,PCP,Northeast,Grow,R018
+H01993,PCP,South,Low priority,R059
+H01994,Endocrinology,West,Maintain,R011
+H01995,PCP,South,Maintain,R040
+H01996,Endocrinology,Northeast,Grow,R017
+H01997,PCP,Northeast,Grow,R018
+H01998,PCP,South,Grow,R004
+H01999,PCP,West,Build,R020
+H02000,PCP,West,Low priority,R001
+H02001,PCP,West,Maintain,R032
+H02002,NP/PA,West,Maintain,R028
+H02003,Endocrinology,South,Grow,R037
+H02004,PCP,South,Build,R048
+H02005,PCP,South,Maintain,R042
+H02006,PCP,Midwest,Maintain,R057
+H02007,PCP,Northeast,Maintain,R030
+H02008,Internal Medicine,Northeast,Low priority,R014
+H02009,Endocrinology,South,Build,R052
+H02010,Endocrinology,Midwest,Low priority,R018
+H02011,Endocrinology,South,Low priority,R003
+H02012,Internal Medicine,Midwest,Grow,R008
+H02013,PCP,South,Maintain,R053
+H02014,PCP,Northeast,Grow,R019
+H02015,NP/PA,West,Build,R021
+H02016,PCP,West,Low priority,R018
+H02017,PCP,Midwest,Grow,R015
+H02018,Internal Medicine,Midwest,Grow,R041
+H02019,PCP,Midwest,Maintain,R003
+H02020,PCP,Midwest,Maintain,R036
+H02021,PCP,West,Maintain,R059
+H02022,PCP,West,Grow,R045
+H02023,PCP,South,Build,R036
+H02024,PCP,Midwest,Low priority,R028
+H02025,Internal Medicine,Northeast,Maintain,R018
+H02026,Endocrinology,Midwest,Low priority,R009
+H02027,Endocrinology,South,Maintain,R053
+H02028,Endocrinology,South,Low priority,R049
+H02029,PCP,Midwest,Low priority,R026
+H02030,PCP,Northeast,Grow,R024
+H02031,NP/PA,Midwest,Grow,R002
+H02032,NP/PA,Northeast,Build,R016
+H02033,Internal Medicine,South,Build,R024
+H02034,PCP,South,Maintain,R024
+H02035,PCP,Northeast,Low priority,R046
+H02036,Endocrinology,South,Grow,R027
+H02037,PCP,West,Low priority,R023
+H02038,Endocrinology,Midwest,Low priority,R031
+H02039,PCP,Northeast,Maintain,R020
+H02040,Internal Medicine,Northeast,Low priority,R039
+H02041,PCP,Midwest,Build,R029
+H02042,PCP,South,Grow,R049
+H02043,NP/PA,West,Grow,R004
+H02044,Internal Medicine,Northeast,Grow,R025
+H02045,PCP,Northeast,Build,R038
+H02046,PCP,Northeast,Maintain,R049
+H02047,PCP,Midwest,Maintain,R035
+H02048,PCP,South,Grow,R048
+H02049,Endocrinology,West,Maintain,R034
+H02050,NP/PA,Northeast,Grow,R010
+H02051,PCP,West,Build,R034
+H02052,Endocrinology,Midwest,Maintain,R059
+H02053,PCP,West,Build,R015
+H02054,Endocrinology,South,Low priority,R019
+H02055,Endocrinology,West,Grow,R019
+H02056,PCP,West,Build,R018
+H02057,PCP,West,Maintain,R054
+H02058,Endocrinology,Midwest,Maintain,R033
+H02059,PCP,Northeast,Maintain,R001
+H02060,PCP,Midwest,Maintain,R027
+H02061,Endocrinology,West,Build,R050
+H02062,Internal Medicine,West,Build,R028
+H02063,Internal Medicine,West,Low priority,R025
+H02064,PCP,West,Build,R035
+H02065,PCP,West,Grow,R060
+H02066,NP/PA,Midwest,Maintain,R025
+H02067,PCP,Midwest,Maintain,R047
+H02068,Endocrinology,West,Grow,R042
+H02069,PCP,Midwest,Low priority,R045
+H02070,PCP,South,Maintain,R047
+H02071,Internal Medicine,South,Maintain,R021
+H02072,PCP,South,Grow,R046
+H02073,PCP,Northeast,Low priority,R012
+H02074,PCP,South,Low priority,R051
+H02075,PCP,Midwest,Maintain,R014
+H02076,PCP,Northeast,Grow,R008
+H02077,PCP,Northeast,Grow,R015
+H02078,Endocrinology,West,Build,R051
+H02079,PCP,West,Build,R021
+H02080,PCP,Midwest,Build,R014
+H02081,Endocrinology,West,Grow,R012
+H02082,Internal Medicine,Midwest,Maintain,R001
+H02083,PCP,South,Grow,R019
+H02084,Endocrinology,South,Maintain,R006
+H02085,PCP,Midwest,Build,R002
+H02086,Internal Medicine,Midwest,Build,R052
+H02087,Endocrinology,West,Maintain,R023
+H02088,PCP,Northeast,Maintain,R008
+H02089,NP/PA,West,Build,R036
+H02090,PCP,West,Grow,R018
+H02091,NP/PA,West,Low priority,R026
+H02092,NP/PA,South,Maintain,R059
+H02093,PCP,South,Low priority,R049
+H02094,PCP,South,Maintain,R021
+H02095,PCP,Midwest,Low priority,R010
+H02096,Internal Medicine,West,Grow,R009
+H02097,PCP,Northeast,Maintain,R034
+H02098,Endocrinology,South,Build,R005
+H02099,PCP,West,Maintain,R010
+H02100,Endocrinology,Northeast,Maintain,R040
+H02101,Internal Medicine,West,Grow,R012
+H02102,PCP,Midwest,Maintain,R028
+H02103,PCP,South,Low priority,R031
+H02104,PCP,Northeast,Build,R055
+H02105,PCP,Northeast,Grow,R037
+H02106,PCP,West,Build,R002
+H02107,PCP,Midwest,Build,R042
+H02108,Endocrinology,West,Grow,R055
+H02109,PCP,South,Build,R019
+H02110,Endocrinology,Midwest,Build,R055
+H02111,PCP,West,Maintain,R034
+H02112,PCP,West,Grow,R052
+H02113,NP/PA,South,Build,R033
+H02114,PCP,South,Low priority,R057
+H02115,PCP,Northeast,Low priority,R032
+H02116,PCP,Midwest,Build,R037
+H02117,PCP,Midwest,Maintain,R059
+H02118,Endocrinology,Midwest,Maintain,R020
+H02119,Endocrinology,Northeast,Low priority,R058
+H02120,Endocrinology,West,Grow,R012
+H02121,Internal Medicine,Midwest,Build,R032
+H02122,PCP,Midwest,Grow,R014
+H02123,Endocrinology,Northeast,Maintain,R018
+H02124,Internal Medicine,Northeast,Build,R036
+H02125,PCP,Midwest,Maintain,R045
+H02126,PCP,South,Maintain,R051
+H02127,PCP,West,Low priority,R036
+H02128,PCP,Midwest,Build,R043
+H02129,Endocrinology,West,Low priority,R015
+H02130,PCP,West,Grow,R018
+H02131,PCP,Midwest,Grow,R050
+H02132,PCP,Midwest,Build,R060
+H02133,Internal Medicine,Northeast,Maintain,R022
+H02134,Endocrinology,West,Build,R031
+H02135,PCP,West,Maintain,R039
+H02136,PCP,Northeast,Low priority,R051
+H02137,Endocrinology,Midwest,Build,R025
+H02138,Endocrinology,South,Grow,R048
+H02139,PCP,Midwest,Grow,R028
+H02140,PCP,Northeast,Grow,R029
+H02141,NP/PA,Northeast,Maintain,R023
+H02142,NP/PA,South,Maintain,R028
+H02143,NP/PA,South,Maintain,R043
+H02144,PCP,West,Build,R037
+H02145,PCP,West,Low priority,R022
+H02146,Internal Medicine,Northeast,Maintain,R031
+H02147,PCP,West,Grow,R060
+H02148,Endocrinology,Northeast,Build,R002
+H02149,PCP,South,Grow,R022
+H02150,Endocrinology,Midwest,Low priority,R047
+H02151,PCP,Northeast,Maintain,R054
+H02152,PCP,Northeast,Low priority,R044
+H02153,Endocrinology,Midwest,Build,R033
+H02154,PCP,South,Maintain,R006
+H02155,PCP,Midwest,Grow,R055
+H02156,PCP,Northeast,Build,R056
+H02157,PCP,Midwest,Grow,R031
+H02158,Endocrinology,West,Low priority,R040
+H02159,PCP,West,Grow,R041
+H02160,Endocrinology,Midwest,Build,R056
+H02161,PCP,Northeast,Grow,R021
+H02162,Endocrinology,South,Low priority,R058
+H02163,PCP,West,Maintain,R058
+H02164,Endocrinology,Midwest,Build,R055
+H02165,PCP,Northeast,Low priority,R024
+H02166,Endocrinology,Midwest,Low priority,R009
+H02167,Endocrinology,Northeast,Build,R035
+H02168,Endocrinology,Midwest,Maintain,R045
+H02169,Endocrinology,Northeast,Maintain,R006
+H02170,PCP,South,Grow,R054
+H02171,Endocrinology,South,Low priority,R001
+H02172,NP/PA,South,Maintain,R006
+H02173,NP/PA,Midwest,Maintain,R027
+H02174,NP/PA,West,Maintain,R051
+H02175,Endocrinology,Northeast,Grow,R044
+H02176,PCP,Northeast,Build,R039
+H02177,PCP,West,Maintain,R011
+H02178,PCP,Northeast,Maintain,R005
+H02179,Endocrinology,Northeast,Build,R056
+H02180,PCP,South,Maintain,R044
+H02181,PCP,Northeast,Build,R055
+H02182,Endocrinology,Northeast,Build,R044
+H02183,PCP,West,Grow,R028
+H02184,PCP,West,Maintain,R043
+H02185,Endocrinology,South,Grow,R016
+H02186,PCP,Midwest,Low priority,R042
+H02187,NP/PA,Midwest,Build,R024
+H02188,NP/PA,Midwest,Grow,R019
+H02189,PCP,South,Maintain,R028
+H02190,Endocrinology,Midwest,Grow,R014
+H02191,Endocrinology,Northeast,Maintain,R043
+H02192,PCP,Midwest,Low priority,R018
+H02193,Endocrinology,Midwest,Maintain,R008
+H02194,NP/PA,Northeast,Build,R026
+H02195,PCP,West,Grow,R050
+H02196,Endocrinology,Northeast,Grow,R052
+H02197,Endocrinology,Midwest,Grow,R014
+H02198,PCP,Northeast,Low priority,R026
+H02199,PCP,South,Low priority,R016
+H02200,NP/PA,West,Grow,R058
+H02201,PCP,South,Maintain,R044
+H02202,PCP,Midwest,Grow,R002
+H02203,PCP,South,Grow,R053
+H02204,Endocrinology,West,Maintain,R056
+H02205,PCP,Midwest,Maintain,R041
+H02206,PCP,West,Maintain,R047
+H02207,PCP,South,Maintain,R026
+H02208,Endocrinology,West,Low priority,R027
+H02209,PCP,Northeast,Grow,R048
+H02210,PCP,West,Low priority,R024
+H02211,PCP,West,Grow,R050
+H02212,Internal Medicine,Midwest,Maintain,R048
+H02213,PCP,West,Build,R006
+H02214,NP/PA,South,Build,R042
+H02215,NP/PA,West,Low priority,R041
+H02216,PCP,Midwest,Build,R057
+H02217,PCP,South,Grow,R014
+H02218,PCP,Midwest,Maintain,R030
+H02219,PCP,West,Build,R021
+H02220,PCP,Northeast,Low priority,R025
+H02221,PCP,Midwest,Maintain,R016
+H02222,Endocrinology,West,Grow,R052
+H02223,Endocrinology,Midwest,Grow,R012
+H02224,PCP,Midwest,Low priority,R056
+H02225,PCP,Midwest,Grow,R014
+H02226,PCP,West,Build,R001
+H02227,NP/PA,South,Maintain,R039
+H02228,PCP,Midwest,Low priority,R046
+H02229,Endocrinology,South,Build,R015
+H02230,PCP,South,Grow,R025
+H02231,Endocrinology,West,Grow,R015
+H02232,PCP,Midwest,Low priority,R023
+H02233,Endocrinology,Northeast,Build,R045
+H02234,PCP,South,Grow,R005
+H02235,PCP,Northeast,Maintain,R057
+H02236,PCP,West,Build,R055
+H02237,NP/PA,Midwest,Grow,R032
+H02238,PCP,South,Maintain,R031
+H02239,Internal Medicine,Northeast,Grow,R042
+H02240,PCP,Midwest,Maintain,R010
+H02241,Internal Medicine,South,Low priority,R054
+H02242,NP/PA,Midwest,Grow,R039
+H02243,Endocrinology,Northeast,Low priority,R019
+H02244,Internal Medicine,Northeast,Low priority,R036
+H02245,PCP,South,Grow,R054
+H02246,PCP,Northeast,Build,R055
+H02247,Endocrinology,South,Maintain,R014
+H02248,PCP,South,Maintain,R022
+H02249,PCP,Midwest,Low priority,R039
+H02250,Endocrinology,Midwest,Grow,R027
+H02251,PCP,South,Build,R008
+H02252,PCP,Northeast,Build,R018
+H02253,PCP,Midwest,Maintain,R016
+H02254,NP/PA,West,Build,R045
+H02255,PCP,Midwest,Maintain,R053
+H02256,PCP,Midwest,Grow,R003
+H02257,Internal Medicine,Northeast,Build,R004
+H02258,PCP,Northeast,Maintain,R022
+H02259,PCP,South,Low priority,R060
+H02260,PCP,South,Low priority,R008
+H02261,Endocrinology,South,Low priority,R036
+H02262,PCP,Northeast,Maintain,R042
+H02263,Endocrinology,Midwest,Grow,R016
+H02264,NP/PA,Midwest,Build,R016
+H02265,Endocrinology,South,Build,R031
+H02266,PCP,South,Build,R005
+H02267,PCP,Midwest,Low priority,R043
+H02268,NP/PA,West,Build,R057
+H02269,PCP,Midwest,Maintain,R038
+H02270,PCP,South,Build,R001
+H02271,Endocrinology,South,Build,R009
+H02272,PCP,Midwest,Maintain,R019
+H02273,Internal Medicine,West,Maintain,R060
+H02274,PCP,South,Maintain,R054
+H02275,PCP,Northeast,Grow,R015
+H02276,NP/PA,Northeast,Build,R044
+H02277,Endocrinology,Midwest,Build,R018
+H02278,PCP,South,Maintain,R059
+H02279,Endocrinology,West,Maintain,R055
+H02280,Endocrinology,Midwest,Build,R048
+H02281,PCP,Midwest,Grow,R050
+H02282,Internal Medicine,Midwest,Maintain,R016
+H02283,PCP,South,Grow,R019
+H02284,PCP,West,Low priority,R015
+H02285,PCP,Northeast,Low priority,R026
+H02286,NP/PA,South,Grow,R046
+H02287,PCP,South,Grow,R055
+H02288,Endocrinology,Northeast,Maintain,R054
+H02289,PCP,Northeast,Build,R015
+H02290,PCP,Midwest,Low priority,R060
+H02291,PCP,South,Low priority,R036
+H02292,PCP,South,Grow,R046
+H02293,Endocrinology,West,Low priority,R010
+H02294,PCP,Northeast,Low priority,R001
+H02295,Internal Medicine,Northeast,Build,R002
+H02296,Internal Medicine,Northeast,Build,R059
+H02297,Endocrinology,West,Grow,R007
+H02298,PCP,Midwest,Grow,R025
+H02299,PCP,South,Build,R011
+H02300,PCP,Northeast,Build,R003
+H02301,Endocrinology,South,Low priority,R047
+H02302,PCP,West,Grow,R045
+H02303,PCP,Northeast,Build,R004
+H02304,PCP,Midwest,Grow,R003
+H02305,PCP,West,Low priority,R031
+H02306,PCP,West,Grow,R053
+H02307,PCP,West,Build,R057
+H02308,PCP,West,Build,R016
+H02309,PCP,South,Low priority,R021
+H02310,PCP,South,Maintain,R020
+H02311,Internal Medicine,West,Grow,R008
+H02312,PCP,Northeast,Maintain,R009
+H02313,Internal Medicine,Midwest,Grow,R042
+H02314,PCP,Northeast,Build,R050
+H02315,PCP,Northeast,Grow,R057
+H02316,Internal Medicine,Northeast,Maintain,R035
+H02317,PCP,Midwest,Grow,R048
+H02318,Endocrinology,South,Maintain,R014
+H02319,Endocrinology,Midwest,Grow,R030
+H02320,PCP,South,Maintain,R003
+H02321,PCP,Northeast,Grow,R059
+H02322,PCP,Midwest,Build,R014
+H02323,Endocrinology,Northeast,Grow,R033
+H02324,PCP,Northeast,Grow,R021
+H02325,Internal Medicine,Northeast,Build,R031
+H02326,NP/PA,South,Build,R026
+H02327,PCP,South,Grow,R057
+H02328,PCP,West,Maintain,R032
+H02329,PCP,Midwest,Build,R056
+H02330,NP/PA,Northeast,Build,R026
+H02331,Internal Medicine,West,Grow,R047
+H02332,NP/PA,West,Low priority,R005
+H02333,Internal Medicine,Northeast,Low priority,R031
+H02334,PCP,West,Build,R015
+H02335,Endocrinology,South,Maintain,R049
+H02336,PCP,West,Grow,R022
+H02337,PCP,South,Maintain,R034
+H02338,PCP,Midwest,Build,R056
+H02339,PCP,South,Maintain,R052
+H02340,Endocrinology,West,Low priority,R017
+H02341,PCP,Midwest,Build,R023
+H02342,Internal Medicine,South,Low priority,R010
+H02343,Endocrinology,Northeast,Maintain,R009
+H02344,PCP,South,Grow,R015
+H02345,PCP,West,Maintain,R024
+H02346,PCP,West,Grow,R052
+H02347,PCP,South,Build,R049
+H02348,Endocrinology,West,Maintain,R022
+H02349,NP/PA,South,Build,R004
+H02350,PCP,South,Grow,R017
+H02351,PCP,South,Low priority,R024
+H02352,PCP,Midwest,Build,R032
+H02353,PCP,South,Low priority,R020
+H02354,PCP,West,Build,R057
+H02355,PCP,South,Maintain,R005
+H02356,PCP,Northeast,Build,R052
+H02357,Endocrinology,Northeast,Build,R048
+H02358,Endocrinology,West,Build,R052
+H02359,NP/PA,West,Maintain,R001
+H02360,PCP,South,Build,R034
+H02361,Endocrinology,Northeast,Build,R052
+H02362,PCP,Midwest,Grow,R002
+H02363,Internal Medicine,Midwest,Build,R048
+H02364,PCP,South,Build,R048
+H02365,PCP,Northeast,Low priority,R056
+H02366,Endocrinology,Northeast,Maintain,R009
+H02367,PCP,Northeast,Low priority,R041
+H02368,PCP,Northeast,Build,R011
+H02369,PCP,Midwest,Maintain,R037
+H02370,Internal Medicine,West,Build,R055
+H02371,PCP,South,Maintain,R016
+H02372,PCP,Northeast,Build,R006
+H02373,PCP,Midwest,Low priority,R026
+H02374,PCP,West,Low priority,R057
+H02375,PCP,West,Low priority,R008
+H02376,PCP,Midwest,Low priority,R049
+H02377,Endocrinology,West,Low priority,R025
+H02378,PCP,South,Build,R044
+H02379,Endocrinology,West,Grow,R048
+H02380,PCP,Midwest,Grow,R006
+H02381,Internal Medicine,Midwest,Maintain,R031
+H02382,Endocrinology,Midwest,Low priority,R023
+H02383,PCP,South,Grow,R051
+H02384,PCP,West,Low priority,R011
+H02385,PCP,West,Grow,R056
+H02386,PCP,West,Build,R051
+H02387,Endocrinology,Northeast,Maintain,R044
+H02388,PCP,Midwest,Build,R035
+H02389,PCP,West,Build,R044
+H02390,PCP,South,Maintain,R003
+H02391,PCP,Northeast,Maintain,R052
+H02392,Endocrinology,Midwest,Grow,R009
+H02393,PCP,Midwest,Maintain,R041
+H02394,NP/PA,Midwest,Grow,R056
+H02395,PCP,South,Maintain,R050
+H02396,Endocrinology,Northeast,Build,R007
+H02397,Endocrinology,Northeast,Grow,R030
+H02398,PCP,South,Low priority,R011
+H02399,Internal Medicine,South,Low priority,R013
+H02400,Internal Medicine,West,Grow,R030

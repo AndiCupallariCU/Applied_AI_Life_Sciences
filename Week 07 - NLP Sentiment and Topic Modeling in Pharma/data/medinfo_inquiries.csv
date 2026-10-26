@@ -1,0 +1,1201 @@
+inquiry_id,inquiry_date,channel,caller_type,text,mi_team_intent,mi_team_ae_flag
+MI00001,2026-06-10,phone,HCP,Transferred from the sales line. Patient asks if it is safe to take GLUCOREN with her blood pressure medication and a daily aspirin.,,
+MI00002,2026-06-23,phone,Pharmacist,Patient calling for herself: rash since starting GLUCOREN a month ago. Asks whether to stop.,ae_report,1.0
+MI00003,2026-05-22,email,Caregiver,Caller is the daughter of a patient. HCP asks abuot a higher-than-labelled dose in a patient not responding.,off_label,0.0
+MI00004,2026-06-21,phone,HCP,Office asks for help with a prior authorization denial from Medicaid MCO.,reimbursement,0.0
+MI00005,2026-01-20,email,Caregiver,Transferred from the sales line. Patient says the pharmacy quoted $224 and asks about the savings card. Also caller asks whether a Spanish-language patient leaflet exists.,,
+MI00006,2026-01-21,web form,Pharmacist,Pharmacist reports loose stools in a 58-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,ae_report,1.0
+MI00007,2026-06-03,phone,Pharmacist,Patient calling for herself: vomited since starting GLUCOREN a month ago. Asks whether to stop.,,
+MI00008,2026-07-12,web form,Patient,Second time calling this week. Patient asks whether GLUCOREN should be taken with food.,dosing,0.0
+MI00009,2026-02-06,web form,Nurse,Transferred from the saels line. Caller says the bottle contained 28 tablets instead of 30.,,
+MI00010,2026-01-26,email,HCP,"Web form, short message: Patient asks whether GLUCOREN should be taken with food.",dosing,0.0
+MI00011,2026-08-02,phone,HCP,Caller sounded frustrated. HCP asks when the next label update is expected.,,
+MI00012,2026-07-21,web form,Pharmacist,Caller asks if the dose needs adjusting for an 82-year-old with mild hepatic impairment. Mentions the patient has had cramps since starting.,dosing,1.0
+MI00013,2026-05-06,phone,HCP,Patient says the pharmacy quoted $200 and asks about the savings card.,,
+MI00014,2025-12-18,phone,HCP,HCP asks about co-administration with digoxin and whether levels should be monitored.,,
+MI00015,2026-07-04,phone,Pharmacist,Transferred from the sales line. Caller asks if the dose needs adjusting for an 82-year-old with mild hepatic impairment. Also pharmacy asks about shelf life after the bottle is opened.,dosing,0.0
+MI00016,2025-12-17,phone,Patient,Patient asks if it is safe to take GLUCOREN with her blood pressure medication and a daily aspirin.,,
+MI00017,2026-10-16,phone,Patient,Caller sounded frustrated. Caller asks if the dose needs adjusting for an 82-year-old with mild hepatic impairment. Also caller asks whether the patient assistance program covers Medicare Part D patients.,,
+MI00018,2026-10-06,phone,Pharmacist,Patient asks whether GLUCOREN should be taken with food.,dosing,0.0
+MI00019,2026-05-18,phone,Patient,Follow-up to a previous call. HCP asks when the next label update is expected.,general,0.0
+MI00020,2026-01-16,phone,Patient,Caller asks about using GLUCOREN for prediabetes in a patient who wants to avoid progression.,,
+MI00021,2026-02-10,email,Pharmacist,Second time calling this week. Nursing home asks whether tablets may be crushed for tube feeding.,,
+MI00022,2026-10-11,phone,Caregiver,Caller asks whether GLUCOREN can be stored in a weekly pill organizer.,,
+MI00023,2025-12-20,web form,Pharmacist,"Web form, short message: HCP asks for the publication list on GLUCOREN cardiovascular data.",general,0.0
+MI00024,2026-06-16,email,Nurse,HCP asks whether GLUCOREN can be combined with a sulfonylurea and what precautions apply.,,
+MI00025,2026-04-13,phone,Patient,"Web form, short message: Caller asks about the maximum daily dose of GLUCOREN and whether it can be split. Also nursing home asks whether tablets may be crushed for tube feeding.",,
+MI00026,2026-03-27,email,Patient,Second time calling this week. Patient asks how to enroll in the copay savings program for GLUCOREN.,reimbursement,0.0
+MI00027,2026-05-25,phone,Patient,Caller sounded frustrated. Patient says the pharmacy quoted $103 and asks about the savings card. Also patient wants to know the titration steps and how long to wait between them.,reimbursement,0.0
+MI00028,2026-02-21,phone,Pharmacist,Caller asks how to restatr GLUCOREN after a two-week interruption.,,
+MI00029,2026-05-26,web form,Pharmacist,HCP asks about a higher-than-labelled dose in a patient not responding.,,
+MI00030,2026-08-12,phone,Caregiver,"Web form, short message: HCP asks about co-administration with digoxin and whether levels should be monitored.",,
+MI00031,2026-10-13,web form,Nurse,"Web form, short message: Caller asks whether GLUCOREN is covered on the state Medicaid formulary.",reimbursement,0.0
+MI00032,2026-06-22,phone,Caregiver,"Patient asks if it is safe to take GLUCOREN with her blood pressure medication and a daily aspirin. Also pharmacist reports a bottle of GLUCOREN with a broken seal and discolored tablets, lot number provided.",,
+MI00033,2026-08-06,phone,HCP,Follow-up to a previous call. Caller asks whether GLUCOREN contains lactose or gluten.,,
+MI00034,2026-07-04,phone,Pharmacist,Office asks which diagnosis codes the payer expects on the PA form.,reimbursement,0.0
+MI00035,2025-11-17,email,Patient,Patient calling for herself: palpitations since starting GLUCOREN a month ago. Asks whether to stop.,ae_report,1.0
+MI00036,2026-02-16,phone,HCP,Caller travelling abroad asks about carrying GLUCOREN in checked luggage and temperature limits.,storage,0.0
+MI00037,2026-09-15,email,HCP,HCP reports a patient hospitalized with liver enzymes; GLUCOREN discontinued. Requests a safety follow-up and the case reference number.,,
+MI00038,2026-05-14,email,HCP,Caller says the bottle contained 28 tablets instead of 30.,,
+MI00039,2026-06-18,email,Patient,Caller says the bottle contained 28 tablets instead of 30.,,
+MI00040,2026-03-16,email,Caregiver,Caregiver wants to know the titration steps and how long to wait between them. Mentions the patient has had lost my appetite since starting.,,
+MI00041,2026-03-16,email,HCP,Pharmacist asks about interaction between GLUCOREN and warfarin. Also hCP asks aobut a higher-than-labelled dose in a patient not responding.,interaction,0.0
+MI00042,2025-11-14,email,Caregiver,Caller asks about using GLUCOREN for prediabetes in a patient who wants to avoid progression.,off_label,0.0
+MI00043,2025-12-30,phone,Patient,HCP asks about GLUCOREN in gestational diabetes.,,
+MI00044,2026-05-10,web form,HCP,HCP asks about a higher-than-labelled dose in a patient not responding. Also pharmacist asks about GLUCOREN dosing in a patient with eGFR of 35.,,
+MI00045,2026-01-13,email,HCP,HCP reports headaches in a 46-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,ae_report,1.0
+MI00046,2026-02-22,phone,Patient,Patient asks whether GLUCOREN sholud be taken with food.,dosing,0.0
+MI00047,2026-02-06,email,Patient,"Web form, short message: Patient reports yeast infection in a 57-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.",ae_report,1.0
+MI00048,2026-01-14,phone,Patient,HCP asks for data on GLUCOREN in type 1 diabetes.,,
+MI00049,2026-06-26,email,Pharmacist,Caller asks whether GLUCOREN can be stored in a weekly pill organizer. Also patient asks if it is safe to take GLUCOREN with her blood pressure medication and a daily aspirin.,,
+MI00050,2026-01-29,web form,HCP,Caller's father was admitted to hospital with swelling of the face; he had started GLUCOREN three weeks earlier. Caller is upset and wants to report it.,,
+MI00051,2026-08-20,phone,Nurse,Nurse asks what to do about a missed dose and whether two tablets can be taken the next day. Also caller asks whether GLUCOREN is covered on the state Medicaid formulary.,,
+MI00052,2026-10-02,web form,HCP,Follow-up to a previous call. Caller asks whether a Spanish-language patient leaflet exists.,general,0.0
+MI00053,2026-01-13,web form,Nurse,Transferred from the slaes line. Patient asks if it is safe to take GLUCOREN with her blood pressure medication and a daily aspirin.,,
+MI00054,2026-02-15,phone,HCP,Caller sounded frustrated. Patient calling for herself: fatigue since starting GLUCOREN a month ago. Asks whether to stop. Also pharmacist asks about the excipients and whether the tablet is latex-free in packaging.,,
+MI00055,2026-08-13,email,HCP,Caller asks about the maximum daily dose of GLUCOREN and whether it can be split.,dosing,0.0
+MI00056,2026-01-21,phone,Patient,HCP asks about use in adolescents; requests any available data.,off_label,0.0
+MI00057,2026-09-27,phone,Nurse,Patient asks how to enroll in the copay savings program for GLUCOREN.,,
+MI00058,2026-09-02,web form,Caregiver,Caller prefers a call back. Pharmacy received a carton with a torn label and an unreadable expiry date.,,
+MI00059,2026-07-08,web form,Caregiver,Caregiver asks what to do about a missed dose and whether two tablets can be taken the next day.,dosing,0.0
+MI00060,2025-12-19,email,Patient,Second time calling this week. Caller asks if the dose needs adjusting for an 82-year-old with mild hepatic impairment.,,
+MI00061,2025-12-22,web form,Pharmacist,Caller prefers a call back. Pharmacist reports threw up in a 58-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,,
+MI00062,2026-08-15,email,HCP,Caller's father was admitted to hospital with liver enzymes; he had started GLUCOREN three weeks earlier. Caller is upset and wants to report it. Also pharmacy asks about shelf life after the bottle is opened.,,
+MI00063,2026-01-17,web form,Patient,Follow-up to a previous call. Patient reports yeast infection in a 74-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,ae_report,1.0
+MI00064,2026-08-24,web form,Nurse,Patient left GLUCOREN in a hot car for a day; asks if the tablets are still good.,,
+MI00065,2025-12-21,web form,Nurse,Pharmacist checking a possible interaction with rifampin; asks about CYP metabolism.,interaction,0.0
+MI00066,2026-01-09,phone,Patient,Caller asks whether GLUCOREN is used for weight management in patients without diabetes.,off_label,0.0
+MI00067,2026-02-14,web form,Patient,Caller prefers a call back. Caller asks whether GLUCOREN contains lactose or gluten. Also hCP asks about GLUCOREN in gestational diabetes.,,
+MI00068,2026-03-03,web form,HCP,HCP wants to know the titration steps and how long to wait between them.,dosing,0.0
+MI00069,2026-09-19,web form,Patient,Pharmacist asks about GLUCOREN dosing in a patient with eGFR of 35. Also caller asks about using GLUCOREN for prediabetes in a patient who wants to avoid progression.,,
+MI00070,2025-11-03,phone,HCP,HCP asks for data on GLUCOREN in type 1 diabetes.,,
+MI00071,2026-02-18,phone,Patient,Patient reports constipated in a 80-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,,
+MI00072,2025-12-13,phone,Patient,Caller asks how to restart GLUCOREN after a two-week interruption.,,
+MI00073,2026-03-13,phone,Nurse,Caller asks whethre grapefruit juice or alcohol affects GLUCOREN.,,
+MI00074,2025-12-12,email,Caregiver,Second time calling this week. HCP asks about GLUCOREN in gestational diabetes. Also caregiver asks about GLUCOREN with a GLP-1 ijnectable — any additive effects to watch for.,off_label,0.0
+MI00075,2026-04-20,web form,Patient,Second time calling this week. Caller asks about the maximum daily dose of GLUCOREN and whether it can be split.,dosing,0.0
+MI00076,2026-05-22,email,Patient,Follow-up to a previous call. Question on timing — morning or evening — and whether it matters with a shift-work schedule.,dosing,0.0
+MI00077,2025-11-18,phone,Patient,Caller asks whether grapefruit juice or alcohol affects GLUCOREN.,interaction,0.0
+MI00078,2026-09-22,phone,Pharmacist,Pharmacist reports a patient hospitalized with inflamed pancreas; GLUCOREN discontinued. Requests a safety follow-up and the case reference number.,ae_report,1.0
+MI00079,2025-12-14,email,Patient,Patient calling for herself: palpitations since starting GLUCOREN a month ago. Asks whether to stop. Also caller asks whether GLUCOREN is covered on the state Medicaid formulary.,,
+MI00080,2025-12-22,web form,Nurse,Patient says the pharmacy quoted $176 and asks about the savings card.,reimbursement,0.0
+MI00081,2026-02-02,phone,HCP,HCP reports palpitations in a 55-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,ae_report,1.0
+MI00082,2025-12-22,phone,Pharmacist,Caller asks whether GLUCOREN is covered on the state Medicaid formulary. Also caller asks whether GLUCOREN contains lactose or gluten.,,
+MI00083,2026-06-30,web form,Patient,Transferred from the sales line. Patient left GLUCOREN in a hot car for a day; asks if the tablets are still good.,,
+MI00084,2026-08-15,phone,HCP,Caller is the daughter of a patient. Pharmacy received a carton with a torn label and an unreadable expiry date.,product_complaint,0.0
+MI00085,2026-06-13,phone,Patient,Caller asks how to restart GLUCOREN after a two-week interruption.,,
+MI00086,2025-11-15,phone,HCP,HCP reports yeast infection in a 54-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,,
+MI00087,2026-04-14,email,HCP,Caller asks how to restart GLUCOREN after a two-week interruption. Mentions the patient has had rash since starting.,,
+MI00088,2026-09-18,phone,Patient,Pharmacy asks about shelf life after the bottle is opened.,storage,0.0
+MI00089,2026-05-09,phone,Nurse,Nurse asks what to do about a missed dose and whether two tablets can be taken the next day. Mentions the patient has had palpitations since starting.,,
+MI00090,2026-06-21,phone,Patient,Pharmacy received a carotn with a torn label and an unreadable expiry date. Also hCP asks about a higher-than-labelled dose in a patient not responding.,product_complaint,0.0
+MI00091,2026-06-09,web form,Caregiver,Caller sounded frustrated. Pharmacist asks about the excipients and whether the tablet is latex-free in packaging.,,
+MI00092,2026-03-14,phone,Patient,Caller asks about using GLUCOREN for prediabetes in a patient who wants to avoid progression.,,
+MI00093,2025-11-19,phone,Patient,HCP asks for the publication list on GLUCOREN cardiovascular data.,,
+MI00094,2025-11-23,web form,Nurse,Caller asks whether GLUCOREN is covered on the state Medicaid formulary.,reimbursement,0.0
+MI00095,2025-11-28,phone,Pharmacist,Transferred from the sales line. Caller asks how to restart GLUCOREN after a two-week interruption. Mentions the patient has had palpitations since starting.,dosing,1.0
+MI00096,2026-02-19,web form,Pharmacist,Pharmacist wants to know the titration steps and how long to wait between them.,dosing,0.0
+MI00097,2026-07-23,web form,Patient,Patient reports a patient hospitalized with chest pain; GLUCOREN discontinued. Requests a safety follow-up and the case reference number.,,
+MI00098,2026-03-29,phone,HCP,HCP asks for the publication list on GLUCOREN cardiovascular data.,,
+MI00099,2026-08-04,phone,HCP,Patient says the pharmacy quoted $217 and asks about the savings card.,,
+MI00100,2025-11-14,web form,Patient,Patient says two tablets in the blister were crumbled. No symptoms. Asks for a replacement.,product_complaint,0.0
+MI00101,2026-03-04,phone,Patient,Caller sounded frustrated. Question on timing — morning or evening — and whether it matters with a shift-work schedule.,dosing,0.0
+MI00102,2025-12-04,phone,Patient,Patient asks if it is safe to take GLUCOREN with her blood pressure medication and a daily aspirin.,interaction,0.0
+MI00103,2025-11-10,web form,Patient,Caller asks if the dose needs adjusting for an 82-year-old with mild hepatic impairment.,dosing,0.0
+MI00104,2026-02-12,email,HCP,Caller asks whether a Spanish-language patient leaflet exists.,general,0.0
+MI00105,2025-12-28,web form,HCP,Pharmacist asks about the excipients and whether the tablet is latex-free in packaging. Also pharmacist asks about GLUCOREN dosing in a patient with eGFR of 35.,,
+MI00106,2025-11-12,phone,Patient,Caller asks for the full prescribing information for GLUCOREN.,,
+MI00107,2026-07-02,phone,HCP,Caller sounded frustrated. Question on timing — morning or evening — and whether it matters with a shift-work schedule.,,
+MI00108,2026-08-25,phone,HCP,Question on timing — morning or evening — and whether it matters with a shift-work schedule.,,
+MI00109,2026-02-09,phone,Nurse,"Web form, short message: Patient asks how to enroll in the copay savings program for GLUCOREN. Also patient says two tablets in the blister were crumbled. No symptoms. Asks for a replacement.",reimbursement,0.0
+MI00110,2026-08-28,web form,Patient,Patient reports cramps in a 53-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,ae_report,1.0
+MI00111,2026-08-25,web form,HCP,Pharmacist checking a possible interaction with rifampin; asks about CYP metabolism. Also pharmacist asks about GLUCOREN dosing in a patient with eGFR of 35.,,
+MI00112,2026-05-29,web form,Nurse,Caller is the daughter of a patient. Patient calling for herself: weight loss since starting GLUCOREN a month ago. Asks whether to stop.,,
+MI00113,2026-04-06,phone,Patient,Patient wants to know the titration steps and how long to wait between them.,dosing,0.0
+MI00114,2026-01-09,phone,Pharmacist,Patient asks if it is safe to take GLUCOREN with her blood pressure medication and a daily aspirin. Also patient says two tablets in the blister were crumbled. No symptoms. Asks for a replacement.,interaction,0.0
+MI00115,2026-06-20,phone,HCP,Caller is the daughter of a patient. Patient left GLUCOREN in a hot car for a day; asks if the tablets are still good.,,
+MI00116,2026-04-13,phone,HCP,HCP reports diarrhoea in a 50-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known. Also hCP asks about GLUCOREN in gestational diabetes.,,
+MI00117,2026-05-20,phone,Pharmacist,Caller prefers a call back. Caller reports the tablets in the new bottle look different from the previous fill.,,
+MI00118,2026-04-17,phone,Nurse,Nurse asks what to do about a missed dose and whether two tablets can be taken the next day. Also patient says two tablets in the blister were crumbled. No symptoms. Asks for a replacement. Mentions the patient has had yeast infection since starting.,dosing,1.0
+MI00119,2025-12-20,email,Pharmacist,Caller sounded frustrated. Caller says the bottle contained 28 tablets instead of 30.,product_complaint,0.0
+MI00120,2026-07-07,phone,Patient,Caller asks whether GLUCOREN is covered on the state Medicaid formulary.,reimbursement,0.0
+MI00121,2026-08-22,phone,Patient,Patient reports lost weight in a 46-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,ae_report,1.0
+MI00122,2026-03-12,phone,HCP,Patient asks how to enroll in the copay savings program for GLUCOREN. Also patient left GLUCOREN in a hot car for a day; asks if the tablets are still good.,reimbursement,0.0
+MI00123,2025-11-17,phone,Caregiver,Caregiver reports sugar crashed in a 59-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,,
+MI00124,2026-03-22,phone,Patient,Follow-up to a previous call. Patient asks what to do about a missed dose and whether two tablets can be taken the next day. Also caller travelling abroad asks about carrying GLUCOREN in checked luggage and temperature limits.,,
+MI00125,2026-08-26,email,HCP,HCP asks whether GLUCOREN can be combined with a sulfonylurea and what precautions apply. Mentions the patient has had threw up since starting.,interaction,1.0
+MI00126,2026-09-01,web form,Patient,"Web form, short message: Caller asks whether the patient assistance program covers Medicare Part D patients.",,
+MI00127,2026-06-29,phone,Nurse,HCP asks about co-administration with digoxin and whether levels should be monitored.,interaction,0.0
+MI00128,2026-01-15,phone,HCP,Caller asks whether a Spanish-language patient leaflet exists. Also hCP asks about GLUCOREN in gestational diabetes.,,
+MI00129,2026-09-25,email,Pharmacist,HCP asks about a higher-than-labelled dose in a patient not responding.,off_label,0.0
+MI00130,2026-01-21,phone,Pharmacist,Caller is the daughter of a patient. Patient asks if it is safe to take GLUCOREN with her blood pressure medication and a daily aspirin. Also patient left GLUCOREN in a hot car for a day; asks if the tablets are still good.,,
+MI00131,2025-11-23,phone,Patient,Caller sounded frustrated. Patient reports constipation in a 56-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,,
+MI00132,2026-06-09,phone,Patient,Patient reports itchy in a 73-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,,
+MI00133,2026-09-05,web form,Pharmacist,Caller asks if the dose needs adjusting for an 82-year-old with mild heptaic impairment.,dosing,0.0
+MI00134,2026-09-01,phone,HCP,Patient asks if it is safe to take GLUCOREN with her blood pressure mdeication and a daily aspirin.,,
+MI00135,2026-07-12,web form,Caregiver,Caller asks whether GLUCOREN is covered on the sttae Medicaid formulary.,reimbursement,0.0
+MI00136,2025-12-13,web form,Patient,Pharmacist checking a possible interaction with rifampin; asks about CYP metabolism.,interaction,0.0
+MI00137,2026-01-03,phone,Nurse,"Web form, short message: HCP asks when the next label update is expected.",general,0.0
+MI00138,2026-06-06,phone,Caregiver,Pharmacist asks about GLUCOREN dosing in a patient with eGFR of 35. Also nursing home asks whether tablets may be crushed for tube feeding.,dosing,0.0
+MI00139,2026-06-18,phone,Patient,Caller is the daughter of a patient. Caller asks whether grapefruit juice or alcohol affects GLUCOREN. Mentions the patient has had no appetite since starting.,interaction,1.0
+MI00140,2026-01-23,phone,Patient,Caller says the bottle contained 28 tablets instead of 30.,,
+MI00141,2026-08-07,phone,Patient,Second time calling this week. Patient calling for herself: cramps since starting GLUCOREN a month ago. Asks whether to stop.,ae_report,1.0
+MI00142,2026-04-09,web form,Patient,Patient asks about GLUCOREN with a GLP-1 injectable — any additive effects to watch for.,,
+MI00143,2026-02-04,web form,Patient,Nursing home asks whetehr tablets may be crushed for tube feeding.,storage,0.0
+MI00144,2026-06-09,phone,Caregiver,Caller asks if the dose needs adjusting for an 82-year-old with mild hepatic impairment.,dosing,0.0
+MI00145,2026-03-05,email,Nurse,Caller is the daughter of a patient. Pharmacist checking a possible interaction with rifampin; asks about CYP metabolism.,,
+MI00146,2026-01-29,phone,Nurse,Patient calling for herself: not hungry since starting GLUCOREN a month ago. Asks whether to stop.,,
+MI00147,2026-04-18,email,Patient,Caller says the bottle contained 28 tablets instead of 30.,product_complaint,0.0
+MI00148,2025-11-19,phone,Patient,Office asks which diagnosis codes the payer expects on the PA form.,reimbursement,0.0
+MI00149,2026-08-31,phone,Caregiver,Office asks for help with a prior authorization denial from Medicaid MCO.,reimbursement,0.0
+MI00150,2026-05-11,phone,HCP,Patient asks if it is safe to take GLUCOREN with her blood pressure medication and a daily aspirin.,interaction,0.0
+MI00151,2026-02-24,phone,Patient,Patient asks what to do about a missed dose and whether two tablets can be taken the next day. Mentions the paitent has had lightheaded since starting.,,
+MI00152,2026-01-09,email,Nurse,Caller asks if the dose needs adjusting for an 82-year-old with mild hepatic impairment.,,
+MI00153,2026-07-09,web form,Nurse,Transferred from the sales line. Pharmacist asks about GLUCOREN dosing in a patient with eGFR of 35. Also hCP asks for data on GLUCOREN in type 1 diabetes.,dosing,0.0
+MI00154,2026-03-08,phone,Pharmacist,"Web form, short message: Patient left GLUCOREN in a hot car for a day; asks if the tablets are still good.",,
+MI00155,2026-05-22,phone,Caregiver,Caller prefers a call back. Caregiver reports a patient hospitalized with fainted; GLUCOREN discontinued. Requests a safety follow-up and the case reference number.,ae_report,1.0
+MI00156,2026-09-11,email,HCP,Caller asks how to restart GLUCOREN after a two-week interruption.,dosing,0.0
+MI00157,2026-03-24,email,HCP,Caller says the bottle contained 28 tablets instead of 30. Also pharmacy asks about shelf life after the bottle is opened.,,
+MI00158,2026-07-26,email,Pharmacist,Pharmacist reports a patient hospitalized with inflamed pancreas; GLUCOREN discontinued. Requests a safety follow-up and the case reference number.,ae_report,1.0
+MI00159,2026-09-23,email,Caregiver,HCP asks whether GLUCOREN can be combined with a sulfonylurea and what precautions apply.,,
+MI00160,2025-12-28,phone,Patient,Caller asks whether grapefruit juice or alcohol affects GLUCOREN.,,
+MI00161,2026-03-16,phone,HCP,HCP reports hypo in a 56-year-old patient two weeks after starting GLUCOREN. Patient contniues on therapy. Wants to know if this is known.,ae_report,1.0
+MI00162,2025-12-18,web form,Nurse,Office asks for help with a prior authorization denial from BCBS.,reimbursement,0.0
+MI00163,2025-11-04,email,Caregiver,Pharmacist checking a possible interaction with rifampin; asks about CYP metabolism.,interaction,0.0
+MI00164,2026-08-20,phone,HCP,Caller asks whehter GLUCOREN contains lactose or gluten.,,
+MI00165,2026-02-02,phone,HCP,HCP reports itching in a 72-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,ae_report,1.0
+MI00166,2026-03-13,phone,Pharmacist,HCP asks when the next label update is expected.,,
+MI00167,2026-07-05,web form,Pharmacist,Pharmacist asks about GLUCOREN dosing in a patient with eGFR of 35.,,
+MI00168,2026-09-15,email,HCP,Caller prefers a call back. HCP reports diarrhoea in a 63-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known. Also caller travelling abroad asks about carrying GLUCOREN in checked luggage and temperature limits.,,
+MI00169,2026-09-06,phone,Caregiver,Patient asks how to enroll in the copay savings program for GLUCOREN.,reimbursement,0.0
+MI00170,2026-10-11,phone,HCP,Caller asks whether GLUCOREN is used for weight management in patients without diabetes.,,
+MI00171,2026-06-19,web form,Nurse,Caller asks whether grapefruit juice or alcohol affects GLUCOREN.,interaction,0.0
+MI00172,2026-05-31,phone,Nurse,Patient asks how to enroll in the copay savings program for GLUCOREN.,reimbursement,0.0
+MI00173,2026-06-30,web form,Patient,Caller asks whether GLUCOREN is covered on the state Medicaid formulary. Also pharmacist checking a possible interaction with rifampin; asks about CYP metabolism.,reimbursement,0.0
+MI00174,2025-11-05,phone,Patient,Caller asks whether the patient assistance program covers Medicare Part D patients.,reimbursement,0.0
+MI00175,2026-05-07,phone,Patient,HCP asks for data on GLUCOREN in type 1 diabetes.,off_label,0.0
+MI00176,2025-12-20,email,Pharmacist,HCP asks about a higher-than-labelled dose in a patient not responding.,,
+MI00177,2026-08-28,web form,HCP,HCP asks for the publication list on GLUCOREN cardiovascular data.,general,0.0
+MI00178,2025-11-07,phone,Nurse,Nurse wants to know the titration stesp and how long to wait between them.,dosing,0.0
+MI00179,2026-04-08,phone,Patient,Caller sounded frustrated. Caller asks if the dose needs adjusting for an 82-year-old with mild hepatic impairment.,dosing,0.0
+MI00180,2026-08-21,email,Pharmacist,Pharmacist wants to know the titration steps and how long to wait between them. Also hCP asks when the next label update is expected.,,
+MI00181,2026-03-24,phone,Patient,Caller asks whether GLUCOREN contains lactose or gluten. Also office asks which diagnosis codes the payer expects on the PA form.,general,0.0
+MI00182,2026-09-23,email,Nurse,Caller reports the tablets in the new bottle look different from the previous fill.,,
+MI00183,2026-07-01,phone,HCP,Transferred from the sales line. HCP asks for data on GLUCOREN in type 1 diabetes. Also caller asks whether a Spanish-language patient leaflet exists.,,
+MI00184,2026-04-06,email,Caregiver,HCP asks about co-administration with digoxin and whether levels should be monitored. Also caller asks about the maximum daily dose of GLUCOREN and whether it can be split.,interaction,0.0
+MI00185,2026-04-12,phone,Nurse,Patient calling for herself: migraine since starting GLUCOREN a month ago. Asks whether to stop.,ae_report,1.0
+MI00186,2026-02-12,phone,Patient,Patient says the pharmacy quoted $101 and asks about the savings card.,,
+MI00187,2026-01-17,phone,Patient,Caller sounded frustrated. Patient asks if it is safe to take GLUCOREN with her blood pressure medication and a daily aspirin.,,
+MI00188,2026-05-21,web form,Patient,"Web form, short message: HCP asks for the publication list on GLUCOREN cardiovascular data.",,
+MI00189,2026-06-30,email,Pharmacist,Second time calling this week. Pharmacy asks about shelf life after the bottle is opened.,,
+MI00190,2026-07-27,web form,Patient,Patient asks what to do about a missed dose and whether two tablets can be taken the next day.,,
+MI00191,2026-08-19,email,Patient,Patient says the pharmacy quoted $112 and asks about the savings card.,reimbursement,0.0
+MI00192,2026-09-16,phone,Nurse,HCP asks about a higher-than-labelled dose in a patient not responding.,,
+MI00193,2026-09-20,web form,HCP,Caller asks whether GLUCOREN is used for weight management in patients without diabetes.,,
+MI00194,2026-02-13,phone,Patient,"Web form, short message: Caller asks about the maximum daily dose of GLUCOREN and whether it can be split.",dosing,0.0
+MI00195,2026-02-21,email,Patient,Patient calling for herself: hives since starting GLUCOREN a month ago. Asks whether to stop.,ae_report,1.0
+MI00196,2026-07-01,phone,Patient,Caller prefers a call back. Pharmcaist checking a possible interaction with rifampin; asks about CYP metabolism.,interaction,0.0
+MI00197,2026-04-01,phone,Nurse,Caller asks whether a Spanish-language patient leaflet exists.,general,0.0
+MI00198,2026-05-03,email,Patient,Follow-up to a previous call. Patient reports exhausted in a 59-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,ae_report,1.0
+MI00199,2026-01-30,web form,HCP,Follow-up to a previous call. HCP wants to know the titration steps and how long to wait between them.,,
+MI00200,2026-08-08,web form,Patient,Caller asks how to restart GLUCOREN after a two-week interruption.,dosing,0.0
+MI00201,2025-12-09,web form,HCP,Patient asks how to enroll in the copay savings program for GLUCOREN.,,
+MI00202,2025-11-28,web form,HCP,Follow-up to a previous call. Caller asks if the dose needs adjusting for an 82-year-old with mild hepatic impairment.,,
+MI00203,2026-02-20,phone,HCP,HCP asks whether GLUCOREN can be combined with a sulfonylurea and what precautions apply.,interaction,0.0
+MI00204,2026-02-16,web form,Pharmacist,Pharmacist reports a patient hospitalized with passed out; GLUCOREN discontinued. Requests a safety follow-up and the case reference number.,,
+MI00205,2026-04-04,phone,HCP,HCP reports abdominal pain in a 60-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,,
+MI00206,2026-02-17,phone,Pharmacist,Question on timing — morning or evening — and whether it matters with a shift-work schedule. Also hCP asks when the next label update is expected.,dosing,0.0
+MI00207,2025-11-19,email,Nurse,Patient says two tablets in the blister were crumbled. No symptoms. Asks for a replacement.,,
+MI00208,2026-09-23,email,Nurse,Caller asks whether grapefruit juice or alcohol affects GLUCOREN. Also office asks for help with a prior authorization denial from CVS Caremark.,,
+MI00209,2026-05-16,email,Caregiver,Pharmacist asks about GLUCOREN dosing in a patient with eGFR of 35.,,
+MI00210,2026-07-25,phone,Nurse,Caller prefers a call back. Pharmacy received a carton with a torn label and an unreadable expiry date.,product_complaint,0.0
+MI00211,2026-01-19,email,Nurse,Caller is the daughter of a patient. Caller asks whether a Spanish-language patient leaflet exists.,general,0.0
+MI00212,2026-01-26,web form,Caregiver,Caller asks whether a Spanish-language patient leaflet exists. Also caller asks whether the patient assistance program covers Medicare Part D patients.,general,0.0
+MI00213,2025-11-06,email,HCP,Caller asks whether GLUCOREN is used for weight management in patients without diabetes.,,
+MI00214,2026-01-14,web form,Pharmacist,Patient says the pharmacy quoted $272 and asks about the savings card. Also pharmacist wants to know the titration steps and how long to wait between them.,,
+MI00215,2026-04-04,phone,Patient,Second time calling this week. Patient reports heart racing in a 58-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,,
+MI00216,2026-07-27,web form,HCP,Second time calling this week. Pharmacist asks about the excipients and whether the tablet is latex-free in packaging.,storage,0.0
+MI00217,2026-09-23,web form,HCP,Caller asks whether a Spanish-language patient leaflet exists.,general,0.0
+MI00218,2026-08-26,phone,Caregiver,Caller asks about the maximum daily dose of GLUCOREN and whether it can be split. Also hCP asks for data on GLUCOREN in type 1 diabetes.,dosing,0.0
+MI00219,2026-07-21,phone,HCP,Follow-up to a previous call. HCP asks whether GLUCOREN can be combined with a sulfonylurea and what precautions apply. Also office asks for help with a prior authorization denial from Medicaid MCO.,interaction,0.0
+MI00220,2026-10-07,phone,HCP,Transferred from the sales line. Pharmacist checking a possible interaction with rifampin; asks about CYP metabolism.,,
+MI00221,2026-08-23,web form,Caregiver,Caller's father was admitted to hospital with chest pain; he had started GLUCOREN three weeks earlier. Caller is upset and wants to reprot it.,ae_report,1.0
+MI00222,2025-12-26,web form,Pharmacist,Follow-up to a previous call. Pharmacist reports a patient hospitalized with creatinine spiked; GLUCOREN discontinued. Requests a safety follow-up and the case reference number.,ae_report,1.0
+MI00223,2025-11-30,email,Patient,Patient found a tablet with a chip and an odd smell; has not taken it.,product_complaint,0.0
+MI00224,2025-12-08,phone,HCP,Second time calling this week. Caller reports the tablets in the new bottle look different from the previous fill.,product_complaint,0.0
+MI00225,2026-05-23,web form,Caregiver,"Caller asks for the full prescribing information for GLUCOREN. Also pharmacist reports a bottle of GLUCOREN with a broken seal and discolored tablets, lot number provided.",general,0.0
+MI00226,2026-09-14,phone,Pharmacist,Follow-up to a previous call. HCP asks when the next label update is expected.,general,0.0
+MI00227,2026-04-07,email,Patient,Second time calling this week. Caller asks whether GLUCOREN contains lactose or gluten.,general,0.0
+MI00228,2026-02-05,web form,Caregiver,Claler prefers a call back. HCP asks when the next label update is expected.,general,0.0
+MI00229,2026-05-03,phone,Nurse,"Web form, short message: Patient asks whether GLUCOREN should be taken with food. Also caller asks whether the patient assistance program covers Medicare Part D patients.",dosing,0.0
+MI00230,2026-07-11,email,Patient,Caller asks for the full prescribing information for GLUCOREN. Also office asks which diagnosis codes the payer expects on the PA form.,,
+MI00231,2026-01-21,email,Patient,Second time calling this week. Office asks which diagnosis codes the payer expects on the PA form.,reimbursement,0.0
+MI00232,2025-11-14,phone,HCP,HCP asks when the next label update is expected.,general,0.0
+MI00233,2026-03-25,web form,Caregiver,Caregiver reports hives in a 55-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,ae_report,1.0
+MI00234,2026-02-13,web form,Patient,Follow-up to a previous call. Caller asks about the maximum daily dose of GLUCOREN and whether it can be split.,,
+MI00235,2025-12-06,phone,Caregiver,Patient calling for herself: exhausted since starting GLUCOREN a month ago. Asks whether to stop. Also nursing home asks whether tablets may be crushed for tube feeding.,,
+MI00236,2026-10-07,web form,Nurse,Patient asks if it is safe to take GLUCOREN with her blood pressure medication and a daily aspirin.,,
+MI00237,2026-02-14,phone,HCP,Follow-up to a previous call. Patient asks whether GLUCOREN should be taken with food.,,
+MI00238,2026-07-19,email,Nurse,Nurse wants to know the titration steps and how long to wait between them.,dosing,0.0
+MI00239,2026-05-22,phone,Patient,Second time calling this week. Pharmacy received a carton with a torn label and an unreadable expiry date.,,
+MI00240,2026-02-22,phone,Nurse,Patient calling for herself: belly pain since starting GLUCOREN a month ago. Asks whether to stop.,,
+MI00241,2026-01-28,phone,Nurse,Transferred from the sales line. Nurse asks about GLUCOREN with a GLP-1 injectable — any additive effects to watch for.,,
+MI00242,2025-12-22,email,Nurse,Office asks for help with a prior authorization denial from Aetna.,,
+MI00243,2026-01-27,phone,Patient,Caller sounded frustrated. Pharmacy asks about shelf life after the bottle is opened.,storage,0.0
+MI00244,2026-04-08,phone,Patient,Caller prefers a call back. Patient left GLUCOREN in a hot car for a day; asks if the tablets are still good.,storage,0.0
+MI00245,2025-11-09,phone,Pharmacist,"Web form, short message: Callre reports the tablets in the new bottle look different from the previous fill.",,
+MI00246,2026-08-17,phone,Patient,Caller is the daughter of a patient. Patient reports throwing up in a 70-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known. Also pharmacist asks about interaction between GLUCOREN and warfarin.,,
+MI00247,2026-10-03,phone,Patient,Pharmacist checking a possible interaction with rifampin; asks about CYP metabolism. Mentions the patient has had dehydration since starting.,,
+MI00248,2026-07-26,phone,Nurse,Nursing home asks whether tablets may be crushed for tube feeding.,,
+MI00249,2025-12-28,email,HCP,HCP asks about a higher-than-labelled dose in a patient not responding.,,
+MI00250,2026-08-05,phone,HCP,Caller asks whether a Spanish-language patient leaflet exists.,general,0.0
+MI00251,2026-07-04,phone,Caregiver,Patient calling for herself: itching since starting GLUCOREN a month ago. Asks whether to stop.,ae_report,1.0
+MI00252,2026-05-13,phone,Caregiver,Caregiver asks what to do about a missed dose and whether two tablets can be taken the next day.,dosing,0.0
+MI00253,2026-02-07,email,Nurse,HCP asks whether GLUCOREN can be combined with a sulfonylurea and what precautions apply.,interaction,0.0
+MI00254,2026-04-02,phone,HCP,Patient asks whether GLUCOREN should be taken with food.,,
+MI00255,2026-04-07,phone,HCP,Caller prefers a call back. Patient says the pharmacy quoted $300 and asks about the savings card.,reimbursement,0.0
+MI00256,2026-04-20,phone,Patient,Patient asks what to do about a missed dose and whether two tablets can be taken the next day.,,
+MI00257,2026-08-05,phone,HCP,Office asks for help with a prior authorization denial from BCBS.,,
+MI00258,2026-08-02,phone,Patient,Patient asks what to do about a missed dose and whether two tablets can be taken the next day.,,
+MI00259,2025-12-27,phone,Patient,Caller asks whether the patient assistance program covers Medicare Part D patients.,,
+MI00260,2026-08-23,web form,Caregiver,Caregiver wants to know the titration steps and how long to wait between them.,,
+MI00261,2026-01-26,web form,Patient,Caller asks whether grapefruit juice or aclohol affects GLUCOREN. Mentions the patient has had vomiting since starting.,interaction,1.0
+MI00262,2026-03-27,web form,Patient,Patient found a tablet with a chip and an odd smell; has not taken it.,,
+MI00263,2026-04-05,web form,Pharmacist,Patient calling for herself: constipation since starting GLUCOREN a month ago. Asks whether to stop.,,
+MI00264,2026-02-13,email,Patient,Follow-up to a previous call. Patient calling for herself: dehydrated since starting GLUCOREN a month ago. Asks whether to stop.,,
+MI00265,2026-10-10,phone,Patient,Caller's father was admitted to hospital with anaphylaxis; he had started GLUCOREN three weeks earlier. Caller is upset and wants to report it.,ae_report,1.0
+MI00266,2026-02-14,web form,HCP,Caller asks about using GLUCOREN for prediabetes in a patient who wants to avoid progression.,,
+MI00267,2026-03-24,phone,Patient,Transferred from the sales line. HCP asks whether GLUCOREN can be combined with a sulfonylurea and what precautions apply.,,
+MI00268,2026-01-29,phone,HCP,Caller asks whether the patient assistance program covers Medicare Part D patients.,,
+MI00269,2026-05-17,phone,HCP,Office asks for help with a prior authorization denial from Cigna.,,
+MI00270,2026-01-06,web form,HCP,HCP asks about a higher-than-labelled dose in a patient not responding.,off_label,0.0
+MI00271,2026-08-29,email,Patient,Caller prefers a call back. Caller asks whehter GLUCOREN is covered on the state Medicaid formulary.,,
+MI00272,2026-03-14,email,HCP,Transferred from the sales line. Caller asks about the maximum daily dose of GLUCOREN and whether it can be split.,,
+MI00273,2025-11-08,email,Caregiver,Nursing home asks whether tablets may be crushed for tube feeding. Also caller asks whether grapefruit juice or alcohol affects GLUCOREN.,storage,0.0
+MI00274,2025-11-26,email,HCP,Caller sounded frustrated. Caller asks for the full prescribing information for GLUCOREN.,,
+MI00275,2026-09-09,email,Patient,Follow-up to a previous call. Pharmacist checking a possible interaction with rifampin; asks about CYP metabolism.,,
+MI00276,2026-01-28,web form,Caregiver,Caller sounded frustrated. Caregiver wants to know the titration steps and how long to wait between them. Mentions the patient has had rash since starting.,,
+MI00277,2025-11-30,phone,Patient,Caller sounded frustrated. Caller asks whether GLUCOREN can be stored in a weekly pill organizer.,,
+MI00278,2026-09-19,web form,Patient,Transferred from the sales line. Patient reports cramps in a 54-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,ae_report,1.0
+MI00279,2026-04-19,web form,HCP,HCP asks what to do about a missed dose and whether two tablets can be taken the next day. Also pharmacist asks about the excipients and whether the tablet is latex-free in packaging.,dosing,0.0
+MI00280,2025-12-06,web form,Pharmacist,HCP asks about GLUCOREN in gestational diabetes. Also office asks for help with a prior authorization denial from Express Scripts.,off_label,0.0
+MI00281,2025-12-27,phone,Pharmacist,Caller asks whether GLUCOREN is used for weight management in patients without diabetes.,off_label,0.0
+MI00282,2026-10-17,web form,Caregiver,Caller prefers a call back. Pharmacist asks about interaction between GLUCOREN and warfarin.,interaction,0.0
+MI00283,2026-09-03,phone,HCP,Caller asks about the maximum daily dose of GLUCOREN and whether it can be split. Mentions the patient has had diarrhoea since starting.,dosing,1.0
+MI00284,2025-12-30,phone,Pharmacist,Office asks for help with a prior authorization denial from BCBS.,,
+MI00285,2026-04-10,web form,Patient,Second time calling this week. Caller reports the tablets in the new bottle look different from the previous fill.,product_complaint,0.0
+MI00286,2026-06-10,email,Nurse,Caller prefers a call back. Pharmacist asks about GLUCOREN dosing in a patient with eGFR of 35.,dosing,0.0
+MI00287,2026-04-14,phone,Patient,HCP asks about co-administration with digoxin and whether levels should be monitored.,,
+MI00288,2026-03-29,email,HCP,Caller's father was admitted to hospital with kidney failure; he had started GLUCOREN three weeks earlier. Caller is upset and wants to report it. Also patient left GLUCOREN in a hot car for a day; asks if the tablets are still good.,,
+MI00289,2026-06-26,phone,Patient,Pharmacist asks about GLUCOREN dosing in a patient with eGFR of 35.,,
+MI00290,2026-02-11,email,Nurse,Follow-up to a previous call. Pharmacy asks about shelf life after the btotle is opened.,,
+MI00291,2026-01-06,email,Caregiver,Second time calling this week. HCP asks about co-administration with digoxin and whether levels should be monitored.,interaction,0.0
+MI00292,2026-04-09,web form,Patient,HCP asks about a higher-than-labelled dose in a patient not responding.,off_label,0.0
+MI00293,2026-05-14,phone,HCP,HCP asks about GLUCOREN in gestational diabetes.,off_label,0.0
+MI00294,2026-06-01,email,Pharmacist,Caller asks whether the patient assistance program covers Medicare Part D patients.,,
+MI00295,2026-09-16,email,Caregiver,Caller asks how to restart GLUCOREN after a two-week interruption.,,
+MI00296,2026-09-04,web form,Nurse,Nurse asks about GLUCOREN with a GLP-1 injectable — any additive effects to watch for.,,
+MI00297,2026-07-18,phone,Pharmacist,Caller reports the tablets in the new bottle look different from the previous fill. Also caller asks how to restart GLUCOREN after a two-week interruption.,,
+MI00298,2026-08-29,phone,HCP,Caller asks how to restart GLUCOREN after a two-week interruption.,dosing,0.0
+MI00299,2026-03-27,phone,HCP,Transferred from the sales line. Office asks which diagnosis codes the payer expects on the PA form.,reimbursement,0.0
+MI00300,2025-12-22,phone,Patient,Second time calling this week. Caller asks whether GLUCOREN is covered on the state Medicaid formulary. Also pharmacy asks about shelf life after the bottle is opened.,reimbursement,0.0
+MI00301,2026-02-20,phone,HCP,HCP reports throwing up in a 51-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known. Also pharmacist asks about GLUCOREN dosing in a patient with eGFR of 35.,,
+MI00302,2026-07-24,phone,HCP,Caller prefers a call back. Patient says two tablets in the blister were crumbled. No symptoms. Asks for a replacement. Also hCP asks about co-administration with digoxin and whether levels should be monitored.,,
+MI00303,2026-07-22,email,Patient,Caller prefers a call back. Pharmacist asks about interaction between GLUCOREN and warfarin.,,
+MI00304,2026-04-30,phone,Caregiver,Caller asks whether GLUCOREN can be stored in a weekly pill organizer.,storage,0.0
+MI00305,2025-12-07,phone,Patient,Caller prefers a call back. Patient reports yeast infection in a 74-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,ae_report,1.0
+MI00306,2025-12-23,phone,Caregiver,Transferred from the sales line. Caller asks if the dose needs adjusting for an 82-year-old with mild hepatic impairment.,dosing,0.0
+MI00307,2026-02-13,web form,HCP,Caller asks if the dose needs adjusting for an 82-year-old with mild hepatic impairment.,dosing,0.0
+MI00308,2026-10-14,phone,Nurse,Nurse reports weight loss in a 79-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,ae_report,1.0
+MI00309,2026-02-18,phone,Patient,Caller asks whether a Spanish-language patient leaflet exists. Also patient asks if it is safe to take GLUCOREN with her blood pressure medication and a daily aspirin.,general,0.0
+MI00310,2026-05-27,phone,HCP,Transferred from the sales line. Pharmacist asks about GLUCOREN dosing in a patient with eGFR of 35.,dosing,0.0
+MI00311,2026-02-04,phone,Pharmacist,Caller asks about using GLUCOREN for prediabetes in a patient who wants to avoid progression.,off_label,0.0
+MI00312,2026-06-10,phone,Caregiver,"Web form, short message: Patient calling for herself: loose stools since starting GLUCOREN a month ago. Asks whether to stop.",ae_report,1.0
+MI00313,2026-06-26,web form,Caregiver,Caller sounded frustrated. HCP asks about a higher-than-labelled dose in a patient not responding. Also caller reports the tablets in the new bottle look different from the previous fill.,,
+MI00314,2025-12-05,email,Patient,Second time calling this week. Patient left GLUCOREN in a hot car for a day; asks if the tablets are still good.,,
+MI00315,2026-08-10,email,Patient,Caller travelling abroad asks about carrying GLUCOREN in checked luggage and temperature limits.,,
+MI00316,2026-09-14,web form,Patient,Patient reports rash in a 46-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,ae_report,1.0
+MI00317,2026-07-21,web form,Patient,Patient found a tablet with a chip and an odd smell; has not taken it.,product_complaint,0.0
+MI00318,2026-09-01,email,Patient,Patient says the pharmacy quoted $140 and asks about the savings card.,,
+MI00319,2026-01-22,email,Pharmacist,HCP asks when the next label update is expected.,general,0.0
+MI00320,2026-06-14,web form,Patient,HCP asks about co-administration with digoxin and whether levels should be monitored.,interaction,0.0
+MI00321,2026-04-25,email,HCP,Caller is the daughter of a patient. HCP asks about a higher-than-labelled dose in a patient not responding.,off_label,0.0
+MI00322,2026-07-27,web form,Nurse,"Caller sounded frustrated. Pharmacist reports a bottle of GLUCOREN with a broken seal and discolored tablets, lot number provided.",product_complaint,0.0
+MI00323,2026-06-04,phone,Pharmacist,Student asks for the mechanism of action for a presentation.,,
+MI00324,2026-09-20,phone,Patient,Caller sounded frustrated. Patient says two tablets in the blister were crumbled. No symptoms. Asks for a replacement. Also pharmacist asks about the excipients and whether the tablet is latex-free in packaging.,,
+MI00325,2026-07-03,email,Patient,Patient asks how to enroll in the copay savings program for GLUCOREN. Also patient asks whether GLUCOREN should be taken with food.,,
+MI00326,2026-09-15,phone,Patient,Patient calling for herself: weight loss since starting GLUCOREN a month ago. Asks whether to stop. Also question on timing — morning or evening — and whether it matters with a shift-work schedule.,,
+MI00327,2026-09-12,email,Caregiver,Office asks which diagnsois codes the payer expects on the PA form.,,
+MI00328,2026-10-04,web form,Patient,HCP asks about co-administration with digoxin and whether levels should be monitored.,interaction,0.0
+MI00329,2025-12-03,email,Patient,Caller is the daughter of a patient. Patient asks whether GLUCOREN should be taken with food.,,
+MI00330,2026-06-25,email,Patient,Callre is the daughter of a patient. Caller asks whether GLUCOREN contains lactose or gluten.,general,0.0
+MI00331,2026-02-02,web form,Nurse,Pharmcay asks about shelf life after the bottle is opened.,storage,0.0
+MI00332,2026-01-16,phone,Nurse,Nurse reports diarrhoea in a 44-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,,
+MI00333,2025-12-09,web form,HCP,Pharmacist asks about interaction between GLUCOREN and warfarin. Mentions the patient has had urinary tract infection since starting.,,
+MI00334,2026-02-19,email,HCP,HCP wants to know the titration steps and how long to wait between them. Also caller reports the tablets in the new bottle look different from the previous fill.,dosing,0.0
+MI00335,2026-01-19,phone,Nurse,Patient calling for herself: itching since starting GLUCOREN a month ago. Asks whether to stop. Also hCP asks about use in adolescents; requests any available data.,,
+MI00336,2026-06-19,phone,Patient,Patient reports glucose dropped in a 61-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,,
+MI00337,2026-09-27,phone,HCP,Caller asks whether GLUCOREN is covered on the state Medicaid formulary.,reimbursement,0.0
+MI00338,2026-07-30,web form,Patient,HCP asks whether GLUCOREN can be combined with a sulfonylurea and what precautions apply.,interaction,0.0
+MI00339,2026-07-11,email,Patient,Caller is the daughter of a patient. HCP asks about a higher-than-labelled dose in a patient not responding.,off_label,0.0
+MI00340,2026-02-26,email,Pharmacist,Caller asks whether GLUCOREN is used for weight management in patients without diabetes.,,
+MI00341,2026-05-28,phone,HCP,HCP asks whether GLUCOREN can be combined with a sulfonylurea and what precautions apply.,interaction,0.0
+MI00342,2026-03-20,email,Patient,Caller prefers a call back. Caller asks about using GLUCOREN for prediabetes in a patient who wants to avoid progression.,off_label,0.0
+MI00343,2025-12-09,phone,Pharmacist,Caller asks how to restart GLUCOREN after a two-week interruption.,dosing,0.0
+MI00344,2026-06-12,phone,Caregiver,Office asks for help with a prior authorization denial from OptumRx.,reimbursement,0.0
+MI00345,2026-03-19,phone,Pharmacist,"Web form, short message: Patient says two tablets in the blister were crumbled. No symptoms. Asks for a replacement.",product_complaint,0.0
+MI00346,2026-07-28,phone,Caregiver,Caregiver wants to know the titration steps and how long to wait between them. Also caller travelling abroad asks about carrying GLUCOREN in checked luggage and temperature limits.,dosing,0.0
+MI00347,2025-12-10,phone,HCP,Caller asks whether a Spanish-language patient leaflet exists.,general,0.0
+MI00348,2026-10-13,web form,HCP,Pharmacy asks about shelf life after the bottle is opened.,,
+MI00349,2026-03-01,phone,Patient,Patient calling for herself: lost weight since starting GLUCOREN a month ago. Asks whether to stop.,,
+MI00350,2025-12-25,email,Pharmacist,Follow-up to a previous call. Pharmacist asks about GLUCOREN dosing in a patient with eGFR of 35. Mentions the patient has had threw up since starting.,dosing,1.0
+MI00351,2026-07-22,phone,Pharmacist,Patient left GLUCOREN in a hot car for a day; asks if the tablets are still good. Also office asks for help with a prior authorization denial from Express Scripts.,storage,0.0
+MI00352,2026-02-28,email,Nurse,Caller prefers a call back. Nurse reports dehydration in a 38-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known. Also caller asks whether GLUCOREN is used for weight management in patients without diabetes.,,
+MI00353,2026-03-26,phone,HCP,Caller sounded frustrated. Caller asks whether the patient assistance program covers Medicare Part D patients.,reimbursement,0.0
+MI00354,2026-09-07,phone,Nurse,HCP asks about a higher-than-labelled dose in a patient not responding. Also caller asks whether a Spanish-language patient leaflet exists.,off_label,0.0
+MI00355,2025-11-10,email,Patient,Caller asks about the maximum daily dose of GLUCOREN and whether it can be split.,dosing,0.0
+MI00356,2026-05-07,web form,HCP,Patient found a tablet with a chip and an odd smell; has not taken it. Also caller asks whether GLUCOREN can be stored in a weekly pill organizer.,product_complaint,0.0
+MI00357,2026-01-19,phone,HCP,Second time calling this week. HCP asks about use in adolescents; requests any available data.,off_label,0.0
+MI00358,2026-08-26,phone,Patient,Follow-up to a previous call. Student asks for the mechanism of action for a presentation. Also hCP asks about co-administration with digoxin and whether levels should be monitored.,general,0.0
+MI00359,2026-06-18,phone,Nurse,Caller prefers a call back. HCP asks about co-administration with digoxin and whether levels should be monitored.,,
+MI00360,2026-10-04,web form,Nurse,HCP asks about a higher-than-labelled dose in a patient not responding. Also question on timing — morning or evening — and whether it matters with a shift-work schedule.,off_label,0.0
+MI00361,2026-02-28,phone,Patient,Office asks which diagnosis codes the payer expects on the PA form.,,
+MI00362,2026-09-13,phone,Nurse,Nurse reports yeast infection in a 52-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Watns to know if this is known.,ae_report,1.0
+MI00363,2026-03-30,phone,Patient,Caller asks whether grapefruit juice or alcohol affects GLUCOREN.,interaction,0.0
+MI00364,2026-09-18,phone,Caregiver,"Pharmacist reports a bottle of GLUCOREN with a broken seal and discolored tablets, lot number provided.",,
+MI00365,2026-07-12,email,Patient,Patient reports a patient hospitalized with fainted; GLUCOREN discontinued. Requests a safety follow-up and the case reference number.,,
+MI00366,2026-08-24,phone,Caregiver,Caller sounded frustrated. Caregiver wants to know the tirtation steps and how long to wait between them. Also pharmacist asks about interaction between GLUCOREN and warfarin.,,
+MI00367,2025-11-08,web form,HCP,Transferred from the sales line. Caller asks whether GLUCOREN is used for weight management in patients without diabetes.,,
+MI00368,2025-12-10,phone,Patient,Pharmacist checking a possible interaction with rifampin; asks about CYP metabolism.,interaction,0.0
+MI00369,2025-12-26,phone,HCP,Caller is the daughter of a patient. HCP asks what to do abuot a missed dose and whether two tablets can be taken the next day.,dosing,0.0
+MI00370,2026-05-07,email,Pharmacist,Pharmacist reports a patient hospitalized with fainted; GLUCOREN discontinued. Requests a safety follow-up and the case reference number. Also pharmacist wants to know the titration steps and how long to wait between them.,ae_report,1.0
+MI00371,2026-07-03,phone,Caregiver,Caller sounded frustrated. Pharmacist checking a possible interaction with rifampin; asks about CYP metabolism. Mentions the patient has had lost my appetite since starting.,,
+MI00372,2026-10-02,email,Caregiver,HCP asks when the next label update is expected.,general,0.0
+MI00373,2026-06-29,phone,Patient,Patient asks how to enroll in the copay savings program for GLUCOREN.,reimbursement,0.0
+MI00374,2026-07-20,web form,HCP,Caller is the daughter of a patient. Office asks which diagnosis codes the payer expects on the PA form.,,
+MI00375,2026-01-28,phone,Caregiver,Follow-up to a previous call. Caller travelling abroad asks about carrying GLUCOREN in checked luggage and temperature limits. Also patient asks if it is safe to take GLUCOREN with her blood pressure medication and a daily aspirin.,storage,0.0
+MI00376,2025-11-16,phone,Pharmacist,Patient calling for herself: yeast infection since starting GLUCOREN a month ago. Asks whether to stop. Also pharmacist wants to know the titration steps and how long to wait between them.,,
+MI00377,2025-12-18,email,Patient,Patient left GLUCOREN in a hot car for a day; asks if the tablets are still good.,storage,0.0
+MI00378,2026-05-03,phone,Nurse,Caller asks whether GLUCOREN contains lactose or gluten.,,
+MI00379,2026-01-11,email,Patient,HCP asks about co-administration with digoxin and whether levels should be monitored.,interaction,0.0
+MI00380,2026-01-28,email,Nurse,Caller asks whether grapefruit juice or alcohol affects GLUCOREN.,,
+MI00381,2026-06-30,email,Pharmacist,Caller asks whether grapefruit juice or alcohol affects GLUCOREN.,,
+MI00382,2025-12-20,phone,Nurse,Patient calling for herself: rash since starting GLUCOREN a month ago. Asks whether to stop.,ae_report,1.0
+MI00383,2026-02-27,email,HCP,HCP reports not hungry in a 68-year-old patient two weeks after starting GLUCOREN. Patient cotninues on therapy. Wants to know if this is known.,,
+MI00384,2026-04-19,phone,Patient,Pharmacy received a carton with a torn label and an unreadable expiry date. Also hCP asks about GLUCOREN in gestational diabetes.,,
+MI00385,2026-04-17,email,Nurse,Nursing home asks whether tablets may be crushed for tube feeding. Also caller asks whether GLUCOREN is used for weight management in patients without diabetes.,,
+MI00386,2026-01-01,phone,Patient,Caller asks whether a Spanish-language patient leaflet exists. Also caller asks about the maximum daily dose of GLUCOREN and whether it can be split.,,
+MI00387,2026-10-02,phone,Pharmacist,Second time calling this week. Patient left GLUCOREN in a hot car for a day; asks if the tablets are still good.,storage,0.0
+MI00388,2026-05-04,phone,Patient,Follow-up to a previous call. Patient asks about GLUCOREN with a GLP-1 injectable — any additive effects to watch for. Also caller asks if the dose needs adjusting for an 82-year-old with mild hepatic impairment.,interaction,0.0
+MI00389,2026-10-03,phone,Pharmacist,Office asks for help with a prior authorization denial from Aetna. Also caller asks whether GLUCOREN can be stored in a weekly pill organizer.,,
+MI00390,2026-03-14,phone,HCP,Patient asks how to enroll in the copay savings program for GLUCOREN.,,
+MI00391,2026-08-28,email,HCP,Second time calling this week. Patient calling for herself: constipated since starting GLUCOREN a month ago. Asks whether to stop. Also hCP asks about GLUCOREN with a GLP-1 injectable — any additive effects to watch for.,,
+MI00392,2025-11-09,email,Pharmacist,Follow-up to a previous call. Pharmacist reports a patient hospitalized with inflamed pancreas; GLUCOREN discontinued. Requests a safety follow-up and the case reference number. Also caller asks whether a Spanish-language patient leaflet exists.,ae_report,1.0
+MI00393,2026-02-24,web form,Nurse,HCP asks about co-administration with digoxin and whether levels should be monitored. Mentions the patient has had hives since starting.,,
+MI00394,2026-03-15,phone,Nurse,Caller is the daughter of a patient. Patient says the pharmacy quoted $346 and asks about the savings card. Also hCP asks for data on GLUCOREN in type 1 diabetes.,,
+MI00395,2026-07-08,phone,Patient,Patient reports lost weight in a 46-year-old patient two weeks after starting GLUCOREN. Patient conitnues on therapy. Wants to know if this is known.,ae_report,1.0
+MI00396,2026-02-12,web form,Patient,Transferred from the sales line. Caller asks about using GLUCOREN for prediabetes in a patient who wants to avoid progression.,,
+MI00397,2026-08-14,phone,HCP,Pharmacy received a carton with a torn label and an unreadable expiry date.,product_complaint,0.0
+MI00398,2026-01-03,email,Pharmacist,Caller asks whether the patient assistance program covers Medicare Part D patients.,,
+MI00399,2026-09-07,email,Patient,Pharmacy asks about shelf life after the bottle is opened.,storage,0.0
+MI00400,2026-01-23,phone,HCP,Question on timing — morning or evening — and whether it matters with a shift-work schedule. Also caller asks whether GLUCOREN is used for weight management in patients without diabetes. Mentions the patient has had lightheaded since starting.,dosing,1.0
+MI00401,2026-08-10,phone,Nurse,Follow-up to a previous call. Caller asks whether GLUCOREN is covered on the state Medicaid formulary. Also caller asks for the full prescribing information for GLUCOREN.,,
+MI00402,2026-07-07,phone,Nurse,Follow-up to a previous call. Nurse asks what to do about a missed dose and whether two tablets can be taken the next day. Also patient asks if it is safe to take GLUCOREN with her blood pressure medication and a daily aspirin.,dosing,0.0
+MI00403,2026-04-20,email,Nurse,Second time calling this week. Patient asks how to enroll in the copay savings program for GLUCOREN.,,
+MI00404,2026-09-01,web form,HCP,Follow-up to a previous call. Caller says the bottle contained 28 tablets instead of 30. Also patient asks whether GLUCOREN should be taken with food.,,
+MI00405,2026-08-15,phone,Patient,Pharmacist asks about GLUCOREN dosing in a patient with eGFR of 35. Also patient asks if it is safe to take GLUCOREN with her blood pressure medication and a daily aspirin.,dosing,0.0
+MI00406,2026-02-06,phone,Patient,HCP asks whether GLUCOREN can be combined with a sulfonylurea and what precautions apply.,interaction,0.0
+MI00407,2026-03-02,phone,Pharmacist,Caller prefers a call back. Student asks for the mechanism of action for a presentation.,general,0.0
+MI00408,2026-02-10,phone,HCP,Patient left GLUCOREN in a hot car for a day; asks if the tablets are still good.,,
+MI00409,2026-02-06,phone,HCP,Caller prefers a call back. Pharmacist asks about GLUCOREN dosing in a patient with eGFR of 35.,dosing,0.0
+MI00410,2026-09-28,email,HCP,Caller asks whether GLUCOREN contains lactose or gluten. Also pharmacy received a carton with a torn label and an unreadable expiry date.,,
+MI00411,2025-11-05,web form,Patient,Caller asks whether grapefruit juice or alcohol affects GLUCOREN.,interaction,0.0
+MI00412,2026-08-26,phone,Pharmacist,Caller asks about the maximum daily dose of GLUCOREN and whether it can be split. Also hCP asks when the next label update is expected. Mentions the patient has had hives since starting.,,
+MI00413,2026-04-10,email,HCP,HCP reports diarrhoea in a 70-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,,
+MI00414,2026-09-18,phone,Pharmacist,Caller asks for the full prescribing information for GLUCOREN. Also office asks for help with a prior authorization denial from Aetna.,,
+MI00415,2026-08-14,web form,Pharmacist,Caller asks whether the patient assistance program covers Medicare Part D patients.,,
+MI00416,2026-07-23,phone,Patient,Transferred from the sales line. Patient calling for herself: migraine since starting GLUCOREN a month ago. Asks whether to stop.,ae_report,1.0
+MI00417,2026-02-03,phone,Nurse,Caller asks about using GLUCOREN for prediabetes in a patient who wants to avoid progression.,off_label,0.0
+MI00418,2026-08-07,phone,Patient,Caller asks if the dose needs adjusting for an 82-year-old with mild hepatic impairment.,,
+MI00419,2026-03-31,phone,HCP,Second time calling this week. Patient says the pharmacy quoted $139 and asks about the savings card.,,
+MI00420,2026-02-27,phone,Patient,HCP asks about co-administration with digoxin and whether levels should be monitored.,interaction,0.0
+MI00421,2026-06-26,phone,Nurse,Transferred from the sales line. Pharmacist asks about the excipients and whether the tablet is latex-free in packaging.,storage,0.0
+MI00422,2026-03-27,phone,Nurse,Caller is the daughter of a patient. Caller asks whether grapefruit juice or alcohol affects GLUCOREN.,,
+MI00423,2026-10-11,web form,Patient,Pharmacist checking a possible interaction with rifampin; asks about CYP metabolism.,,
+MI00424,2026-10-06,web form,Patient,Second time calling this week. Caller asks whether grapefruit juice or alcohol affects GLUCOREN.,interaction,0.0
+MI00425,2026-03-07,web form,HCP,Caller asks whether a Spanish-language patient leaflte exists.,,
+MI00426,2026-03-22,email,HCP,HCP reports hives in a 60-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,ae_report,1.0
+MI00427,2026-09-30,phone,Nurse,Patient calling for herself: hives since starting GLUCOREN a month ago. Asks whether to stop.,,
+MI00428,2026-09-16,web form,HCP,Caller asks whether the patient assistance program covers Medicare Part D patients.,reimbursement,0.0
+MI00429,2026-02-16,web form,Patient,"Web form, short message: Patient calling for herself: dizziness since starting GLUCOREN a month ago. Asks whether to stop.",,
+MI00430,2026-04-09,phone,Patient,Pharmacist asks about GLCUOREN dosing in a patient with eGFR of 35.,,
+MI00431,2026-09-25,email,Patient,Caller asks how to restart GLUCOREN after a two-week interruption.,,
+MI00432,2026-06-22,email,Caregiver,Office asks for help with a prior authorization denial from CVS Caremark.,,
+MI00433,2026-02-19,email,Patient,Patient asks what to do abuot a missed dose and whether two tablets can be taken the next day.,,
+MI00434,2026-03-25,phone,HCP,Second time calling this week. HCP asks about co-administration with digoxin and whether levels should be monitored.,interaction,0.0
+MI00435,2026-07-19,phone,HCP,Caller is the daughter of a patient. HCP reports diarrhea in a 42-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,,
+MI00436,2025-11-14,web form,Patient,Pharmacy asks about shelf life after the bottle is opened.,,
+MI00437,2026-04-24,phone,Patient,Caller asks whether the patient assistance program covers Medicare Part D patients.,reimbursement,0.0
+MI00438,2026-06-05,phone,Caregiver,Transferred from the sales line. Caller asks whether GLUCOREN is covered on the state Medicaid formulary. Also caller asks whether GLUCOREN is used for weight management in patients without diabetes.,reimbursement,0.0
+MI00439,2026-05-15,phone,Caregiver,Caregiver reports a patient hospitalized with chest pain; GLUCOREN discontinued. Requests a safety follow-up and the case reference number.,,
+MI00440,2026-07-29,phone,HCP,HCP asks whether GLUCOREN can be combined with a sulfonylurea and what precautions apply.,,
+MI00441,2026-06-03,email,Patient,Caller reports the tablets in the new bottle look different from the previous fill. Also hCP asks about GLUCOREN in gestational diabetes.,product_complaint,0.0
+MI00442,2026-02-21,phone,HCP,"Web form, short message: Caller asks if the dose needs adjusting for an 82-year-old with mild hepatic impairment.",dosing,0.0
+MI00443,2026-03-27,web form,HCP,Caller asks whether GLUCOREN can be stored in a weekly pill organizer. Also hCP asks about use in adolescents; requests any available data.,storage,0.0
+MI00444,2026-01-14,phone,Nurse,HCP asks for the publication list on GLUCOREN cardiovascular data.,,
+MI00445,2026-05-04,web form,Patient,Patient wants to know the titration steps and how long to wait between them. Also pharmacist asks about interaction between GLUCOREN and warfarin.,,
+MI00446,2026-06-17,web form,Caregiver,HCP asks about GLUCOREN in gestational diabetes.,off_label,0.0
+MI00447,2026-01-03,email,HCP,"Web form, short message: Caller travelling abroad asks about carrying GLUCOREN in checked luggage and temperature limits.",storage,0.0
+MI00448,2026-07-17,phone,Patient,Caller asks whether the patient assistacne program covers Medicare Part D patients.,,
+MI00449,2026-03-27,phone,Caregiver,Second time calling this week. Caller asks about the maximum daily dose of GLUCOREN and whether it can be split.,,
+MI00450,2025-12-06,phone,Pharmacist,Pharmacist wants to know the titration steps and how long to wait between them.,,
+MI00451,2025-12-15,phone,Patient,"Web form, short message: Pharmacy received a craton with a torn label and an unreadable expiry date.",product_complaint,0.0
+MI00452,2026-05-04,phone,Patient,Caller sounded frustrated. Question on timing — morning or evening — and whether it matters with a shift-work schedule. Also pharmacist checking a possible interaction with rifampin; asks about CYP metabolism.,,
+MI00453,2026-03-01,phone,HCP,"Web form, short message: Caller asks how to restart GLUCOREN after a two-week interruption. Mentions the patient has had lightheaded since starting.",,
+MI00454,2025-11-16,phone,Nurse,Second time calling this week. Question on timing — morning or evening — and whether it matters with a shift-work schedule. Also caller asks whether GLUCOREN can be stored in a weekly pill organizer.,dosing,0.0
+MI00455,2026-02-11,phone,Caregiver,Pharmacist asks about GLUCOREN dosing in a patient with eGFR of 35.,,
+MI00456,2026-04-25,email,HCP,Second time calling this week. Question on timing — morning or evening — and whether it matters with a shift-work schedule.,dosing,0.0
+MI00457,2026-09-13,web form,Pharmacist,Patient says the pharmacy quoted $115 and asks about the savings card.,,
+MI00458,2026-05-11,web form,Caregiver,Second time calling this week. Caergiver wants to know the titration steps and how long to wait between them. Also caller asks whether the patient assistance program covers Medicare Part D patients.,,
+MI00459,2026-03-18,phone,Patient,Caller asks whether the patient assistance program covers Medicare Part D patients.,reimbursement,0.0
+MI00460,2026-07-03,web form,Patient,Caller prefers a call back. Caller asks whether GLUCOREN can be stored in a weekly pill organizer.,,
+MI00461,2026-07-31,phone,Pharmacist,Patient asks if it is safe to take GLUCOREN with her blood pressure medication and a daily aspirin.,,
+MI00462,2026-05-09,email,Patient,Patient reports not hungry in a 52-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,ae_report,1.0
+MI00463,2025-11-23,phone,HCP,Caller is the daughter of a patient. Patient calling for herself: diarrhoea since starting GLUCOREN a month ago. Asks whether to stop.,ae_report,1.0
+MI00464,2025-11-10,phone,HCP,Second time calling this week. Pharmacist asks about interaction between GLUCOREN and warfarin.,interaction,0.0
+MI00465,2026-04-29,web form,Pharmacist,Pharmacist reports rash in a 62-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,ae_report,1.0
+MI00466,2026-07-06,web form,Patient,Patient asks if it is safe to take GLUCOREN with her blood pressure medication and a daily aspirin. Also caller asks for the full prescribing information for GLUCOREN.,interaction,0.0
+MI00467,2026-09-06,email,Patient,Follow-up to a previous call. HCP asks about co-administration with digoxin and whether levels should be monitored.,,
+MI00468,2026-01-27,email,Patient,Caller prefers a call back. Caller asks about the maximum daily dose of GLUCOREN and whether it can be split.,dosing,0.0
+MI00469,2026-03-12,email,Caregiver,Caller's father was admitted to hospital with throat closing; he had started GLUCOREN three weeks earlier. Caller is upset and wants to report it.,ae_report,1.0
+MI00470,2026-04-16,web form,Nurse,Patient left GLUCOREN in a hot car for a day; asks if the tablets are still good. Also pharmacist checking a possible interaction with rifampin; asks about CYP metabolism.,storage,0.0
+MI00471,2026-04-25,phone,Caregiver,Caller asks whether the patient assistance program covers Medicare Part D patients.,reimbursement,0.0
+MI00472,2025-11-23,email,Patient,Office asks for help with a prior authorization denial from Express Scripts. Also caller asks whether GLUCOREN contains lactose or gluten.,,
+MI00473,2026-06-01,phone,HCP,Transferred from the sales line. Caller says the bottle contained 28 tablets instead of 30. Also caller asks whether GLUCOREN is used for weight management in patients without diabetes.,product_complaint,0.0
+MI00474,2026-04-17,phone,HCP,Transferred from the sales line. HCP reports diarrhoea in a 50-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,,
+MI00475,2026-02-18,phone,Caregiver,Caller prefers a call back. Patient asks whether GLUCOREN should be taken with food. Also hCP asks about use in adolescents; requests any available data.,dosing,0.0
+MI00476,2026-03-03,email,Pharmacist,Caller asks how to restart GLUCOREN after a two-week interruption.,dosing,0.0
+MI00477,2026-06-01,phone,HCP,Caller prefers a call back. Patient asks whether GLUCOREN should be taken with food.,dosing,0.0
+MI00478,2026-03-04,phone,Nurse,Patient asks whether GLUCOREN should be taken with food.,dosing,0.0
+MI00479,2026-06-25,phone,HCP,Caller prefers a call back. Caller says the bottle contained 28 tablets instead of 30.,,
+MI00480,2025-12-12,phone,Pharmacist,HCP asks when the next label update is expected. Also patient says the pharmacy quoted $262 and asks about the savings card.,,
+MI00481,2026-08-01,phone,Pharmacist,HCP asks when the next label update is expected.,general,0.0
+MI00482,2026-09-06,email,HCP,Caller asks how to restart GLUCOREN after a two-week interruption. Also patient says two tablets in the blister were crumbled. No symptoms. Asks for a replacement.,dosing,0.0
+MI00483,2026-07-20,phone,Pharmacist,Second time calling this week. Nursing home asks whether tablets may be crushed for tube feeding.,storage,0.0
+MI00484,2026-04-25,phone,Patient,Student asks for the mechanism of action for a presentation.,,
+MI00485,2025-12-21,web form,Patient,"Web form, short message: Patient reports a patient hospitalized with blacked out; GLUCOREN discontinued. Requests a safety follow-up and the case reference number. Also question on timing — morning or evening — and whether it matters with a shift-work schedule.",,
+MI00486,2026-01-28,web form,HCP,Caller is the daughter of a patient. Caller asks whether grapefruit juice or alcohol affects GLUCOREN. Also pharmacy received a carton with a torn label and an unreadable expiry date.,,
+MI00487,2026-04-28,phone,Patient,HCP asks about GLUCOREN in gestational diabetes.,off_label,0.0
+MI00488,2026-07-02,email,Caregiver,Caller asks whether a Spanish-language patient leaflet exists.,,
+MI00489,2026-06-09,web form,Caregiver,Caller asks about the maximum daily dose of GLUCOREN and whether it can be split. Also patient asks how to enroll in the copay savings program for GLUCOREN.,dosing,0.0
+MI00490,2026-09-05,email,HCP,Pharmacist checking a possible interaction with rifampin; asks about CYP metabolism.,,
+MI00491,2025-11-06,web form,Pharmacist,Second time calling this week. Patient left GLUCOREN in a hot car for a day; asks if the tablets are still good.,,
+MI00492,2026-08-05,email,HCP,Caller is the daughter of a patient. Caller asks whether GLUCOREN contains lactose or gluten.,general,0.0
+MI00493,2026-01-04,web form,Nurse,Caller asks whether GLUCOREN is used for weight management in patients without diabetes.,,
+MI00494,2026-04-12,phone,Nurse,Caller is the daughter of a patient. HCP asks about GLUCOREN in gestational diabetes.,,
+MI00495,2026-04-18,web form,Patient,"Web form, short message: Question on timing — morning or evening — and whether it matters with a shift-work schedule. Also caller asks whether GLUCOREN is used for weight management in patients without diabetes.",,
+MI00496,2026-01-10,web form,Patient,Caller asks whether the patient assistance program covers Medicare Part D patients.,reimbursement,0.0
+MI00497,2026-08-18,email,Pharmacist,Pharmacist asks about GLUCOREN dosing in a patient with eGFR of 35. Also hCP asks about GLUCOREN in gestatoinal diabetes.,dosing,0.0
+MI00498,2026-06-11,web form,Nurse,Transferred from the sales line. HCP asks about GLUCOREN in gestational diabetes.,,
+MI00499,2025-11-10,web form,HCP,HCP asks for the publication list on GLUCOREN cardiovascular data.,general,0.0
+MI00500,2025-12-15,web form,Caregiver,Callre asks if the dose needs adjusting for an 82-year-old with mild hepatic impairment.,dosing,0.0
+MI00501,2026-05-27,web form,Nurse,Patient says two tablets in the blister were crumbled. No symptoms. Asks for a replacement.,product_complaint,0.0
+MI00502,2026-06-05,phone,Patient,Caller asks whether GLUCOREN is covered on the state Medicaid formulary.,reimbursement,0.0
+MI00503,2026-01-15,web form,Caregiver,Patient calling for herself: diarrhea since starting GLUCOREN a month ago. Asks whether to stop.,,
+MI00504,2025-11-16,email,HCP,HCP reports lost weight in a 51-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,,
+MI00505,2026-01-27,phone,Caregiver,Caller asks whether a Spanish-language patient leaflet exists.,,
+MI00506,2025-11-05,phone,Pharmacist,Nursnig home asks whether tablets may be crushed for tube feeding.,storage,0.0
+MI00507,2026-09-16,web form,Patient,Transferred from the sales line. HCP asks for the publication list on GLUCOREN cardiovascular data.,general,0.0
+MI00508,2026-08-07,phone,Nurse,Nures reports tired in a 72-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,ae_report,1.0
+MI00509,2026-06-13,email,Patient,Follow-up to a previous call. Office asks which diagnosis codes the payer expects on the PA form. Also patient asks whether GLUCOREN should be taken with food.,reimbursement,0.0
+MI00510,2026-08-21,web form,Patient,Patient asks about GLUCOREN with a GLP-1 injectable — any additive effects to watch for.,,
+MI00511,2026-05-16,email,Pharmacist,HCP asks for data on GLUCOREN in type 1 diabetes.,off_label,0.0
+MI00512,2026-02-10,phone,Nurse,Office asks which diagnosis codes the payer expects on the PA form.,reimbursement,0.0
+MI00513,2026-05-30,phone,Pharmacist,Caller prefers a call back. Patient asks how to enroll in the copay savings program for GLUCOREN.,reimbursement,0.0
+MI00514,2026-07-16,web form,HCP,Caller asks about using GLUCOREN for prediabetes in a patient who wants to avoid progression.,,
+MI00515,2026-04-22,phone,Nurse,Pharmacist asks about the excipients and whether the tablet is latex-free in packaging.,storage,0.0
+MI00516,2026-08-14,web form,HCP,Caller reports the tablets in the new bottle look different from the previous fill.,,
+MI00517,2025-12-19,phone,Caregiver,Transferred from the sales line. Student asks for the mechanism of action for a presentation. Also patient asks whether GLUCOREN should be taken with food.,,
+MI00518,2026-02-21,phone,Patient,Patient says two tablets in the blister were crumbled. No symptoms. Asks for a replacement.,product_complaint,0.0
+MI00519,2026-09-28,email,Patient,Caller asks whether grapefruit juice or alcohol affects GLUCOREN.,,
+MI00520,2026-08-15,phone,Pharmacist,Caller asks whether GLUCOREN is covered on the state Medicaid formulary.,,
+MI00521,2025-12-28,phone,Caregiver,Pharmacist asks about GLUCOREN dosing in a patient with eGFR of 35.,,
+MI00522,2025-11-22,phone,Nurse,Nurse reports stomach upset in a 48-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,ae_report,1.0
+MI00523,2025-11-14,email,Pharmacist,Caller is the daughter of a patient. Caller asks for the full presrcibing information for GLUCOREN.,,
+MI00524,2026-08-17,phone,Nurse,Caller asks whether grapefruit juice or alcohol affects GLUCOREN.,,
+MI00525,2026-01-22,email,Nurse,Patient calling for herself: heart racing since starting GLUCOREN a month ago. Asks whether to stop.,ae_report,1.0
+MI00526,2026-08-23,email,HCP,HCP reports low blood sugar in a 70-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,ae_report,1.0
+MI00527,2026-06-20,phone,HCP,Caller sounded frustrated. HCP asks for data on GLUCOREN in type 1 diabetes.,,
+MI00528,2026-01-17,email,HCP,Patient says two tablets in the blister were crumbled. No symptoms. Asks for a replacement.,product_complaint,0.0
+MI00529,2026-04-17,email,HCP,HCP asks whether GLUCOREN can be combined with a sulfonylurea and what precautions apply. Also patient asks whether GLUCOREN should be taken with food.,interaction,0.0
+MI00530,2025-11-19,phone,Pharmacist,"Web form, short message: Caller travelling abroad asks about carrying GLUCOREN in checked luggage and temperature limits.",storage,0.0
+MI00531,2026-03-29,phone,Caregiver,Caregiver wants to know the titration steps and how long to wait between them.,,
+MI00532,2026-04-09,web form,Pharmacist,Caller sounded frustrated. Pharmacy asks about shelf life after the bottle is opened.,,
+MI00533,2026-02-05,web form,Pharmacist,Caller travelling abroad asks about carrying GLUCOREN in checked luggage and temperature limits. Also pharmacist asks about interaction between GLUCOREN and warfarin.,,
+MI00534,2026-06-16,phone,Nurse,Second time calling this week. HCP asks about GLUCOREN in gestational diabetes.,off_label,0.0
+MI00535,2026-01-07,phone,Caregiver,Caller sounded frustrated. Patient calling for herself: lost my appetite since starting GLUCOREN a month ago. Asks whether to stop. Also caller asks about using GLUCOREN for prediabetes in a patient who wants to avoid progression.,,
+MI00536,2025-11-09,phone,Patient,Caller asks whether GLUCOREN contains lactose or gluten.,,
+MI00537,2026-04-17,web form,HCP,"Web form, short message: HCP asks what to do about a missed dose and whether two tablets can be taken the next day.",,
+MI00538,2026-03-28,phone,HCP,Patient calling for herself: palpitations since starting GLUCOREN a month ago. Asks whether to stop.,,
+MI00539,2026-08-12,web form,Pharmacist,Caller reports the tablets in the new bottle look different from the previous fill.,product_complaint,0.0
+MI00540,2026-07-03,phone,Nurse,Caller asks whether GLUCOREN contains lactose or gluten.,general,0.0
+MI00541,2026-07-13,web form,HCP,HCP asks for data on GLUCOREN in type 1 diabetes.,,
+MI00542,2025-11-15,phone,HCP,Caller prefers a call back. Caller asks whether GLUCOREN is covered on the state Medicaid formulary.,reimbursement,0.0
+MI00543,2026-08-22,phone,Patient,Caller sounded frustrated. Caller asks whether grapefruit juice or alcohol affects GLUCOREN.,,
+MI00544,2026-07-17,phone,Patient,Caller reports the tablets in the new bottle look different from the previous fill.,product_complaint,0.0
+MI00545,2026-09-05,email,Pharmacist,HCP asks about use in adolescents; requests any available data.,off_label,0.0
+MI00546,2026-04-25,email,HCP,Transferred from the sales line. Caller asks if the dose needs adjusting for an 82-year-old with mild hepatic impairment. Also caller asks whether GLUCOREN is used for weight management in patients without diabetes.,,
+MI00547,2025-12-08,phone,Caregiver,Transferred from the sales line. Pharmacist asks about GLUCOREN dosing in a patient with eGFR of 35. Mentions the patient has had tired since starting.,dosing,1.0
+MI00548,2026-06-13,web form,HCP,Office asks which diagnosis codes the payer expects on the PA form.,reimbursement,0.0
+MI00549,2026-05-12,phone,HCP,HCP reports exhausted in a 65-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,ae_report,1.0
+MI00550,2026-01-12,web form,Patient,"Patient asks about GLUCOREN with a GLP-1 injectable — any additive effects to watch for. Also pharmacist reports a bottle of GLUCOREN with a broken seal and discolored tablets, lot number provided.",interaction,0.0
+MI00551,2026-03-06,phone,HCP,"Web form, short message: Patient callnig for herself: rash since starting GLUCOREN a month ago. Asks whether to stop. Also pharmacy received a carton with a torn label and an unreadable expiry date.",ae_report,1.0
+MI00552,2026-03-30,phone,Pharmacist,Caller prefers a call back. Caller asks if the dose needs adjusting for an 82-year-old with mild hepatic impairment.,dosing,0.0
+MI00553,2025-12-05,phone,Patient,Patient asks about GLUCOREN with a GLP-1 injectable — any additive effects to watch for.,interaction,0.0
+MI00554,2026-01-21,phone,HCP,Pharmacist asks about interaction between GLUCOREN and warfarin. Also hCP asks about use in adolescents; requests any available data.,,
+MI00555,2026-09-13,web form,Patient,HCP asks about use in adolescents; requests any available data.,off_label,0.0
+MI00556,2026-05-28,phone,Pharmacist,"Pharmacist reports a bottle of GLUCOREN with a broken seal and discolored tablets, lot number provided. Also caller asks whether GLUCOREN can be stored in a weekly pill organizer.",,
+MI00557,2026-06-23,phone,Patient,Nursing home asks whether tablets may be crushed for tube feeding.,,
+MI00558,2026-02-14,phone,Patient,Nursing home asks whether tablets may be crushed for tube feeding. Also caller asks for the full prescribing information for GLUCOREN.,storage,0.0
+MI00559,2026-09-20,phone,HCP,Ptaient asks whether GLUCOREN should be taken with food.,dosing,0.0
+MI00560,2026-09-24,web form,HCP,Patient calling for herself: lightheaded since starting GLUCOREN a month ago. Asks whether to stop.,,
+MI00561,2026-04-07,phone,HCP,HCP asks when the next label update is expected.,,
+MI00562,2025-12-20,phone,Patient,"Web form, short message: Patient asks whether GLUCOREN should be taken with food.",,
+MI00563,2026-07-11,phone,Nurse,Question on timing — morning or evening — and whether it matters with a shift-work schedule. Also hCP asks about co-administration with digoxin and whether levels should be monitored.,dosing,0.0
+MI00564,2026-01-19,web form,Patient,Caller asks whether GLUCOREN can be stored in a weekly pill organizer.,,
+MI00565,2026-05-27,web form,Patient,Patient reports hives in a 62-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,ae_report,1.0
+MI00566,2026-02-17,web form,Caregiver,Caller asks if the dose needs adjusting for an 82-year-old with mild hepatic impairment. Also caller says the bottle contained 28 tablets instead of 30.,dosing,0.0
+MI00567,2026-09-20,email,Nurse,Patient says the pharmacy quoted $204 and asks about the savings card.,,
+MI00568,2026-04-06,phone,Patient,Patient asks what to do about a missed dose and whether two tablets can be taken the next day. Also hCP asks whether GLUCOREN can be combined with a sulfonylurea and what precautions apply.,,
+MI00569,2026-05-29,phone,Caregiver,"Web form, short message: Caller asks if the dose needs adjusting for an 82-year-old with mild hepatic impairment. Mentions the patient has had palpitations since starting.",dosing,1.0
+MI00570,2026-09-08,email,Patient,Patient reports rash in a 58-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,,
+MI00571,2026-03-08,phone,HCP,Pharmacy asks about shelf life after the bottle is opened. Also caller asks for the full prescribing information for GLUCOREN.,,
+MI00572,2026-08-30,phone,Pharmacist,Caller's father was admitted to hospital with swelling of the face; he had started GLUCOREN three weeks earlier. Caller is upset and wants to report it.,ae_report,1.0
+MI00573,2025-11-15,phone,Nurse,Transferred from the sales line. Patient calling for herself: heart racing since starting GLUCOREN a month ago. Asks whether to stop.,,
+MI00574,2026-08-08,phone,Patient,Follow-up to a previous call. Patient asks whether GLUCOREN should be taken with food. Also hCP asks for data on GLUCOREN in type 1 diabetes.,dosing,0.0
+MI00575,2026-01-09,phone,Pharmacist,Office asks for help with a prior authorization denial from Medicaid MCO.,,
+MI00576,2026-04-21,phone,Caregiver,Caller prefers a call back. Caregiver reports vomited in a 40-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,ae_report,1.0
+MI00577,2026-04-24,email,HCP,"Web form, short message: HCP asks about GLUCOREN with a GLP-1 injectable — any additive effects to watch for.",,
+MI00578,2026-04-25,email,Caregiver,HCP asks whether GLUCOREN can be combined with a sulfonylurea and what precautions apply. Also caller says the bottle contained 28 tablets instead of 30.,,
+MI00579,2026-01-16,phone,Pharmacist,Caller asks about using GLUOCREN for prediabetes in a patient who wants to avoid progression.,off_label,0.0
+MI00580,2026-05-05,phone,HCP,Caller reports the tablets in the new bottle look different from the previous fill.,,
+MI00581,2026-07-08,phone,Nurse,Pharmacist asks about interactino between GLUCOREN and warfarin.,interaction,0.0
+MI00582,2026-03-17,email,Patient,Caller asks whether GLUCOREN can be stored in a weekly pill organizer.,,
+MI00583,2026-05-30,phone,Nurse,Nurse wants to know the titration steps and how long to wait between them. Also patient says two tabltes in the blister were crumbled. No symptoms. Asks for a replacement.,,
+MI00584,2025-12-19,phone,Patient,Follow-up to a previous call. Patient calling for herself: throwing up since starting GLUCOREN a month ago. Asks whether to stop.,ae_report,1.0
+MI00585,2026-09-16,web form,Caregiver,HCP asks for the publication list on GLUCOREN cardiovascular data. Also hCP asks whether GLUCOREN can be combined with a sulfonylurea and what precautions apply.,general,0.0
+MI00586,2026-09-14,phone,Patient,Caller prefers a call back. Caller asks about the maximum daily dose of GLUCOREN and whether it can be split.,,
+MI00587,2026-01-02,phone,Nurse,Secodn time calling this week. HCP asks about a higher-than-labelled dose in a patient not responding. Also caller asks for the full prescribing information for GLUCOREN.,,
+MI00588,2026-03-30,email,Patient,Follow-up to a previous call. Patient reports a patient hospitalized with kidney injury; GLUCOREN discontinued. Requests a safety follow-up and the case reference number.,ae_report,1.0
+MI00589,2026-05-22,web form,HCP,Caller asks whether GLUCOREN is coverde on the state Medicaid formulary.,,
+MI00590,2026-09-04,phone,Nurse,Nurse asks what to do about a missed dose and whether two tablets can be taken the next day. Also hCP asks about GLUCOREN in gestational diabetes.,,
+MI00591,2026-07-01,web form,Patient,Patient reports dizziness in a 76-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,,
+MI00592,2026-03-29,phone,Nurse,Second time calling this week. Question on timing — morning or evening — and whether it matters with a shift-work schedule.,,
+MI00593,2026-06-18,phone,Patient,Caller asks whether GLUCOREN is covered on the state Medicaid formulary.,,
+MI00594,2026-03-09,phone,HCP,"Web form, short message: HCP reports sugar crashed in a 47-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.",ae_report,1.0
+MI00595,2026-05-12,email,Patient,Caller prefers a call back. Caller asks whether GLUCOREN is covered on the state Medicaid formulary. Also caller reports the tablets in the new bottle look different from the previous fill.,reimbursement,0.0
+MI00596,2026-02-12,phone,HCP,Patient calling for herself: itchy since starting GLUCOREN a month ago. Asks whether to stop.,ae_report,1.0
+MI00597,2026-04-06,phone,Caregiver,Patient calling for herself: constipation since starting GLUCROEN a month ago. Asks whether to stop.,ae_report,1.0
+MI00598,2026-02-04,web form,Nurse,Follow-up to a previous call. Nurse reports dizzy in a 44-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,,
+MI00599,2026-05-12,email,Nurse,Caller asks whether GLUCOREN can be stored in a weekly pill organizer. Also caller says the bottle contained 28 tablets instead of 30.,,
+MI00600,2026-03-29,phone,HCP,HCP asks about GLUCOREN with a GLP-1 injectable — any additive effects to watch for.,,
+MI00601,2026-07-22,phone,Nurse,Patient asks whether GLUCOREN should be taken with food.,,
+MI00602,2026-08-09,phone,Pharmacist,HCP asks for data on GLUCOREN in type 1 diabetes.,off_label,0.0
+MI00603,2026-03-30,phone,HCP,HCP asks what to do about a missed dose and whether two tablets can be taken the next day.,,
+MI00604,2026-09-13,phone,Pharmacist,Pharmacist reports migraine in a 52-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known. Also hCP asks about GLUCOREN in gestational diabetes.,ae_report,1.0
+MI00605,2026-02-16,web form,Patient,Caller travelling abroad asks about carrying GLUCOREN in checked luggage and temperature limits.,storage,0.0
+MI00606,2025-11-24,phone,Patient,Pharmacist asks about GLUCOREN dosing in a patient with eGFR of 35.,,
+MI00607,2026-01-15,phone,HCP,Follow-up to a previous call. Patient says two tablets in the blister were crumbled. No symptoms. Asks for a replacement.,,
+MI00608,2026-05-07,web form,Patient,Caller is the daughter of a patient. Pharmacist asks about GLUCOREN dosing in a patient with eGFR of 35.,dosing,0.0
+MI00609,2026-10-01,phone,HCP,"Pharmacist reports a bottle of GLUCOREN with a broken seal and discolored tablets, lot number provided.",product_complaint,0.0
+MI00610,2026-06-01,web form,Patient,Caller sounded frustrated. Nursing home asks whether tablets may be crushed for tube feeding.,storage,0.0
+MI00611,2026-08-22,web form,Nurse,Nurse asks what to do about a missed dose and whether two tablets can be taken the next day.,,
+MI00612,2026-10-04,email,Nurse,Patient asks whether GLUCOREN should be taken with food.,,
+MI00613,2026-02-09,phone,Patient,HCP asks for data on GLUCOREN in type 1 diabetes. Also calelr says the bottle contained 28 tablets instead of 30.,,
+MI00614,2026-08-22,phone,HCP,HCP reports hypo in a 60-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,ae_report,1.0
+MI00615,2026-07-07,phone,HCP,Caller asks whether a Spanish-language patient leaflet exists. Also hCP asks whether GLUCOREN can be combined with a sulfonylurea and what precautions apply.,general,0.0
+MI00616,2026-02-10,web form,HCP,Caller asks whether GLUCOREN is covered on the state Mediacid formulary. Also hCP asks when the next label update is expected.,reimbursement,0.0
+MI00617,2025-11-29,phone,Patient,Pharmacist checking a possible interaction with rifampin; asks about CYP metabolism.,,
+MI00618,2026-09-10,phone,Pharmacist,Office asks which diagnosis codes the payer expetcs on the PA form.,reimbursement,0.0
+MI00619,2026-04-13,phone,Patient,Caller is the daughter of a patient. Patient left GLUCOREN in a hot car for a day; asks if the tablets are still good.,,
+MI00620,2026-10-05,web form,Nurse,Patient calling for herself: heart racing since starting GLUCOREN a month ago. Asks whether to stop.,,
+MI00621,2026-04-23,web form,Nurse,Patient asks how to enroll in the copay savings program for GLUCOREN.,,
+MI00622,2026-06-15,phone,Patient,Caller's father was admitted to hospital with liver enzymes; he had started GLUCOREN three weeks earlier. Caller is upset and wants to report it.,,
+MI00623,2026-07-23,phone,Pharmacist,Caller sounded frustrated. Caller asks how to restart GLUCOREN after a two-week interruption.,,
+MI00624,2026-03-24,web form,Patient,Caller asks for the full prescribing information for GLUCOREN. Also patient asks about GLUCOREN with a GLP-1 injectable — any additive effects to watch for.,general,0.0
+MI00625,2026-06-21,web form,Patient,Patient wants to know the ttiration steps and how long to wait between them.,dosing,0.0
+MI00626,2026-06-09,phone,Patient,Caller prefers a call back. HCP asks when the next label update is expected.,general,0.0
+MI00627,2025-12-28,phone,Patient,Patient asks if it is safe to take GLUCOREN with her blood pressure medication and a daily aspirin.,,
+MI00628,2026-10-02,email,Pharmacist,Pharmacist asks about GLUCOREN dosing in a patient with eGFR of 35.,,
+MI00629,2026-06-25,email,Caregiver,"Web form, short message: Caregiver wants to know the titration steps and how long to wait between them. Also caller reports the tablets in the new bottle look different from the previous fill.",dosing,0.0
+MI00630,2025-11-16,email,HCP,HCP asks whether GLUCOREN can be combined with a sulfonylurea and what precautions apply.,interaction,0.0
+MI00631,2026-04-02,email,HCP,Patient asks whether GLUCOREN should be taken with food. Mentions the patient has had constipated since starting.,dosing,1.0
+MI00632,2026-02-26,web form,HCP,Second time calling this week. Caller asks how to restart GLUCOREN after a two-week interruption. Mentions the patient has had fatigue since starting.,,
+MI00633,2026-10-03,phone,HCP,Office asks which diagnosis codes the payer expects on the PA form.,reimbursement,0.0
+MI00634,2026-05-07,web form,Pharmacist,Pharmacist reports queasy in a 47-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,ae_report,1.0
+MI00635,2026-09-24,phone,Patient,Patient says two tablets in the blister were crumbled. No symptoms. Asks for a replacement.,product_complaint,0.0
+MI00636,2026-06-02,phone,Nurse,Caller asks whether grapefruit juice or alcohol affects GLUCOREN.,interaction,0.0
+MI00637,2025-12-05,web form,Patient,Patient found a tablet with a chip and an odd smell; has not taken it.,,
+MI00638,2026-01-05,phone,HCP,"Web form, short message: Caller asks whether the patient assistance program covers Medicare Part D patients. Also caller travelling abroad asks about carrying GLUCOREN in checked luggage and temperature limits.",reimbursement,0.0
+MI00639,2026-06-06,email,Patient,Caller says the bottle contained 28 tablets instead of 30.,product_complaint,0.0
+MI00640,2026-08-24,phone,Pharmacist,Patient asks how to enroll in the copay savings program for GLUCOREN. Also caller asks if the dose needs adjusting for an 82-year-old with mild hepatic impairment.,,
+MI00641,2025-11-29,phone,Nurse,"Web form, short message: Nurse reports lightheaded in a 55-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.",ae_report,1.0
+MI00642,2026-03-16,email,Patient,Patient reports a patient hospitalized with chest pain; GLUCOREN discontinued. Requests a safety follow-up and the case reference number.,,
+MI00643,2026-01-18,email,Patient,Caller is the daughter of a patient. Pharmacy received a carton with a torn label and an unreadable expiry date.,,
+MI00644,2026-02-11,phone,Pharmacist,Second time calling this week. Question on timing — morning or evening — and whether it matters with a shift-work schedule.,dosing,0.0
+MI00645,2026-06-04,email,Pharmacist,Second time calling this week. Patient asks how to enroll in the copay savings prgoram for GLUCOREN.,reimbursement,0.0
+MI00646,2026-08-14,phone,Caregiver,Caller prefers a call back. Pharmacy asks about shelf life after the bottle is opened.,storage,0.0
+MI00647,2025-11-23,email,Pharmacist,Office asks for help with a prior authorization denial from CVS Caremark. Also hCP asks whether GLUCOREN can be combined with a sulfonylurea and what precautions apply.,reimbursement,0.0
+MI00648,2026-05-13,phone,Nurse,HCP asks about co-administration with digoxni and whether levels should be monitored.,interaction,0.0
+MI00649,2026-07-28,phone,Caregiver,Second time calling this week. Caller's father was admitted to hospital with blacked out; he had started GLUCOREN three weeks earlier. Caller is upset and wants to report it. Also hCP asks when the next label update is expected.,,
+MI00650,2025-11-28,phone,Pharmacist,Caller asks how to restart GLUCOREN after a two-week interruption.,dosing,0.0
+MI00651,2026-08-14,phone,Patient,Callre prefers a call back. Patient reports a patient hospitalized with passed out; GLUCOREN discontinued. Requests a safety follow-up and the case reference number.,ae_report,1.0
+MI00652,2026-05-03,web form,Patient,Follow-up to a previous call. Patient reports a patient hospitalized with throat closing; GLUCOREN discontinued. Requests a safety follow-up and the case reference number.,,
+MI00653,2026-01-09,phone,Patient,Office asks for help with a prior authorization denial from CVS Caremark.,,
+MI00654,2025-11-21,email,Patient,Transferred from the sales line. HCP asks about co-administration with digoxin and whether levels should be monitored.,,
+MI00655,2026-05-31,web form,Patient,Patient asks if it is safe to take GLUCOREN with her blood pressure medication and a daily aspirin.,interaction,0.0
+MI00656,2025-12-11,phone,Patient,Patient reports weight loss in a 69-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,ae_report,1.0
+MI00657,2025-12-23,phone,HCP,Caller prefers a call back. Patient asks whether GLUCOREN should be taken with food. Also patient says two tablets in the blister were crumbled. No symptoms. Asks for a replacement.,dosing,0.0
+MI00658,2026-03-30,phone,Patient,HCP asks about use in adolescents; requests any available data. Also office asks which diagnosis codes the payer expects on the PA form.,,
+MI00659,2026-03-05,email,Nurse,Caller prefers a call back. HCP asks for data on GLUCOREN in type 1 diabetes. Also nurse asks about GLUCOREN with a GLP-1 injectable — any additive effects to wacth for.,,
+MI00660,2025-12-06,email,Patient,Caller asks wehther the patient assistance program covers Medicare Part D patients.,,
+MI00661,2026-04-29,email,HCP,Transferred from the sales line. Patient asks how to enroll in the copay savings program for GLUCOREN.,,
+MI00662,2026-01-09,phone,HCP,HCP asks what to do about a missed dose and whether two tablets can be taken the next day.,dosing,0.0
+MI00663,2026-07-12,web form,Patient,Patient calling for herself: lost my appetite since starting GLUCOREN a month ago. Asks whether to stop.,,
+MI00664,2026-07-03,phone,HCP,Follow-up to a previous call. Student asks for the mechanism of action for a presentation.,,
+MI00665,2026-04-19,phone,Pharmacist,"Pharmacist asks what to do about a missed dose and whether two tablets can be taken the next day. Also pharmacist reports a bottle of GLUCOREN with a broken seal and discolored tablets, lot number provided.",dosing,0.0
+MI00666,2026-08-01,email,Patient,"Transferred from the sales line. Pharmacist reports a bottle of GLUCOREN with a broken seal and discolored tablets, lot number provided.",product_complaint,0.0
+MI00667,2026-07-02,phone,HCP,Second time calling this week. HCP asks whether GLUCOREN can be combined with a sulfonylurea and what precautions apply.,interaction,0.0
+MI00668,2026-09-25,phone,Nurse,Nurse wants to know the titration setps and how long to wait between them.,,
+MI00669,2026-01-19,phone,HCP,Caller sounded frustrated. Caller asks whether the patient assistance program covers Medicare Part D patients.,reimbursement,0.0
+MI00670,2025-12-07,phone,Patient,Patient calling for herself: hives since starting GLUCOREN a month ago. Asks whether to stop.,ae_report,1.0
+MI00671,2026-01-27,web form,Nurse,HCP asks for the publication list on GLUCOREN cardiovascular data.,,
+MI00672,2026-04-08,web form,Pharmacist,HCP asks when the next label update is expected. Also patient asks how to enroll in the copay savings program for GLUCOREN.,general,0.0
+MI00673,2025-12-12,web form,Patient,Patient calling for herself: yeast infection since starting GLUCOREN a month ago. Asks whether to stop.,ae_report,1.0
+MI00674,2026-06-24,phone,Nurse,Caller asks how to restart GLUCOREN after a two-week interruption.,dosing,0.0
+MI00675,2026-03-24,email,Patient,Pharmacist asks about GLUCOREN dosing in a patient with eGFR of 35.,,
+MI00676,2026-07-31,email,Nurse,Patient calling for herself: bladder infection since starting GLUCOREN a month ago. Asks whether to stop.,,
+MI00677,2026-10-03,phone,HCP,Follow-up to a prveious call. Pharmacy asks about shelf life after the bottle is opened.,,
+MI00678,2025-12-27,email,Caregiver,Caregiver asks about GLUCOREN with a GLP-1 injectable — any additive effects to watch for. Also hCP asks about use in adolescents; requests any available data.,,
+MI00679,2026-06-15,phone,HCP,Caller asks whether grapefruit juice or alcohol affects GLUCOREN. Mentions the patient has had stomach pain since starting.,interaction,1.0
+MI00680,2026-08-24,phone,HCP,HCP reports lost my appetite in a 50-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,ae_report,1.0
+MI00681,2025-12-21,phone,HCP,Caller prefers a call back. Student asks for the mechanism of action for a presentation. Also patient says the pharmacy quoted $375 and asks about the savings card.,,
+MI00682,2025-11-05,web form,HCP,Caller sounded frustrated. Office asks for help with a prior authorization denial from BCBS.,reimbursement,0.0
+MI00683,2025-12-02,email,Pharmacist,Caller asks whether GLUCOREN contains lactose or gluten.,,
+MI00684,2026-05-16,email,Patient,Caller asks how to restart GLUCOREN after a two-week interruption. Also caller asks about using GLUCOREN for prediabetes in a patient who wnats to avoid progression.,dosing,0.0
+MI00685,2026-09-11,email,HCP,Caller asks if the dose needs adjusting for an 82-year-old with mild hepatic impairment. Also student asks for the mechanism of action for a presentation.,,
+MI00686,2026-08-22,web form,HCP,Caller asks how to restart GLUCOREN after a two-week interruption.,,
+MI00687,2026-08-04,phone,HCP,"Web form, short message: Caller asks if the dose needs adjusting for an 82-year-old with mild hepatic impairment.",dosing,0.0
+MI00688,2026-07-01,web form,Pharmacist,Patient calling for herself: loose stools since starting GLUCOREN a month ago. Asks whether to stop.,,
+MI00689,2026-01-13,web form,Patient,Patient reports a patient hospitalized with yellow eyes; GLUCOREN discontinued. Requests a safety follow-up and the case reference number.,,
+MI00690,2026-06-27,phone,HCP,HCP asks about co-administration with digoxin and whether levels should be monitored.,interaction,0.0
+MI00691,2026-10-09,email,Patient,Follow-up to a previous call. Office asks which diagnosis codes the payer expects on the PA form.,reimbursement,0.0
+MI00692,2026-07-31,email,Caregiver,Follow-up to a previous call. Office asks for help with a prior authorization denial from OptumRx.,,
+MI00693,2026-07-27,phone,Patient,Office asks which diagnosis codes the payer expects on the PA form.,,
+MI00694,2026-02-26,web form,HCP,Second time calling this week. Pharmacist asks about GLUCOREN dosing in a patient with eGFR of 35.,,
+MI00695,2026-03-05,email,HCP,Patient says the pharmacy quoted $261 and asks about the savings card.,reimbursement,0.0
+MI00696,2026-02-03,web form,Patient,Caller sounded frustrated. Pharmacist asks about GLUCOREN dosing in a patient with eGFR of 35.,dosing,0.0
+MI00697,2026-08-31,phone,Nurse,"Web form, short message: Caller asks about the maximum daily dose of GLUCOREN and whether it can be split. Also office asks for help with a prior authorization denial from Express Scripts.",,
+MI00698,2026-01-21,email,Patient,HCP asks about use in adolescents; requests any available data. Also patient asks what to do about a missed dose and whether two tablets can be taken the next day.,off_label,0.0
+MI00699,2026-10-08,phone,HCP,Caller says the bottle contained 28 tablets instead of 30.,,
+MI00700,2026-05-15,phone,Patient,Patient asks how to enroll in the copay savings program for GLUCOREN.,reimbursement,0.0
+MI00701,2025-11-11,phone,Patient,Patient calling for herself: loose stools since starting GLUCOREN a month ago. Asks whether to stop.,ae_report,1.0
+MI00702,2026-05-17,web form,HCP,Caller sounded frustrated. Patient says two tablets in the blister were crumbled. No symptoms. Asks for a replacement.,,
+MI00703,2026-06-06,email,Patient,Caller prefers a call back. Office asks for help with a prior authorization denial from Express Scripts.,,
+MI00704,2026-06-25,web form,HCP,Caller is the duaghter of a patient. HCP reports exhausted in a 51-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,,
+MI00705,2026-01-21,web form,Nurse,Caller sounded frustrated. HCP asks about use in adolescents; requests any available data.,,
+MI00706,2026-06-24,phone,HCP,Quesiton on timing — morning or evening — and whether it matters with a shift-work schedule. Also caller says the bottle contained 28 tablets instead of 30.,,
+MI00707,2025-11-08,email,Caregiver,Office asks which diagnosis codes the payer expects on the PA form.,,
+MI00708,2026-06-01,email,HCP,Caller asks whether a Spanish-language patient leaflet exists.,,
+MI00709,2026-03-07,phone,Patient,Transferred from the sales line. Patient asks what to do about a missed dose and whether two tablets can be taken the next day.,dosing,0.0
+MI00710,2026-09-20,web form,Patient,HCP asks whether GLUCOREN can be combined with a sulfonylurea and what precautions apply. Also caller asks whether a Spanish-language patient leaflet exists.,interaction,0.0
+MI00711,2026-03-18,web form,HCP,Caller prefers a call back. Patient says the pharmacy quoted $287 and asks about the savings card. Also hCP asks about GLUCOREN with a GLP-1 injectable — any additive effecst to watch for.,,
+MI00712,2025-12-12,email,Patient,HCP asks for the publication list on GLUCOREN cardiovascular data.,,
+MI00713,2026-01-28,phone,Pharmacist,HCP asks about co-administration with digoxin and whether levels should be monitored.,interaction,0.0
+MI00714,2026-02-21,web form,Patient,Pharmacist asks about interaction between GLUCOREN and warfarin.,interaction,0.0
+MI00715,2026-02-12,web form,Pharmacist,Caller asks for the full prescribing inforamtion for GLUCOREN.,general,0.0
+MI00716,2026-06-05,web form,Pharmacist,"Web form, short message: Caller asks whether GLUCOREN is used for weight management in patients without diabetes.",,
+MI00717,2026-01-27,phone,HCP,HCP reports a patient hospitalized with liver enzymes; GLUCOREN discontinued. Requsets a safety follow-up and the case reference number.,,
+MI00718,2026-06-19,phone,HCP,Caller asks whether a Spanish-language patient leaflet exists.,,
+MI00719,2026-08-02,web form,Caregiver,Caller prefers a call back. Patient asks whether GLUCOREN should be taken with food.,dosing,0.0
+MI00720,2026-03-06,email,Nurse,Nurse reports urinary tract infection in a 52-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,ae_report,1.0
+MI00721,2026-09-02,email,Caregiver,Follow-up to a previous call. Caller asks whether GLUCOREN contains lactose or gluten.,,
+MI00722,2026-01-24,web form,Patient,Follow-up to a previous call. Caller asks for the full prescribing information for GLUCOREN. Also patient asks about GLUCOREN with a GLP-1 injectable — any additive effects to watch for.,,
+MI00723,2026-07-08,phone,Patient,Patient asks if it is safe to take GLUCOREN with her bolod pressure medication and a daily aspirin. Also pharmacist asks about GLUCOREN dosing in a patient with eGFR of 35.,interaction,0.0
+MI00724,2026-04-20,phone,Patient,Pharmacy received a carton with a torn label and an unreadable expiry date.,product_complaint,0.0
+MI00725,2026-03-19,web form,Nurse,Student asks for the mechanism of action for a presentation.,,
+MI00726,2026-03-31,phone,Pharmacist,Patient says the pharmacy quoted $356 and asks about the savings card. Also caller reports the tablets in the new bottle look different from the previous fill.,,
+MI00727,2025-12-21,web form,Caregiver,Student asks for the mechanism of action for a presentation.,,
+MI00728,2026-05-05,phone,HCP,Patient says the pharmacy quoted $375 and asks about the savings card.,,
+MI00729,2026-08-21,phone,HCP,HCP reports hypoglycemia in a 52-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,ae_report,1.0
+MI00730,2026-08-20,web form,Pharmacist,Office asks for help with a prior authorization denial from CVS Caremark. Also caller asks whether GLUCOREN can be stoerd in a weekly pill organizer.,reimbursement,0.0
+MI00731,2026-02-25,phone,Caregiver,Caller asks whether GLUCOREN is covered on the state Medciaid formulary.,reimbursement,0.0
+MI00732,2026-03-14,phone,HCP,"HCP asks about GLUCOREN with a GLP-1 injectable — any additive effects to watch for. Also pharmacist reports a bottle of GLUCOREN with a broken seal and discolored tablets, lot number provided.",,
+MI00733,2025-11-24,email,HCP,Caller asks whether the patient assistance program covers Medicare Part D patients.,reimbursement,0.0
+MI00734,2026-05-10,phone,Nurse,Second time calling this week. Nurse asks about GLUCOREN with a GLP-1 injectable — any additive effects to watch for.,,
+MI00735,2026-03-02,web form,Pharmacist,Caller asks how to restart GLUCOREN after a two-week interruption. Also caller asks whether GLUCOREN contains lactose or gluten.,,
+MI00736,2026-08-08,phone,Nurse,Transferred from the sales line. Patient found a tablet with a chip and an odd smell; has not taken it.,,
+MI00737,2025-11-20,phone,Nurse,Caller asks whether grapefruit juice or alcohol affects GLUCOREN.,interaction,0.0
+MI00738,2026-07-30,phone,Caregiver,Caregiver wants to know the titration steps and how long to wait between them. Also pharmacist asks about the excipients and whether the tablet is latex-free in packaging.,,
+MI00739,2025-12-29,phone,Caregiver,Patient asks whether GLUCOREN should be taken with food. Also caller travelling abroad asks about carrying GLUCOREN in checked luggage and temperature limits.,,
+MI00740,2026-09-30,web form,Pharmacist,Question on timing — morning or evening — and whether it matters with a shift-work schedule.,,
+MI00741,2026-08-19,phone,Nurse,Second time calling this week. Caller asks whether GLUCOREN contains lactose or gluten.,,
+MI00742,2026-06-08,phone,Patient,Caller sounded frustrated. Patient calling for herself: diarrhea since starting GLUCOREN a month ago. Asks whether to stop.,ae_report,1.0
+MI00743,2026-02-17,web form,Patient,Pharmacist asks about the excipients and whether the tablet is latex-free in packaging.,,
+MI00744,2026-10-08,email,Patient,Follow-up to a previous call. HCP asks about a higher-than-labelled dose in a patient not responding.,off_label,0.0
+MI00745,2025-12-31,phone,Patient,Pharmacy asks about shelf life after the bottle is opened.,storage,0.0
+MI00746,2026-10-05,phone,HCP,Caller is the daughter of a patient. Caller asks about using GLUCOREN for prediabetes in a patient who wants to avoid progression.,,
+MI00747,2026-07-01,phone,Nurse,Caller asks about the maximum daily dose of GLUCOREN and whether it can be split.,,
+MI00748,2026-10-05,phone,Nurse,Transferred from the sales line. Patient calling for herself: headache since starting GLUCOREN a month ago. Asks whether to stop.,,
+MI00749,2026-09-21,email,Patient,HCP asks about co-administration with digoxin and whether levels should be monitored. Also caller asks about the maximum daily dose of GLUCOREN and whether it can be split.,interaction,0.0
+MI00750,2026-10-09,email,Pharmacist,Follow-up to a previous call. Pharmacist reports itchy in a 46-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,ae_report,1.0
+MI00751,2026-06-24,email,Caregiver,Office asks which diagnosis codes the payer expects on the PA form. Also pharmacist checking a possible interaction with rifampin; asks about CYP metabolism.,,
+MI00752,2026-06-19,phone,HCP,HCP wants to know the titration steps and how long to wait between them.,,
+MI00753,2026-02-18,phone,HCP,Caller is the daughter of a patient. HCP wants to know the titration steps and how long to wait between them. Also patient left GLUCOREN in a hot car for a day; asks if the tablets are still good. Mentions the patient has had weight loss since starting.,dosing,1.0
+MI00754,2026-04-05,email,Caregiver,Student asks for the mechanism of action for a presentation.,,
+MI00755,2026-01-30,web form,Nurse,Caller asks how to restart GLUCOREN after a two-week interruption.,,
+MI00756,2026-10-17,email,Patient,Office asks which diagnosis codes the payer expects on the PA form.,,
+MI00757,2026-08-31,phone,Patient,Caller asks whether a Spanish-language patient leaflet exists. Also caller asks about using GLUCOREN for prediabetes in a patient who wants to avoid progression.,,
+MI00758,2026-06-03,email,HCP,Second time calling this week. Patient asks whether GLUCOREN should be taken with food.,,
+MI00759,2026-07-24,email,Pharmacist,Caller asks whether a Spanish-language patient leaflet exists. Also office asks which diagnosis codes the payer expects on the PA form.,,
+MI00760,2026-04-23,web form,Patient,Patient reports lost weihgt in a 51-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,,
+MI00761,2025-12-14,web form,Pharmacist,Transferred from the sales line. Pharmacist reports stomach pain in a 63-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,,
+MI00762,2025-11-07,web form,Pharmacist,"Pharmacist reports a bottle of GLUCOREN with a broken seal and discolored tablets, lot number provided. Also office asks which diagnosis codes the payer expects on the PA form.",product_complaint,0.0
+MI00763,2026-09-12,phone,Pharmacist,Caller asks whether a Spanish-language patient leaflet exists.,general,0.0
+MI00764,2026-09-19,email,Patient,Office asks for help with a prior authorization denial from Medicaid MCO.,,
+MI00765,2026-01-21,web form,HCP,Second time calling this week. Caller asks how to restart GLUCOREN after a two-week interruption.,,
+MI00766,2025-12-11,email,HCP,HCP asks what to do about a missed dose and whether two tablets can be taken the next day.,,
+MI00767,2026-03-24,email,HCP,Patient found a tablet with a chip and an odd smell; has not taken it.,,
+MI00768,2025-11-22,web form,Patient,Transferred from the sales line. Patient calling for herself: vomiting since starting GLUCOREN a month ago. Asks whether to stop. Also office asks which diagnosis codes the payer expects on the PA form.,,
+MI00769,2026-01-20,web form,HCP,"Web form, short message: HCP reports yeast infection in a 59-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known. Also hCP asks about GLUCOREN in gestational diabetes.",,
+MI00770,2026-03-01,email,HCP,"Web form, short message: Patient asks if it is safe to take GLUCOREN with her blood pressure medication and a daily aspirin. Also question on timing — morning or evening — and whether it matters with a shift-work schedule.",interaction,0.0
+MI00771,2026-09-04,phone,HCP,Pharmacy asks about shelf life after the bottle is opened. Also pharmacist asks about interaction between GLUCOREN and warfarin.,,
+MI00772,2025-11-15,phone,Patient,Transferred from the sales line. Pharmacist asks about interaction between GLUCOREN and warfarin.,,
+MI00773,2026-09-09,phone,Nurse,Nurse asks about GLUCOREN with a GLP-1 injectable — any additive effects to watch for. Also hCP asks about a higher-than-labelled dose in a patient not responding.,,
+MI00774,2026-05-11,web form,HCP,Patient calling for herself: lost weight since starting GLUCOREN a month ago. Asks whether to stop.,ae_report,1.0
+MI00775,2025-11-13,email,HCP,HCP asks whether GLUCOREN can be combined with a sulfonylurea and what precautions apply.,interaction,0.0
+MI00776,2026-01-30,web form,Patient,Follow-up to a previous call. Caller's father was admitted to hospital with fainted; he had started GLUCOREN three weeks earlier. Caller is upset and wants to report it.,,
+MI00777,2026-05-28,email,Patient,"Pharmacist reports a bottle of GLUCOREN with a broken seal and discolored tablets, lot number provided.",product_complaint,0.0
+MI00778,2026-10-13,phone,Caregiver,Second time calling this week. Caregiver reports dizzy in a 78-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,ae_report,1.0
+MI00779,2025-12-13,phone,Patient,HCP asks when the next label update is expected.,general,0.0
+MI00780,2026-03-05,phone,Pharmacist,"Web form, short message: Pharmacist reports heart racing in a 68-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known. Also caller reports the tablets in the new bottle look different from the previous fill.",ae_report,1.0
+MI00781,2025-11-21,web form,Nurse,Patient asks how to enroll in the copay savings program for GLUCOREN.,reimbursement,0.0
+MI00782,2025-12-13,phone,Caregiver,Second time calling this week. Office asks which diagnosis codes the payer expects on the PA form.,reimbursement,0.0
+MI00783,2026-01-16,web form,Pharmacist,Office asks for help with a prior authorization denial from CVS Caremark. Also caller asks whether GLUCOREN can be stored in a weekly pill organizer.,,
+MI00784,2025-11-04,email,HCP,Caller sounded frustrated. Caller asks for the full prescribing information for GLUCOREN.,general,0.0
+MI00785,2025-12-24,phone,Patient,Caller asks whether GLUCOREN is covered on the state Medicaid formulary.,reimbursement,0.0
+MI00786,2026-04-14,email,HCP,Patient calling for herself: diarrhea since starting GLUCOREN a month ago. Asks whether to stop.,,
+MI00787,2026-03-16,email,HCP,HCP asks whether GLUCOREN can be combined with a sulfonylurea and what precautions apply.,interaction,0.0
+MI00788,2026-05-15,phone,Patient,Caller prefers a call back. Caller asks about the maximum daily dose of GLUCOREN and whether it can be split.,dosing,0.0
+MI00789,2025-11-27,email,Patient,Pharmacist asks about GLUCOREN dosing in a patient with eGFR of 35. Also hCP asks about co-administration with digoxin and whether levels should be monitored.,dosing,0.0
+MI00790,2026-03-09,email,Pharmacist,Caller sounded frustrated. Caller asks about the maximum daily dose of GLUCOREN and whether it can be split. Mentions the patient has had glucose dropped since starting.,,
+MI00791,2026-10-14,phone,Patient,Patient reports a patient hospitalized with anaphylaxis; GLUCOREN discontinued. Requests a safety follow-up and the case reference number.,ae_report,1.0
+MI00792,2026-06-06,web form,HCP,HCP reports a patient hospitalized with jaundice; GLUCOREN discontinued. Requests a safety follow-up and the case reference number. Also patient says two tablets in the blister were crumbled. No symptoms. Asks for a replacement.,ae_report,1.0
+MI00793,2026-08-30,phone,Pharmacist,Patient says the pharmacy quoted $243 and asks about the savings card.,reimbursement,0.0
+MI00794,2026-10-08,phone,HCP,Patient left GLUCOREN in a hot car for a day; asks if the tablets are still good.,,
+MI00795,2026-10-03,phone,HCP,Caller prefers a call back. Question on timing — morning or evening — and whether it matters with a shift-work schedule.,,
+MI00796,2025-11-09,email,Patient,Pharmacist asks abuot GLUCOREN dosing in a patient with eGFR of 35.,,
+MI00797,2026-01-21,phone,Patient,Caller asks how to restart GLUCOREN after a two-week interruption.,,
+MI00798,2026-04-15,phone,HCP,Patient calling for herself: no appetite since starting GLUCOREN a month ago. Asks whether to stop. Also nursing home asks whether tablets may be crushed for tube feeding.,,
+MI00799,2026-06-11,email,Caregiver,HCP asks whether GLUCOREN can be combiend with a sulfonylurea and what precautions apply.,interaction,0.0
+MI00800,2026-09-27,email,Caregiver,Student asks for the mechanism of action for a presentation.,general,0.0
+MI00801,2026-04-26,web form,HCP,Nursing home asks whether tablets may be crushed for tube feeding.,storage,0.0
+MI00802,2026-05-20,phone,HCP,Caller sounded frustrated. Patient calling for herself: rash since starting GLUCOREN a month ago. Asks whether to stop.,,
+MI00803,2025-11-05,email,HCP,HCP asks about GLUCOREN with a GLP-1 injectable — any additive effects to watch for. Mentions the patient has had palpitations since starting.,,
+MI00804,2026-02-27,web form,HCP,Patient found a tablet with a chip and an odd smell; has not taken it.,product_complaint,0.0
+MI00805,2026-05-08,phone,Nurse,Caller reports the tablets in the new bottle look different from the previous fill.,product_complaint,0.0
+MI00806,2025-12-10,phone,Patient,Caller is the daughter of a patient. Patient says the pharmacy quoted $163 and asks about the savings card.,reimbursement,0.0
+MI00807,2026-08-21,email,HCP,"Web form, short message: HCP asks what to do about a missed dose and whether two tablets can be taken the next day.",,
+MI00808,2026-07-26,phone,Caregiver,Transferred from the sales line. Caller travelling abroad asks about carrying GLUCOREN in checked luggage and temperature limits.,,
+MI00809,2025-11-17,web form,Patient,HCP asks for data on GLUCOREN in type 1 diabetes.,off_label,0.0
+MI00810,2025-11-09,phone,Caregiver,Second time calling this week. Patient calling for herself: constipation since starting GLUCOREN a month ago. Asks whether to stop. Also nursing home asks whether tablets may be crushed for tube feeding.,ae_report,1.0
+MI00811,2026-08-08,email,HCP,HCP asks what to do about a missed dose and whether two tablets can be taken the next day.,,
+MI00812,2026-05-30,web form,Pharmacist,Office asks which diagnosis codes the payer expects on the PA form. Also caller asks for the full prescribing information for GLUCOREN.,,
+MI00813,2026-01-19,web form,Patient,Pharmacy asks about shlef life after the bottle is opened.,storage,0.0
+MI00814,2026-04-29,phone,Nurse,Nurse reports cramps in a 53-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,ae_report,1.0
+MI00815,2025-11-14,phone,HCP,Caller sounded frustrated. HCP asks what to do about a missed dose and whether two tablets can be taken the next day. Also hCP asks for the publication list on GLUCOREN cardiovascular data. Mentions the patient has had itchy since starting.,dosing,1.0
+MI00816,2026-08-26,email,Patient,Caller asks for the full prescribing information for GLUCOREN.,,
+MI00817,2026-02-02,web form,Patient,Caller asks about using GLUCOREN for prediabetes in a patient who wants to avoid progression.,,
+MI00818,2026-10-01,phone,Nurse,Follow-up to a pervious call. HCP asks for the publication list on GLUCOREN cardiovascular data.,,
+MI00819,2026-03-30,phone,Patient,"Web form, short message: HCP asks about GLUCOREN in gestational diabetes. Also student asks for the mechanism of action for a presentation.",,
+MI00820,2025-12-15,phone,Nurse,Nurse reports dizziness in a 38-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,,
+MI00821,2025-11-26,email,Patient,Pharmacist asks about GLUCOREN dosing in a patient with eGFR of 35. Also patient left GLUCOREN in a hot car for a day; asks if the tablets are still good.,,
+MI00822,2026-08-16,email,Pharmacist,Patient says two tablets in the blister were crumbled. No symptoms. Asks for a replacement.,product_complaint,0.0
+MI00823,2026-07-27,phone,Caregiver,Caller sounded frustrated. Patient calling for herself: cramps since starting GLUCOREN a month ago. Asks whether to stop.,,
+MI00824,2026-07-18,phone,Caregiver,Transferred from the sales line. Caller asks about the maximum daily dose of GLUCOREN and whether it can be split.,dosing,0.0
+MI00825,2026-07-03,phone,Caregiver,Caller asks whether a Spanish-language patient leaflet exists.,general,0.0
+MI00826,2026-03-27,phone,HCP,Caller is the daughter of a patient. Patient left GLUCOREN in a hot car for a day; asks if the tablets are still good. Also hCP asks about a higher-than-labelled dose in a patient not responding.,storage,0.0
+MI00827,2025-11-20,email,Nurse,Pharmacist asks about interaction between GLUCOREN and warfarin. Also hCP asks about use in adolescents; requests any available data.,,
+MI00828,2025-12-11,web form,Nurse,HCP asks about co-administration with digoxin and whether levels should be monitored. Also caller asks whether the patient assistance program covers Medicare Part D patients.,,
+MI00829,2026-09-09,web form,HCP,Patient calling for herself: stomach pain since starting GLUCOREN a month ago. Asks whether to stop.,,
+MI00830,2026-04-23,phone,Nurse,Office asks for help with a prior authorization denial from Express Scripts.,reimbursement,0.0
+MI00831,2026-07-19,web form,HCP,Office asks which diagnosis codes the payer expects on the PA form.,,
+MI00832,2026-02-12,web form,Patient,Office asks for help with a prior authorization denial from Medicare Part D plan.,reimbursement,0.0
+MI00833,2026-03-14,phone,Caregiver,Caller asks about the maximum daily dose of GLUCOREN and whether it can be split. Also hCP asks about GLUCOREN in gestational diabetes. Mentions the patient has had itching since starting.,dosing,1.0
+MI00834,2026-06-08,web form,HCP,Caller is the daughter of a patient. Question on timing — morning or evening — and whether it matters with a shift-work schedule.,dosing,0.0
+MI00835,2026-03-29,email,Pharmacist,HCP asks about co-administration with digoxin and whether levels should be monitored.,,
+MI00836,2026-10-08,phone,Caregiver,Caller asks whether the patient assistance program covers Medicare Part D patients.,,
+MI00837,2026-07-26,phone,Caregiver,Pharmacy asks about shelf life after the bottle is opened. Also patient asks if it is safe to take GLUCOREN with her blood pressure medication and a daily aspirin.,storage,0.0
+MI00838,2026-03-18,phone,Caregiver,Caller asks about using GLUCOREN for prediabetes in a patient who wants to avoid progression. Also patient says two tablets in the blister were crumbled. No symptoms. Asks for a replacement.,,
+MI00839,2026-05-07,phone,Nurse,HCP asks about co-administration with digoxin and whether levels should be monitored. Mentions the patient has had fatigue since starting.,,
+MI00840,2026-09-14,phone,HCP,Patient calling for herself: no appetite since starting GLUCOREN a month ago. Asks whether to stop.,ae_report,1.0
+MI00841,2026-02-14,phone,Nurse,Patient asks whether GLUCOREN should be taken with food. Also hCP asks for data on GLUCOREN in type 1 diabetes.,dosing,0.0
+MI00842,2026-05-29,email,Patient,Patient reports threw up in a 55-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known. Also caller travelling abroad asks about carrying GLUCOREN in checked luggage and temperature limits.,,
+MI00843,2026-04-02,web form,Patient,Patient says two tablets in the blister were crumbled. No symptoms. Asks for a replacement.,product_complaint,0.0
+MI00844,2026-06-13,phone,Patient,"HCP asks whether GLUCOREN can be combined with a sulfonylurea and what precautions apply. Also pharmacist reports a bottle of GLUCOREN with a broken seal and discolored tablets, lot number provided.",,
+MI00845,2026-07-12,email,Patient,Transferred from the sales line. Caller asks whether GLUCOREN is covered on the state Medicaid formulary.,reimbursement,0.0
+MI00846,2026-06-06,web form,HCP,"Web form, short message: Caller asks about using GLUCOREN for prediabetes in a patient who wants to avoid progression.",,
+MI00847,2025-11-21,web form,Patient,Caller asks whether the patient assistance program covers Medicare Part D patients.,,
+MI00848,2026-07-14,phone,HCP,Pharmacist asks about interaction between GLUCOREN and warfarin.,,
+MI00849,2025-11-21,phone,Pharmacist,Transferred from the sales line. Caller says the bottle contained 28 tablets instead of 30. Also pharmacist asks about GLUCOREN dosing in a patient with eGFR of 35.,,
+MI00850,2025-11-03,web form,Patient,Caller's father was admitted to hospital with kidney failure; he had started GLUCOREN three weeks earlier. Caller is upset and wants to report it. Also patient asks about GLUCOREN with a GLP-1 injectable — any additive effects to watch for.,ae_report,1.0
+MI00851,2026-05-04,web form,Nurse,Nurse reports constipation in a 63-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,,
+MI00852,2026-08-06,phone,Patient,Patient asks how to enroll in the copay savings program for GLUCOREN.,,
+MI00853,2026-03-30,email,Nurse,Caller asks whether GLUCOREN can be stored in a weekly pill organizer.,,
+MI00854,2026-01-21,web form,Nurse,Pharmacist asks about interaction between GLUOCREN and warfarin.,,
+MI00855,2026-09-20,web form,Patient,"Pharmacist reports a bottle of GLUCOREN with a broken seal and discolored tablets, lot number provided. Also caller asks about the maximum daily dose of GLUCOREN and whether it can be split.",product_complaint,0.0
+MI00856,2026-05-09,phone,HCP,HCP asks what to do about a missed dose and whether two tablets can be taken the next day.,,
+MI00857,2026-08-05,phone,Patient,Caller sounded frustrated. Patient wants to know the titration steps and how long to wait between them.,,
+MI00858,2026-08-05,phone,Nurse,Nurse reports a patient hospitalized with liver enzymes; GLUCOREN discontinued. Requests a safety follow-up and the case reference number.,ae_report,1.0
+MI00859,2026-04-16,email,HCP,Transferred from the sales line. Office asks for help with a prior authorization denial from Medicare Part D plan.,reimbursement,0.0
+MI00860,2026-05-14,web form,HCP,Patient asks if it is safe to take GLUCOREN with her blood pressure medication and a daily aspirin. Also hCP asks when the next label update is expected.,,
+MI00861,2026-08-10,email,Nurse,Second time calling this week. Caller asks whether GLUCOREN is used for weight management in patients without diabetes.,,
+MI00862,2026-10-09,phone,Pharmacist,Pharmacist reports uti in a 53-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known. Also question on timing — morning or evening — and whether it matters with a shift-work schedule.,,
+MI00863,2026-08-16,email,HCP,Second time calling this week. HCP reports itchy in a 77-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,ae_report,1.0
+MI00864,2026-04-08,phone,HCP,Caller asks whether the patient assistance program covers Medicare Part D patients.,reimbursement,0.0
+MI00865,2026-08-04,phone,HCP,Caller asks how to retsart GLUCOREN after a two-week interruption.,,
+MI00866,2026-08-12,phone,HCP,Follow-up to a previous call. HCP wants to know the titration steps and how long to wait between them. Also hCP asks when the next label update is expected.,,
+MI00867,2026-09-14,web form,Patient,Office asks for help with a prior authorization denial from Aetna. Also caller asks whether grapefruit juice or alochol affects GLUCOREN.,reimbursement,0.0
+MI00868,2025-11-03,phone,HCP,Office asks which diagnosis codes the payer expects on the PA form.,reimbursement,0.0
+MI00869,2026-01-12,email,Patient,Caller prefers a call back. Patient calling for herself: stomach pain since starting GLUCOREN a month ago. Asks whether to stop. Also question on timing — morning or evening — and whether it matters with a shift-work schedule.,,
+MI00870,2026-04-04,email,Nurse,HCP asks for the publication list on GLUCOREN cardiovascular data.,general,0.0
+MI00871,2026-08-10,phone,Caregiver,Caller is the daughter of a patient. Question on timing — morning or evening — and whether it matters with a shift-work schedule.,,
+MI00872,2026-07-25,web form,HCP,Caller's father was admitted to hospital with liver enzymes; he had started GULCOREN three weeks earlier. Caller is upset and wants to report it.,ae_report,1.0
+MI00873,2026-04-16,phone,Caregiver,Caller asks whether GLUCOREN can be stored in a weekly pill organizer.,storage,0.0
+MI00874,2026-04-08,phone,HCP,Caller asks about the maximum daily dose of GLUCOREN and whether it can be split.,dosing,0.0
+MI00875,2026-07-06,phone,Pharmacist,Follow-up to a previous call. Pharmacist reports a patient hospitalized with passed out; GLUCOREN discontinued. Requests a safety follow-up and the case reference number. Also caller asks whether GLUCOREN contains lactose or gluten.,,
+MI00876,2026-07-24,phone,HCP,Caller asks for the full prescribing information for GLUCOREN.,general,0.0
+MI00877,2026-02-26,web form,HCP,HCP asks when the next label update is expected. Also hCP asks about co-administration with digoxin and whether levels should be monitored.,general,0.0
+MI00878,2026-03-02,phone,Pharmacist,Pharmacist asks abuot interaction between GLUCOREN and warfarin.,,
+MI00879,2026-04-21,email,HCP,Second time calling this week. Caller asks how to restart GLUCOREN after a two-week interruption.,,
+MI00880,2026-02-16,phone,Nurse,Caller asks whether grapefruit juice or alcohol affects GLUCOREN.,interaction,0.0
+MI00881,2026-07-02,phone,Caregiver,Caller asks for the full prescribing information for GLUCOREN.,,
+MI00882,2026-04-24,phone,Patient,Follow-up to a previous call. Patient reports hives in a 61-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,ae_report,1.0
+MI00883,2025-11-12,phone,HCP,Caller is the daughter of a patient. Pharmacy received a carton with a torn label and an unreadable expiry date.,,
+MI00884,2026-01-11,web form,HCP,Office asks wihch diagnosis codes the payer expects on the PA form.,,
+MI00885,2026-07-31,email,Patient,Caller is the daughter of a patient. Caller asks whether the patient assistance program covers Medicare Part D patients.,,
+MI00886,2026-09-24,phone,Pharmacist,Caller asks about using GLUCOREN for prediabetes in a patient who wants to avoid progression.,,
+MI00887,2026-04-19,email,HCP,Caller asks about using GLUCOREN for prediabetes in a patient who wants to avodi progression.,,
+MI00888,2026-08-25,phone,Patient,Follow-up to a previous call. Nursing home asks whether tablets may be crushed for tube feeding.,,
+MI00889,2026-02-17,email,HCP,Follow-up to a previous call. Caller asks if the dose needs adjusting for an 82-year-old with mild hepatic impairment. Also caller asks whether GLUCOREN can be stored in a weekly pill organizer.,,
+MI00890,2026-01-12,email,Pharmacist,Caller asks whether a Spanish-language patient leaflet exists.,general,0.0
+MI00891,2026-03-16,web form,HCP,Caller says the bottle contained 28 tablets instead of 30. Also caller asks about the maximum daily dose of GLUCOREN and whether it can be split.,,
+MI00892,2026-04-30,phone,HCP,Patient asks whether GLUCOREN should be taken with food.,dosing,0.0
+MI00893,2025-11-19,phone,Caregiver,Caregiver wants to know the titration steps and how long to wait between them.,,
+MI00894,2026-09-30,web form,HCP,Pharmacist asks about GLUCOREN dosing in a patient with eGFR of 35.,dosing,0.0
+MI00895,2025-12-30,phone,Patient,Caller's father was admitted to hospital with chest pain; he had started GLUCOREN three weeks earlier. Caller is upset and wants to report it. Also hCP asks about GLUCOREN in gestational diabetes.,,
+MI00896,2026-03-03,web form,Nurse,"Web form, short message: Nurse reports hives in a 74-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.",ae_report,1.0
+MI00897,2026-07-15,phone,Patient,Patient found a tablet with a chip and an odd smell; has not taken it. Also pharmacist asks about GLUCOREN dosing in a patient with eGFR of 35.,,
+MI00898,2026-01-27,phone,Nurse,HCP asks when the next label update is expected.,,
+MI00899,2026-09-11,phone,Nurse,Nurse reports a patient hospitalized with yellow eyes; GLUCOREN discontinued. Requests a safety follow-up and the case reference number.,,
+MI00900,2026-09-08,phone,HCP,Second time calling this week. HCP asks about co-administration with digoxin and whether levels should be monitored.,,
+MI00901,2025-11-16,phone,Caregiver,Caregiver reports palpitations in a 78-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,ae_report,1.0
+MI00902,2026-10-03,email,Patient,Caller prefers a call back. HCP asks for data on GLUCOREN in type 1 diabetes.,off_label,0.0
+MI00903,2026-02-25,web form,Patient,Pharmacy asks about shelf life after the bottle is opened.,,
+MI00904,2026-09-13,web form,HCP,Transferred from the sales line. Caller reports the tablets in the new bottle look different from the previous fill. Also patient asks if it is safe to take GLUCOREN with her blood pressure medication and a daily aspirin.,,
+MI00905,2025-12-27,email,HCP,"Web form, short message: Question on timing — morning or evening — and whether it matters with a shift-work schedule.",dosing,0.0
+MI00906,2026-10-06,web form,Nurse,Caller asks about the maximum daily dose of GLUCOREN and whether it can be split.,dosing,0.0
+MI00907,2026-01-11,phone,Nurse,Patient calling for herself: palpitations since starting GLUCOREN a month ago. Asks whether to stop.,ae_report,1.0
+MI00908,2026-08-09,phone,HCP,Patient asks if it is safe to take GLUCOREN with her blood pressure medication and a daily aspirin.,,
+MI00909,2026-04-12,web form,Nurse,Patient calling for herself: constipated since starting GLUCOREN a month ago. Asks whether to stop.,,
+MI00910,2025-12-28,web form,Pharmacist,Follow-up to a previous call. Pharmacist reports lightheaded in a 74-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known. Also student asks for the mechanism of action for a presentation.,ae_report,1.0
+MI00911,2026-09-09,phone,Caregiver,Pharmacy asks about shelf life after the bottle is opened.,,
+MI00912,2025-12-09,phone,HCP,HCP reports a patient hospitalized with anaphylaxis; GLUCROEN discontinued. Requests a safety follow-up and the case reference number.,ae_report,1.0
+MI00913,2026-01-31,email,Patient,HCP asks when the next label update is expected.,general,0.0
+MI00914,2025-11-27,email,HCP,Caller travelling abroad asks about carrying GLUCOREN in checked luggage and temperature limits. Also caller reports the tablets in the new bottle look different from the previous fill.,storage,0.0
+MI00915,2026-01-20,email,HCP,Pharmacist asks about GLUCOREN dosing in a patient with eGFR of 35.,,
+MI00916,2026-05-10,phone,Patient,Caller is the daughter of a patient. Patient wants to know the titration steps and how long to wait between them.,dosing,0.0
+MI00917,2026-05-04,web form,Pharmacist,Caller's father was admitted to hospital with chest pain; he had started GLUCOREN three weeks earlier. Caller is upset and wants to report it.,ae_report,1.0
+MI00918,2026-06-28,phone,Pharmacist,HCP asks for the publication list on GLUCOREN cardiovascular data.,,
+MI00919,2026-06-11,email,Caregiver,Transferred from the sales line. Caller asks whether GLUCOREN is covered on the state Medicaid formulary. Also hCP asks for data on GLUCOREN in type 1 diabetes.,,
+MI00920,2026-08-11,email,Patient,Caller asks about the maximum daily dose of GLUCOREN and whether it can be split.,,
+MI00921,2026-08-26,email,HCP,Question on timing — morning or evening — and whether it matters with a shift-work schedule. Mentions the patient has had lightheaded since starting.,,
+MI00922,2026-06-11,phone,Pharmacist,Pharmacist wants to know the titration steps and how long to wait between them. Mentions the patient has had shaky and sweaty since starting.,,
+MI00923,2026-09-22,web form,Patient,Patient says the pharmacy quoted $252 and asks about the savings card.,reimbursement,0.0
+MI00924,2026-06-01,email,Nurse,Pharmacist asks about interaction bewteen GLUCOREN and warfarin.,,
+MI00925,2026-05-01,phone,Patient,Caller is the duaghter of a patient. Patient says the pharmacy quoted $314 and asks about the savings card.,,
+MI00926,2025-12-28,phone,Patient,Office asks which diagnosis codes the payer expects on the PA form.,reimbursement,0.0
+MI00927,2025-12-15,email,Patient,Caller asks whether GLUCOREN is covered on the state Medicaid formulary.,,
+MI00928,2026-01-19,phone,Patient,Caller asks whether GLUCOREN is used for weight management in patients without diabetes.,,
+MI00929,2026-05-01,email,HCP,HCP asks about GLUCOREN with a GLP-1 injectable — any additive effects to watch for.,interaction,0.0
+MI00930,2025-12-14,phone,Nurse,Patient found a tablet with a chip and an odd smell; has not taken it.,product_complaint,0.0
+MI00931,2026-09-26,phone,Patient,Caller asks whether GLUCOREN can be stored in a weekly pill organizer.,,
+MI00932,2025-11-08,email,Pharmacist,Nursing home asks whether tablets may be crushed for tube feeding.,storage,0.0
+MI00933,2026-05-11,web form,HCP,"Web form, short message: HCP reports diarrhoea in a 55-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.",ae_report,1.0
+MI00934,2026-08-29,phone,HCP,"Web form, short message: Patient calling for herself: yeast infection since starting GLUCOREN a month ago. Asks whether to stop.",ae_report,1.0
+MI00935,2026-03-06,phone,Patient,Caller asks whether a Spanish-language patient leaflet exists.,,
+MI00936,2026-07-28,phone,Patient,Caller travelling abroad asks about carrying GLUCOREN in checked luggage and temperature limits. Also patient asks how to enroll in the copay savings program for GLUCOREN.,,
+MI00937,2026-08-19,phone,HCP,"Office asks for help with a prior authorization denial from Cigna. Also pharmacist reports a bottle of GLUCOREN with a broken seal and discolored tablets, lot number provided.",,
+MI00938,2026-09-13,phone,HCP,Caller asks about the maximum daily dose of GLUCOREN and whether it can be split.,,
+MI00939,2025-12-24,email,Pharmacist,Caller is the daughter of a patient. Patient calling for herself: urinary tract infection since starting GLUCOREN a month ago. Asks whether to stop.,ae_report,1.0
+MI00940,2026-05-25,phone,Patient,Patient says the pharmacy quoted $300 and asks about the savings card. Also caller asks about the maximum daily dose of GLUCOREN and whether it can be split.,reimbursement,0.0
+MI00941,2026-08-06,phone,Caregiver,Caller asks whether grapefruit juice or alcohol affects GLUCOREN. Mentions the patient has had rash since starting.,interaction,1.0
+MI00942,2026-02-18,phone,Patient,Patient calling for herself: uti since starting GLUCOREN a month ago. Asks whether to stop. Also office asks which diagnosis codes the payer expects on the PA form.,,
+MI00943,2026-06-13,email,HCP,HCP asks for the publication list on GLUCOREN cardiovascular data. Also caller asks whether grapefruit juice or alcohol affects GLUCOREN.,,
+MI00944,2026-04-06,email,Pharmacist,Caller asks whether the patient assistance program covers Medicare Part D patients.,,
+MI00945,2026-06-26,email,HCP,Office asks for help with a prior authorization denial from BCBS.,,
+MI00946,2026-03-18,phone,Caregiver,Caller asks about using GLUCOREN for prediabetes in a patient who wants to avoid progression.,,
+MI00947,2026-03-22,web form,Nurse,Caller asks whether the patient assistance program covers Medicare Part D patients.,,
+MI00948,2026-01-12,phone,Patient,Caller is the daughter of a patient. Patient found a tablet with a chip and an odd smell; has not taken it.,product_complaint,0.0
+MI00949,2026-03-30,email,Caregiver,"Caller prefers a call back. HCP asks about co-administration with digoxin and whether levels should be monitored. Also pharmacist reports a bottle of GLUCOREN with a broken seal and discolored tablets, lot number provided.",interaction,0.0
+MI00950,2026-07-29,phone,Patient,Office asks for help with a prior authorization denial from Express Scripts.,reimbursement,0.0
+MI00951,2026-10-10,phone,Patient,"Web form, short message: Office asks which diagnosis codes the payer expects on the PA form.",reimbursement,0.0
+MI00952,2025-11-22,phone,Pharmacist,Caller prefers a call back. HCP asks about use in adolescents; requests any available data. Also pharmacist asks about interaction between GLUCOREN and warfarin.,,
+MI00953,2026-08-24,phone,Pharmacist,Patient says the pharmacy quoted $226 and asks about the savings card.,,
+MI00954,2026-07-27,phone,Nurse,Patient calling for herself: fatigue since starting GLUCOREN a month ago. Asks whether to stop. Also hCP asks for data on GLUCOREN in type 1 diabetes.,,
+MI00955,2026-01-08,email,Caregiver,HCP asks for the publication list on GLUCOREN cardiovascular data.,general,0.0
+MI00956,2026-06-26,email,HCP,Patient asks whether GLUCOREN should be taken with food.,,
+MI00957,2026-08-26,phone,Pharmacist,Pharmacy received a carton with a torn label and an unreadable expiry date.,product_complaint,0.0
+MI00958,2026-04-15,phone,Patient,Transferred from the sales line. Patient calling for herself: not hungry since starting GLUCOREN a month ago. Asks whether to stop.,,
+MI00959,2025-11-08,email,Patient,Caller asks whether grapefruit juice or alcohol affects GLUCOREN.,interaction,0.0
+MI00960,2026-09-24,web form,Caregiver,Patient calling for herself: belly pain since starting GLUCOREN a month ago. Asks whether to stop.,ae_report,1.0
+MI00961,2025-12-21,phone,Patient,"Web form, short message: Patient reports rash in a 78-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.",ae_report,1.0
+MI00962,2026-03-13,web form,Patient,Patient says the pharmacy quoted $144 and asks about the savings card.,reimbursement,0.0
+MI00963,2026-07-17,web form,Patient,Pharmacist asks about interaction between GLUCOREN and warfarin. Also patient asks what to do about a missed dose and whether two tablets can be taken the next day.,,
+MI00964,2026-04-14,phone,HCP,Second time calling this week. Caller asks whether the patient assistance program covers Medicare Part D patients.,,
+MI00965,2025-11-14,email,Patient,"Web form, short message: Patient reports itching in a 77-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known. Also pharmacist reports a bottle of GLUCOREN with a broken seal and discolored tablets, lot number provided.",ae_report,1.0
+MI00966,2026-08-23,web form,Patient,Caller sounded frustrated. Student asks for the mechanism of action for a presentation.,general,0.0
+MI00967,2026-05-30,email,Patient,Caller asks whether grapefruit juice or alcohol affects GLUCOREN.,,
+MI00968,2026-02-18,phone,HCP,Caller asks whether GLUCOREN is covered on the state Medicaid formulary.,reimbursement,0.0
+MI00969,2026-07-07,phone,Patient,Caller is the daughter of a patient. Caller asks about using GLUCOREN for prediabetes in a patient who wants to avoid progression.,,
+MI00970,2026-03-30,email,Caregiver,"Web form, short message: Caregiver wants to know the titration steps and how long to wait between them.",,
+MI00971,2025-12-11,phone,Patient,Student asks for the mechanism of action for a presentation.,,
+MI00972,2025-11-29,web form,Patient,Pharmacist asks about GLUCOREN dosing in a patient with eGFR of 35.,,
+MI00973,2026-08-04,email,Nurse,Nurse asks what to do about a missed dose and whether two tablets can be taken the next day.,,
+MI00974,2026-08-10,phone,HCP,"Caller is the daughter of a patient. Pharmacist reports a bottle of GLUCOREN with a broken seal and discolored tablets, lot number provided.",,
+MI00975,2026-06-03,phone,Nurse,Patient says the pharmacy quoted $98 and asks about the savings card. Also hCP asks for the publication list on GLUCOREN cardiovascular data.,reimbursement,0.0
+MI00976,2026-08-29,email,HCP,Pharmacist asks about the excipients and whether the tablet is latex-free in packaging.,storage,0.0
+MI00977,2026-06-08,email,HCP,Caller asks about the maximum daily dose of GLUCOREN and whether it can be split. Also caller asks whether grapefruit juice or alcohol affects GLUCOREN. Mentions the patient has had rash since starting.,dosing,1.0
+MI00978,2026-04-10,phone,Pharmacist,Pharmacist checking a possible interaction with rifampin; asks about CYP metabolism. Mentions the patient has had stomach pain since starting.,,
+MI00979,2025-11-04,email,Patient,Caller asks if the dose needs adjusting for an 82-year-old with mild hepatic impairment.,dosing,0.0
+MI00980,2026-03-02,email,HCP,HCP asks for data on GLUCOREN in type 1 diabetes. Also patient says two tablets in the blister were crumbled. No symptoms. Asks for a replacement.,,
+MI00981,2025-12-05,web form,HCP,HCP asks about co-administration with digoxin and whether levels should be monitored.,interaction,0.0
+MI00982,2026-05-15,email,Patient,Second time calling this week. Patient says the pharmacy quoted $376 and asks about the savings card.,reimbursement,0.0
+MI00983,2026-10-05,phone,HCP,Caller asks if the dose needs adjusting for an 82-year-old with mild hepatic impairment.,,
+MI00984,2026-01-31,phone,Nurse,Follow-up to a previous call. HCP asks about co-administration with digoxin and whether levels should be monitored.,interaction,0.0
+MI00985,2026-07-02,phone,Patient,Patient asks whether GLUCOREN should be taken with food.,dosing,0.0
+MI00986,2026-05-15,phone,HCP,Caller asks about the maximum daily dose of GLUCOREN and whether it can be split.,dosing,0.0
+MI00987,2026-07-08,phone,HCP,Second time calling this week. HCP reports a patient hospitalized with fainted; GLUCOREN discontinued. Requests a safety follow-up and the case reference number.,,
+MI00988,2026-08-18,web form,Caregiver,Caller prefers a call back. Caregiver reports exhausted in a 44-year-old patient two weeks after starting GLUCOREN. Patient contiunes on therapy. Wants to know if this is known.,ae_report,1.0
+MI00989,2026-05-06,phone,HCP,Follow-up to a previous call. Pharmacist asks about the excipients and whether the tablet is latex-free in packaging.,storage,0.0
+MI00990,2026-06-19,phone,Patient,Patient says two tablets in the blister were crumbled. No symptoms. Asks for a replacement.,product_complaint,0.0
+MI00991,2026-04-30,phone,HCP,HCP reports bladder infection in a 38-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known. Also hCP asks abuot a higher-than-labelled dose in a patient not responding.,,
+MI00992,2026-02-10,phone,Caregiver,HCP asks about a higher-than-labelled dose in a patient not responding.,off_label,0.0
+MI00993,2026-04-17,web form,HCP,"Web form, short message: Office asks for help with a prior authorization denial from Cigna.",reimbursement,0.0
+MI00994,2026-09-05,phone,Nurse,Patient says the pharmacy quoted $169 and asks about the savings card.,,
+MI00995,2026-04-06,phone,Nurse,Patient says the pharmacy quoted $211 and asks about the savings card. Also pharmacy asks about shelf life after the bottle is opened.,reimbursement,0.0
+MI00996,2026-02-11,email,HCP,HCP asks about a higher-than-labelled dose in a patient not responding.,off_label,0.0
+MI00997,2026-06-08,phone,Pharmacist,Caller's father was admitted to hospital with anaphylaxis; he had started GLUCOREN three weeks earlier. Caller is upset and wants to report it.,,
+MI00998,2025-12-10,web form,Nurse,Caller asks for the full prescribing information for GLUCOREN. Also caller says the bottle contained 28 tablets instead of 30.,general,0.0
+MI00999,2025-11-03,phone,Patient,Question on timing — morning or evening — and whether it matters with a shift-work schedule.,dosing,0.0
+MI01000,2026-05-20,phone,Patient,Pharmacy asks about shelf life after the bottle is opened.,,
+MI01001,2026-10-14,phone,HCP,HCP wants to know the titration steps and how long to wait between them.,,
+MI01002,2025-11-28,web form,HCP,HCP asks when the next label update is expected. Also hCP asks what to do about a missed dose and whether two tablets can be taken the next day.,general,0.0
+MI01003,2026-06-04,email,Patient,Patient reports no appetite in a 76-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,,
+MI01004,2026-08-19,web form,Patient,Follow-up to a previous call. Caller asks about the maximum daily dose of GLUCOREN and whether it can be split.,,
+MI01005,2026-07-21,phone,Nurse,Caller sounded frustrated. Patient asks if it is safe to take GLUCOREN with her blood pressure medication and a daily aspirin.,,
+MI01006,2026-08-11,phone,Pharmacist,Caller prefers a call back. Pharmacist reports stomach pain in a 46-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,ae_report,1.0
+MI01007,2026-10-10,web form,Pharmacist,Patient calling for herself: fatigue since starting GLUCOREN a month ago. Asks whether to stop. Also hCP asks for the publication list on GLUCOREN cardiovascular data.,,
+MI01008,2026-10-08,email,HCP,Patient calling for herself: diarrhea since starting GLUCOREN a month ago. Asks whether to stop.,,
+MI01009,2026-02-16,web form,HCP,Patient asks how to enroll in the copay savings program for GLUCOREN. Also hCP asks when the next label update is expected.,reimbursement,0.0
+MI01010,2026-08-03,email,Patient,Patient reports weight loss in a 75-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,ae_report,1.0
+MI01011,2026-03-05,phone,HCP,Patient asks if it is safe to take GLUCOREN with her blood pressure medication and a daily aspirin.,,
+MI01012,2026-07-05,web form,Pharmacist,Pharmacist asks about GLUCOREN dosing in a patient with eGFR of 35. Also office asks for help with a prior authorization denial from UnitedHealthcare.,dosing,0.0
+MI01013,2026-07-02,phone,Caregiver,Caller's father was admitted to hospital with liver enzymes; he had started GLUCOREN three weeks earlier. Caller is upset and wants to report it. Also hCP asks when the next laebl update is expected.,ae_report,1.0
+MI01014,2026-02-21,email,Patient,Office asks for help with a prior authorization denial from Cigna. Also caller asks whether GLUCOREN contains lactose or gluten.,reimbursement,0.0
+MI01015,2026-04-05,phone,Pharmacist,Caller asks whether the patient assistance program covers Medicare Part D patients.,,
+MI01016,2026-05-22,phone,Caregiver,Caller is the daughter of a patient. Office asks for help with a prior authorization denial from UnitedHealthcare.,reimbursement,0.0
+MI01017,2026-08-07,phone,Nurse,Caller asks for the full prescribing information for GLUCOREN. Also caller asks how to restart GLUCOREN after a two-week interruption.,,
+MI01018,2026-09-29,phone,HCP,"Office asks which diagnosis codes the payer expects on the PA form. Also pharmacist reports a bottle of GLUCOREN with a broken seal and discolored tablets, lot number provided.",,
+MI01019,2026-05-01,phone,HCP,Patient found a tablet with a chip and an odd smell; has not taken it.,product_complaint,0.0
+MI01020,2026-08-25,email,HCP,"Caller is the daughter of a patient. HCP asks whether GLUCOREN can be combined with a sulfonylurea and what precautions apply. Also pharmacist reports a bottle of GLUCOREN with a broken seal and discolored tablets, lot number provided.",,
+MI01021,2026-06-17,email,Caregiver,Caller reports the tablets in the new bottle look different from the previous fill.,product_complaint,0.0
+MI01022,2026-07-18,phone,Pharmacist,Caller prefers a call back. Caller reports the tablets in the new bottle look different from the previous fill.,product_complaint,0.0
+MI01023,2026-04-05,phone,Pharmacist,Caller asks if the dose needs adjusting for an 82-year-old with mild hepatic impairment.,,
+MI01024,2026-01-29,web form,Patient,Patient calling for herself: queasy since starting GLUCOREN a month ago. Asks whether to stop.,ae_report,1.0
+MI01025,2026-06-02,web form,Patient,HCP asks about co-administration with digoxin and whether levels should be monitored.,interaction,0.0
+MI01026,2026-09-16,web form,Patient,Student asks for the mechanism of action for a presentation.,,
+MI01027,2025-12-03,web form,HCP,HCP reports sick to my stomach in a 39-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,,
+MI01028,2026-03-18,web form,Pharmacist,Caller asks whether a Spanish-language patient leaflet exists.,,
+MI01029,2026-05-31,email,HCP,Second time calling this week. Patient found a tablet with a chip and an odd smell; has not taken it.,product_complaint,0.0
+MI01030,2026-06-03,email,Nurse,Caller is the daughter of a patient. Patient asks whether GLUCOREN should be taken with food. Also hCP asks about a higher-than-labelled dose in a patient not responding.,dosing,0.0
+MI01031,2025-11-22,phone,Patient,Second time calling this week. HCP asks when the next label update is expected. Also pharmacist asks about interaction between GLUCOREN and warfarin.,,
+MI01032,2026-03-25,email,Patient,"Web form, short message: Caller asks whether the patient assisatnce program covers Medicare Part D patients.",reimbursement,0.0
+MI01033,2026-01-13,phone,HCP,Caller asks whether grapefruit juice or alcohol affects GLUCOREN. Mentions the patient has had rash since starting.,interaction,1.0
+MI01034,2026-08-29,email,Pharmacist,Caller asks whether a Spanish-language patient leaflet exists. Also hCP asks about GLUCOREN in gestational diabetes.,general,0.0
+MI01035,2026-07-10,phone,Pharmacist,Caller asks whether GLUCOREN is used for weight management in patients without diabetes.,off_label,0.0
+MI01036,2026-03-26,web form,Patient,"Web form, short message: Caller asks whether the patient assistance program covers Medicare Part D patients.",,
+MI01037,2026-05-11,web form,HCP,Follow-up to a previous call. Patient asks whether GLUCOREN should be taken with food.,,
+MI01038,2026-02-14,phone,Pharmacist,Patient calling for herself: hives since starting GLUCOREN a month ago. Asks whether to stop.,ae_report,1.0
+MI01039,2026-09-27,phone,HCP,Office asks for help with a prior authorization denial from Medicare Part D plan. Also pharmacy received a carton with a torn label and an unreadable expiry date.,,
+MI01040,2025-11-13,phone,Patient,Question on timing — morning or evening — and whether it matters with a shift-work schedule. Also hCP asks about co-administration with digoxin and whether levels should be monitored. Mentions the patient has had yeast infection since starting.,,
+MI01041,2026-05-31,email,Patient,Patient asks whether GLUCOREN should be taken with food.,,
+MI01042,2026-06-22,phone,HCP,HCP asks about co-administration with digoxin and whether levels should be monitored.,interaction,0.0
+MI01043,2026-08-13,email,HCP,Second time calling this week. Patient calling for herself: no appetite since starting GLUCOREN a month ago. Asks whether to stop.,,
+MI01044,2026-02-25,phone,Caregiver,Office asks for help with a prior authorization denial from Medicaid MCO.,reimbursement,0.0
+MI01045,2026-09-06,email,Patient,"Web form, shrot message: Patient calling for herself: rash since starting GLUCOREN a month ago. Asks whether to stop. Also caller asks whether the patient assistance program covers Medicare Part D patients.",,
+MI01046,2025-11-28,email,HCP,HCP asks what to do about a missed dose and whether two tablets can be taken the next day.,dosing,0.0
+MI01047,2025-12-07,phone,Patient,Caller prefers a call back. Caller asks whether grapefruit juice or alcohol affects GLUCOREN. Also hCP asks about a higher-than-labelled dose in a patient not responding.,,
+MI01048,2026-02-02,phone,Caregiver,Pharmacist asks about GLUCOREN dosing in a patient with eGFR of 35. Also caller asks whether GLUCOREN can be stored in a weekly pill organizer.,dosing,0.0
+MI01049,2025-11-22,web form,Patient,Transferred from the sales line. Caller asks if the dose needs adjusting for an 82-year-old with mild hepatic impairment.,,
+MI01050,2026-01-31,web form,Patient,Caller prefers a call back. Patient asks whether GLUCOREN should be taken with food.,dosing,0.0
+MI01051,2026-07-16,phone,HCP,Pharmacy asks about shelf life after the bottle is opened.,,
+MI01052,2026-07-12,phone,Patient,Caller asks how to restart GLUCOREN after a two-week interruption.,dosing,0.0
+MI01053,2026-01-02,phone,Nurse,Caller sounded frustrated. Pharmacist checking a possible interaction with rifampin; asks about CYP metabolism.,,
+MI01054,2026-07-24,web form,Nurse,Pharmacy asks about shelf life after the bottle is opened.,,
+MI01055,2026-01-01,phone,Patient,Patient found a tablet with a chip and an odd smell; has not taken it.,,
+MI01056,2026-03-06,email,HCP,Follow-up to a previous call. Patient calling for herself: constipation since starting GLUCOREN a month ago. Asks whether to stop. Also nursing home asks whether tablets may be crushed for tube feeding.,ae_report,1.0
+MI01057,2026-02-10,web form,Nurse,"Pharmacist reports a bottle of GLUCOREN with a broken seal and discolored tablets, lot number provided. Also caller asks for the full prescribing information for GLUCOREN.",,
+MI01058,2026-10-11,phone,Caregiver,Caller is the daughter of a patient. Student asks for the mechanism of action for a presentation.,,
+MI01059,2025-12-01,phone,HCP,Follow-up to a previous call. Office asks for help with a prior authorization denial from Express Scripts.,reimbursement,0.0
+MI01060,2026-03-28,phone,HCP,Second time calling this week. Caller asks how to rsetart GLUCOREN after a two-week interruption.,,
+MI01061,2026-03-26,web form,Pharmacist,"Pharmacist reports a bottle of GLUCOREN with a broken seal and discolored tablets, lot number provided.",,
+MI01062,2026-09-29,web form,Patient,"Web form, short message: Patient left GLUCOREN in a hot car for a day; asks if the tablets are still good.",,
+MI01063,2026-01-10,email,HCP,Patient calling for herself: tired since starting GLUCOREN a month ago. Asks whether to stop.,ae_report,1.0
+MI01064,2026-04-27,phone,Patient,Pharmacist asks about the excipients and whether the tablet is latex-free in packaging.,,
+MI01065,2026-09-01,phone,HCP,Caller sounded frustrated. Caller asks about the maximum daily dose of GLUCOREN and whether it can be split. Also pharmacist asks about interaction between GLUCOREN and warfarin.,dosing,0.0
+MI01066,2026-04-05,email,Patient,Caller asks whether GLUCOREN can be stored in a weekly pill organizer.,storage,0.0
+MI01067,2026-04-08,email,Pharmacist,Pharmacist reports belly pain in a 41-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,ae_report,1.0
+MI01068,2025-11-14,phone,Patient,Caller sounded frustrated. HCP asks about co-administration with dgioxin and whether levels should be monitored.,,
+MI01069,2026-05-08,phone,Patient,Patient calling for herself: yeast infection since starting GLUCOREN a month ago. Asks whether to stop.,ae_report,1.0
+MI01070,2025-11-13,web form,HCP,Pharmacy received a carton with a torn label and an unreadable expiry date.,,
+MI01071,2026-10-12,web form,Patient,Patient calling for herself: rash since starting GLUCOREN a month ago. Asks whether to stop.,,
+MI01072,2026-02-18,phone,Pharmacist,Transferred from the sales line. Caller asks whether GLUCOREN is covered on the state Medicaid formulary. Also caller asks whether GLUCOREN contains lactose or gluten.,,
+MI01073,2026-04-27,email,Patient,Patient calling for herself: nausea since starting GLUCOREN a month ago. Asks whether to stop.,,
+MI01074,2026-07-03,phone,Pharmacist,Pharmacist reports a patient hospitalized with kidney injury; GLUCOREN discontinued. Requests a safety follow-up and the case reference number.,ae_report,1.0
+MI01075,2025-11-29,email,Pharmacist,Patient left GLUCOREN in a hot car for a day; asks if the tablets are still good.,,
+MI01076,2026-05-24,phone,Pharmacist,Caller is the daughter of a patient. Pharmacist reports sugar crashed in a 48-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,,
+MI01077,2026-07-13,phone,HCP,Caller sounded frustrated. HCP asks about GLUCOREN with a GLP-1 injectable — any additive effects to watch for.,,
+MI01078,2026-05-23,web form,Caregiver,Caregiver reports vomited in a 51-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,ae_report,1.0
+MI01079,2025-11-03,phone,Patient,Caller sounded frustrated. Patient asks how to enroll in the copay savings program for GLUCOREN.,,
+MI01080,2026-04-11,phone,Pharmacist,Caller asks if the dose needs adjusting for an 82-year-old with mild hepatic impairment.,dosing,0.0
+MI01081,2026-07-20,email,Caregiver,Patient calling for herself: headache since starting GLUCOREN a month ago. Asks whether to stop.,ae_report,1.0
+MI01082,2026-01-01,email,Caregiver,Caregiver reports throwing up in a 55-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,,
+MI01083,2026-02-16,phone,Patient,"Web form, short message: Pharmacist asks about interaction between GLUCOREN and warfarin.",interaction,0.0
+MI01084,2025-11-14,web form,HCP,Patient calling for herself: hives since starting GLUCOREN a month ago. Asks whether to stop. Also caller asks whether GLUCOREN can be stored in a weekly pill organizer.,ae_report,1.0
+MI01085,2026-09-12,phone,Pharmacist,Patient asks if it is safe to take GLUCOREN with her blood pressure medication and a daily aspirin.,interaction,0.0
+MI01086,2026-05-29,phone,HCP,Patient asks if it is safe to take GLUCOREN with her blood pressure medication and a daily aspirin. Also caller asks whether GLUCOREN can be stored in a weekly pill organizer.,,
+MI01087,2026-08-09,web form,HCP,HCP asks when the next label update is expected.,general,0.0
+MI01088,2026-03-30,email,HCP,Patient calling for herself: diarrhea since starting GLUCOREN a month ago. Asks whether to stop.,ae_report,1.0
+MI01089,2025-12-09,email,HCP,Pharmacy asks about shelf life after the bottle is opened.,,
+MI01090,2026-01-26,email,Patient,Patient asks how to enroll in the copay savings program for GLUCOREN. Also pharmacy received a carton with a torn label and an unreadable expiry date.,,
+MI01091,2026-03-18,email,Pharmacist,Patient asks whether GLUCOREN should be taken with food. Also hCP asks about co-administration with digoxin and whether levels should be monitored.,,
+MI01092,2026-01-11,web form,HCP,Second time calling this week. HCP reports dehydration in a 75-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known. Also caller asks whether GLUCOREN is used for weight management in patients without diabetes.,ae_report,1.0
+MI01093,2026-04-26,phone,Caregiver,"Web form, short message: Caregiver wants to know the titration steps and how long to wait bteween them.",,
+MI01094,2026-07-10,web form,HCP,Patient asks if it is safe to take GLUCOREN with her blood pressure medication and a daily aspirin.,interaction,0.0
+MI01095,2026-06-18,phone,HCP,Office asks which diagnosis codes the payer expects on the PA form. Also patient left GLUCOREN in a hot car for a day; asks if the tablets are still good.,,
+MI01096,2026-08-08,web form,HCP,Caller asks if the dose needs adjusting for an 82-year-old with mild hepatic impairment.,,
+MI01097,2026-06-18,phone,Patient,Second time calling this week. Caller asks whether the patient assistance program covers Medicare Part D patients.,,
+MI01098,2026-06-28,web form,Patient,Caller asks for the full prescribing information for GLUCOREN.,,
+MI01099,2025-12-31,phone,Patient,HCP asks for data on GLUCOERN in type 1 diabetes.,off_label,0.0
+MI01100,2025-11-15,phone,Caregiver,Caller asks whether GLUCOREN can be stored in a wekely pill organizer.,storage,0.0
+MI01101,2026-07-10,email,Pharmacist,Pharmacist asks about interaction between GLUCOREN and warfarin.,,
+MI01102,2026-09-07,phone,Caregiver,Caller sounded frustrated. HCP asks whether GLUCOREN can be combined with a sulfonylurea and what precautions apply. Mentions the patient has had not hungry since starting.,,
+MI01103,2026-06-30,web form,HCP,"Web form, short message: Caller asks for the full prescribing information for GLUCOREN.",,
+MI01104,2026-08-29,web form,Patient,Caller is the daughter of a patient. HCP asks whether GLUCOREN can be combined with a sulfonylurea and what precautions apply. Mentions the patient has had itching since starting.,interaction,1.0
+MI01105,2026-10-06,email,Patient,Pharmacist asks about GLUCOREN dosing in a patient with eGFR of 35. Also student asks for the mechanism of action for a presentation.,dosing,0.0
+MI01106,2026-03-20,phone,Pharmacist,Caller says the bottle contained 28 tablets instead of 30. Also office asks for help with a prior authorization denial from Humana.,product_complaint,0.0
+MI01107,2026-02-16,email,Patient,"Web form, short message: Patient asks how to enroll in the copay savings program for GLUCOREN.",,
+MI01108,2026-05-31,phone,Patient,Caller travelling abroad asks about carrying GLUCOREN in checked luggage and temperature limits.,storage,0.0
+MI01109,2026-03-20,phone,Nurse,Caller prefers a call back. Patient left GLUCOREN in a hot car for a day; asks if the tablets are still good.,storage,0.0
+MI01110,2026-02-17,phone,HCP,Follow-up to a previous call. Pharmacist asks about GLUCOREN dosing in a patient with eGFR of 35.,dosing,0.0
+MI01111,2025-11-22,email,HCP,Patient calling for herself: loose stools since starting GLUCOREN a month ago. Asks whether to stop. Also caller asks whether GLUCOREN contains lactose or gluten.,ae_report,1.0
+MI01112,2026-09-04,phone,HCP,HCP asks about co-administration with digoxin and whether levels should be monitored.,,
+MI01113,2026-06-06,phone,HCP,Pharmacist asks about the excipients and whether the tablet is latex-free in packaging.,,
+MI01114,2026-04-23,phone,Patient,Caller asks whether GLUCOREN is used for weight management in patients without diabetes.,,
+MI01115,2026-04-13,email,Patient,Patient asks how to enroll in the copay savings program for GLUCOREN. Also hCP asks about co-administration with digoxin and whether levels should be monitored.,reimbursement,0.0
+MI01116,2026-05-27,phone,Nurse,Caller says the bottle contained 28 tablets instead of 30. Also caller asks whether GLUCOREN contains lactose or gluten.,,
+MI01117,2026-03-15,email,Nurse,Caller travelling abroad asks about carrying GLUCOREN in checked luggage and temperature limits.,,
+MI01118,2025-12-01,phone,Patient,Caller sounded frustrated. Patient reports dehydration in a 75-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,,
+MI01119,2026-06-19,phone,Caregiver,Caller prefesr a call back. Caller says the bottle contained 28 tablets instead of 30.,,
+MI01120,2026-03-31,web form,Pharmacist,Pharmacist wants to know the titration steps and how long to wait between them.,dosing,0.0
+MI01121,2026-01-26,email,Patient,Follow-up to a previous call. Patient reports a patient hospitalized with creatinine spiked; GLUCOREN discontinued. Requests a safety follow-up and the case reference number.,ae_report,1.0
+MI01122,2026-03-22,phone,Patient,Caller prefers a call back. Caller says the bottle contained 28 tablets instead of 30.,,
+MI01123,2026-08-12,phone,Patient,"Web form, short message: Caller asks for the full prescribing information for GLUCOREN.",general,0.0
+MI01124,2026-01-27,email,Pharmacist,Caller asks whether the patient assistance program covers Medicare Part D patients.,,
+MI01125,2026-08-03,email,Pharmacist,Patient says the pharmacy quotde $317 and asks about the savings card.,,
+MI01126,2026-02-07,web form,Patient,"Web form, short message: Nursing home asks whether tablets may be crushed for tube feeding.",storage,0.0
+MI01127,2026-02-26,email,Patient,Caller prefers a call back. Caller reports the tablets in the new bottle look different from the previous fill.,,
+MI01128,2026-07-07,phone,HCP,Question on timing — morning or evening — and whether it matters with a shift-work schedule. Also pharmacist asks about interaction between GLUCOREN and warfarin.,,
+MI01129,2025-11-10,phone,Nurse,Callre asks for the full prescribing information for GLUCOREN.,general,0.0
+MI01130,2026-07-08,phone,HCP,Second time calling this week. Caller asks whether grapefruit juice or alcohol affects GLUCOREN.,interaction,0.0
+MI01131,2026-03-08,email,Patient,Caller says the bottle contained 28 tablets instead of 30.,,
+MI01132,2026-07-20,web form,Caregiver,Patient asks if it is safe to take GLUCOREN with her blood pressure medication and a daily aspirin. Also caller asks whether GLUCOREN is used for weight management in patients without diabetes.,,
+MI01133,2025-12-08,phone,Nurse,Nurse wants to know the titration steps and how long to wait between them.,dosing,0.0
+MI01134,2026-09-18,phone,Patient,Caller asks whether grapefruit juice or alcohol affects GLUCOREN.,,
+MI01135,2026-06-01,email,Patient,Patient wants to know the titration steps and how long to wait between them.,dosing,0.0
+MI01136,2026-05-17,email,Pharmacist,Caller asks whether GLUCOREN is covered on the state Medicaid formulary.,,
+MI01137,2026-03-16,email,Patient,Patietn reports a patient hospitalized with lips swelled; GLUCOREN discontinued. Requests a safety follow-up and the case reference number.,,
+MI01138,2026-04-14,phone,HCP,Caller sounded frustrated. Caller's father was admitted to hospital with lips swelled; he had started GLUCOREN three weeks earlier. Caller is upset and wants to report it. Also hCP asks when the next label update is expected.,ae_report,1.0
+MI01139,2025-11-30,phone,HCP,HCP asks for data on GLUCOREN in type 1 diabetes. Also nursing home asks whether tablets may be crushed for tube feeding.,off_label,0.0
+MI01140,2026-10-07,phone,Pharmacist,Patient calling for herself: headaches since starting GLUCOREN a month ago. Asks whether to stop.,ae_report,1.0
+MI01141,2026-05-17,email,Nurse,Caller prefers a call back. HCP asks about a higher-than-labelled dose in a patient not responding.,off_label,0.0
+MI01142,2026-06-05,email,Pharmacist,Caller prefers a call back. Pharmacist asks about GLUCOREN with a GLP-1 injectable — any additive effects to watch for.,interaction,0.0
+MI01143,2026-06-04,email,Pharmacist,Caller sounded frustrated. HCP asks for the publication list on GLUCOREN cardiovascular data.,general,0.0
+MI01144,2025-12-01,email,Patient,"Caller asks whether GLUCOREN is used for weight management in patients without diabetes. Also pharmacist reports a bottle of GLUCOREN with a broken seal and discolored tablets, lot number provided.",,
+MI01145,2026-03-02,phone,HCP,Caller sounded frustrated. Patient calling for herself: dizzy since starting GLUCOREN a month ago. Asks whether to stop. Also pharmacist checking a possible interaction with rifampin; asks about CYP metabolism.,ae_report,1.0
+MI01146,2026-01-30,email,HCP,Caller is the daughter of a patient. Pharmacist checking a possible interaction with rifampin; asks about CYP metabolism.,interaction,0.0
+MI01147,2026-05-27,web form,HCP,HCP reports vomiting in a 70-year-old patient two weesk after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,ae_report,1.0
+MI01148,2026-04-12,email,HCP,"Web form, short message: Caller's father was admitted to hospital with throat closing; he had started GLUCOREN three weeks earlier. Caller is upset and wants to report it.",,
+MI01149,2026-06-30,email,Nurse,"Web form, short message: Office asks which diagnosis codes the payer expects on the PA form.",,
+MI01150,2026-08-24,phone,HCP,Transferred from the sales line. HCP wants to know the titration steps and how long to wait between them.,,
+MI01151,2026-08-03,web form,Caregiver,Office asks which diagnosis codes the payer expects on the PA form.,reimbursement,0.0
+MI01152,2026-08-18,phone,Patient,Caller sounded frustrated. Caller says the bottle contained 28 tablets instead of 30.,,
+MI01153,2026-10-11,email,HCP,Caller is the daughter of a patient. Caller asks whether GLUCOREN is covered on the state Medicaid formulary.,,
+MI01154,2026-08-12,phone,HCP,Office asks which diagnosis codes the payer expects on the PA form.,reimbursement,0.0
+MI01155,2026-02-26,email,HCP,Transferred from the sales line. Student asks for the mechanism of action for a presentation.,,
+MI01156,2026-01-11,email,HCP,Caller asks about the maximum daily dose of GLUCOREN and whether it can be split. Also patient asks if it is safe to take GLUCOREN with her blood pressure medication and a daily aspirin.,dosing,0.0
+MI01157,2026-05-08,phone,Patient,Nursing home asks whether tablets may be crushed for tube feeding.,,
+MI01158,2026-05-01,phone,Pharmacist,Question on timing — mornign or evening — and whether it matters with a shift-work schedule.,dosing,0.0
+MI01159,2026-07-02,email,Patient,Patient asks whether GLUCOREN should be taken with food.,,
+MI01160,2025-12-06,email,Patient,Patient says two tablets in the blitser were crumbled. No symptoms. Asks for a replacement.,,
+MI01161,2025-11-27,phone,Patient,Office asks which diagonsis codes the payer expects on the PA form.,reimbursement,0.0
+MI01162,2026-06-24,phone,HCP,HCP asks for the publication list on GLUCOREN cardiovascluar data.,general,0.0
+MI01163,2026-01-31,phone,HCP,Office asks which diagnosis codes the payer expects on the PA form.,reimbursement,0.0
+MI01164,2026-07-19,phone,Pharmacist,Transferred from the sales line. HCP asks when the next label update is expected.,,
+MI01165,2026-07-17,phone,Pharmacist,Caller asks whether a Spanish-language patient leaflet exists.,,
+MI01166,2026-10-06,phone,Patient,Nursing home asks whether tablets may be crushed for tube feeding.,,
+MI01167,2026-09-30,phone,Pharmacist,Follow-up to a previous call. Office asks which diagnosis codes the payer expects on the PA form. Also nursing home asks whether tablets may be crushed for tube feeding.,reimbursement,0.0
+MI01168,2026-09-13,web form,Nurse,Caller asks how to restart GLUCOREN after a two-week interruption.,,
+MI01169,2025-12-24,phone,Nurse,Caller is the daughter of a patient. Patient left GLUCOREN in a hot car for a day; asks if the tablets are still good.,,
+MI01170,2026-03-02,web form,Nurse,Caller asks about using GLUCOREN for prediabetes in a patient who wants to avoid progression.,off_label,0.0
+MI01171,2026-10-18,email,HCP,Caller sounded frustrated. Pharmacist checking a possible interaction with rifampin; asks about CYP metabolism.,,
+MI01172,2026-08-26,phone,Patient,HCP asks about GLUCOREN in gestational diabetes. Also nursing home asks whether tablets may be crushed for tube feeding.,,
+MI01173,2026-02-28,web form,Patient,Patient calling for herself: lost weight since starting GLUCOREN a month ago. Asks whether to stop.,,
+MI01174,2026-03-27,email,Patient,Patient asks what to do about a missed dose and whether two tablets can be taken the next day.,,
+MI01175,2026-08-02,phone,HCP,Second time calling this week. Caller asks if the dose needs adjusting for an 82-year-old with mild hepatic impairment.,dosing,0.0
+MI01176,2026-04-08,phone,Caregiver,Caller asks whether the patient assistance program covers Medicare Part D patients.,reimbursement,0.0
+MI01177,2026-02-22,email,HCP,HCP reports a patient hospitalized with anaphylaxis; GLUCOREN discontinued. Requests a safety follow-up and the case reefrence number.,,
+MI01178,2026-09-08,email,Patient,Caller prefers a call back. Patient reports heart racing in a 79-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known. Also hCP asks about a higher-than-labelled dose in a patient not responding.,,
+MI01179,2025-12-13,web form,Patient,HCP asks about use in adolescents; requests any available data.,,
+MI01180,2026-06-19,web form,HCP,HCP asks what to do about a missed dose and whether two tablets can be taken the next day. Also office asks which diagnosis codes the payer expects on the PA form.,dosing,0.0
+MI01181,2025-11-16,phone,Pharmacist,Caller travelling abroad asks about carrying GLUCOREN in checked luggage and temperature limits.,,
+MI01182,2026-03-20,web form,Patient,Pharmacy asks about shelf life after the bottle is opened. Also caller asks whether the patient assistance program covers Medicare Part D patients.,,
+MI01183,2026-01-22,email,Pharmacist,Patient calling for herself: diarrhoea since starting GLUCOREN a month ago. Asks whether to stop.,ae_report,1.0
+MI01184,2026-03-26,email,Caregiver,Patient calling for herself: hypo since starting GLUCOREN a month ago. Asks whether to stop.,ae_report,1.0
+MI01185,2026-01-31,web form,Nurse,"Follow-up to a previous call. Pharmacist reports a bottle of GLUCOREN with a broken seal and discolored tablets, lot nubmer provided.",product_complaint,0.0
+MI01186,2025-12-11,email,HCP,Caller asks whether GLUCOREN is used for weight management in patients without diabetes. Also patient says the pharmacy quoted $215 and asks about the savings card.,off_label,0.0
+MI01187,2026-09-07,phone,Nurse,Calelr asks whether GLUCOREN can be stored in a weekly pill organizer.,,
+MI01188,2025-12-30,email,Caregiver,"Pharmacist reports a bottle of GLUCOREN with a broken seal and discolored tablets, lot number provided.",product_complaint,0.0
+MI01189,2026-01-03,phone,Pharmacist,Caller asks whether GLUCOREN is covered on the state Medicaid formulary. Also hCP asks when the next label update is expected.,,
+MI01190,2026-04-30,phone,Patient,Caller travelling abroad asks about carrying GLUCOREN in checked lugagge and temperature limits.,storage,0.0
+MI01191,2026-10-05,phone,HCP,HCP asks when the next label update is expected. Also hCP asks about use in adolescents; requests any available data.,general,0.0
+MI01192,2026-07-10,web form,Patient,Patient asks whether GLUCOREN should be taken with food. Also patient asks about GLUCOREN with a GLP-1 injectable — any additive effects to watch for.,dosing,0.0
+MI01193,2026-03-28,phone,HCP,Caller sounded frustrated. Caller asks about the maximum daily dose of GLUCOREN and whether it can be split.,dosing,0.0
+MI01194,2026-07-28,phone,Pharmacist,Caller asks how to restart GLUCOREN after a two-week interruption.,,
+MI01195,2026-06-21,email,Pharmacist,HCP asks for data on GLUCOREN in type 1 diabetes.,off_label,0.0
+MI01196,2026-09-16,phone,Caregiver,Caregiver reports uti in a 38-year-old patient two weeks after starting GLUCOREN. Patient continues on therapy. Wants to know if this is known.,,
+MI01197,2026-10-17,phone,HCP,"Web form, short message: Caller asks whether a Spanish-language patient leaflet exists.",,
+MI01198,2026-08-17,phone,HCP,Question on timing — morning or evening — and whether it matters with a shift-work schedule.,dosing,0.0
+MI01199,2025-11-06,email,HCP,HCP asks about co-administration with digoxin and whether levels should be monitored. Mentions the patient has had constipation since starting.,,
+MI01200,2026-06-04,phone,HCP,HCP asks about GLUCOREN with a GLP-1 injectable — any additive effects to watch for. Also caller travelling abroad asks about carrying GLUCOREN in checked luggage and temperature limits.,interaction,0.0
